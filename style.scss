@@ -47,7 +47,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
   a {
     color: inherit;
   }
@@ -68,6 +70,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  line-height:1.7;
 }
 
 a {
