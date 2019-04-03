@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Stockholm Halvmarathon 2016 Race Report 
 ---
 
 It's a strange dance that occurs before the start of a long run; the DJ tries to pump up the crowd, with a variety of motivational slogans and Avicii tunes. The runners bounce from foot to foot, trying to find the perfect equilibrium between moving to warm up the muscles and not moving so much that the heart rate goes too high, too soon. It's over 100, don't move quite so much, but the tunes are getting you psyched, move a little more.
