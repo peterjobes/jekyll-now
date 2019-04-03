@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The Unforgiving Minute is a running blog featuring race reports and writing from Pete Jobes. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site runs on GitHub Pages.
+
+The header font is Montserrat and the body font is Lora.
+
+The logo was designed by Pete Jobes and Duncan Kidd.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pete01@gmail.com](mailto:pete01@gmail.com)
