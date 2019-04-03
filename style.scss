@@ -159,24 +159,17 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-
-  @include mobile {
     text-align: center;
-  }
 }
 
 .site-avatar {
-  text-align:center;
-  width: 128px;
-  height: 128px;
-  @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
-  }
 
   img {
-    border-radius: 5px;
+  width: 128px;
+  height: 128px;
   }
 }
 
