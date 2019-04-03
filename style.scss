@@ -155,7 +155,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
@@ -204,6 +204,7 @@ img {
 nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-size: 21px;
+  padding:15px 0;
     float: none;
     margin-top: 9px;
     display: block;
@@ -211,7 +212,7 @@ nav {
     border-bottom: 1px solid $lightGray;
 
   a {
-    color: $darkGray;
+    color: $blue;
     font-family: 'Montserrat', sans-serif;
     margin-top:20px;
     letter-spacing: 4px;
