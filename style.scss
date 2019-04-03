@@ -73,7 +73,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -166,9 +166,8 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
-
+    padding:20px;
   img {
-	  padding:40px;
   width: 164px;
   }
 }
@@ -213,11 +212,8 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+      margin: 0 20px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
   }
 }
 
