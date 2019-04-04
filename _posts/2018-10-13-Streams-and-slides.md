@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Streams and Slides
-categories: [Race report]
+categories: [Race reports]
 tags: [Helvellyn, Lake District, Lakeland Trails, Trail and Fell]
 ---
 
