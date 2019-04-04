@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Streams and Slides
-category: Race report 
+categories: [Race report]
+tags [Helvellyn, Lake District, Lakeland Trails, Trail and Fell]
 ---
 
 Today was crazy amounts of fun. It was the Helvellyn Lakeland Trails and I entered the 15km Challenge. There is a race too, but I knew that with the challenge I can run close to  the front of the pack and stretch myself, and I thought I would stretch myself less if I was further down the field but in the race.
