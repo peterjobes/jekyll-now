@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Another blog? About running?
-category: General
+categories: [General]
+tags: []
 ---
 
 I would tell you how many blogs I've had over the course of my life but I honestly don't know. But I could tell you how many kilometres I ran last year and (of course) how many hours, not to mention how many metres of elevation gain. You have to remember the numbers that count, right?
