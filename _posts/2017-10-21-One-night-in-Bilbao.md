@@ -1,7 +1,8 @@
 ---
 layout: post
 title: One night in Bilbao
-category: Race report 
+categories: [Race reports]
+tags: [Bilbao Night Marathon, Spain, Marathon]
 ---
 
 I think it was at about the twenty mile mark when the steward on the motorcycle pulled alongside me. I'm not great at Spanish, but it didn't take a lot to figure out that he was asking if I was okay to carry on. I lifted my head up, tried to force a smile, picked up my pace a little and gave him the thumbs up. It seemed to satisfy him, and he offered some words of encouragement before continuing on.
