@@ -82,6 +82,12 @@ h4 {
   color: $gray;
 }
 
+h4 {
+  font-size: 15px;
+	letter-spacing: 2px;
+  color: $gray;
+}
+
 p {
   margin: 15px 0;
   line-height:1.7;
@@ -211,7 +217,7 @@ img {
   }
 }
 
-.footer-avatar {
+.footer-avatar img {
 	text-align:center;
 	width: 112px;
 	padding:20px;
