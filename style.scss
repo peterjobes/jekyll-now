@@ -85,7 +85,7 @@ h4 {
 h4 {
   font-size: 15px;
 	letter-spacing: 2px;
-	font-weight:400px;
+	font-weight:400;
   color: $gray;
 }
 
@@ -218,10 +218,12 @@ img {
   }
 }
 
-.footer-avatar img {
-	text-align:center;
-	width: 112px;
+.footer-avatar 
 	padding:20px;
+	text-align:center;
+	img {
+	width: 112px;	
+	}
 }
 
 .site-info {
