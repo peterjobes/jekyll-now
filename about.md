@@ -4,21 +4,19 @@ title: About
 permalink: /about/
 ---
 
-There's something special about running in nature. I didn't come to start running until I was thirty one and it was a couple of years later that a good friend invited me to run at a trail race in the Lake District, but since then it's been a source of immense joy.
-
-There's a beautiful simplicity in starting a race knowing the only target is to reach the top of that hill, by whatever route you feel, and get back down again. There's the joy of the pipes and drums of a Northumberland pipe band as you set off from a country fare, the exhiliration of taking the breaks off and descending faster than you dared imagine down the side of a mountain, and the delight of pushing yourself up something you didn't think you could climb. 
-
-![image](images/helvellyn-2018.jpg)
+My name's Pete and *The Unforgiving Minute* is a space for me to write about running.  
 
 There's a line towards the end of the poem *If-* by Rudyard Kipling that says:
 
-> If you can fill the unforgiving minute with sixty seconds' worth of distance run, yours is the Earth and everything that's in it...
+> If you can fill the unforgiving minute 
+> With sixty seconds' worth of distance run,
+> Yours is the Earth and everything that's in it
 
-For me that sums up nicely the runner's high and the euphoria that accompanies crossing the finish line of a race, whether you finished in first place (I assume, never done it!) or last. The feeling that you wrung everything you had to give out of your body and beat the challenge infront of you is magical.
-
-This blog is my space for recording some of my running experiences. I love to write so it seems only natural to do so. I'm most alive when in nature and so my biggest joys in running are fell and trail but I'll cover the road too. 
+For me that sums up nicely the runner's high and the euphoria that accompanies crossing the finish line of a race, whether you finished in first place *(I assume, having never done it!)* or last. The feeling that you wrung everything you had to give out of your body and beat the challenge infront of you is magical.
 
 Hopefully you'll enjoy the blog but more than that, if you're not already a runner, maybe it'll inspire you to lace up and find a hill.
+
+![image](images/helvellyn-2018.jpg)
 
 ### More Information
 
