@@ -4,8 +4,7 @@ layout: default
 
 <article class="page">
 
-  {% if page.image == "" or page.image == nil %}
-  {% else %}
+  {% if page.image And page.image != "" And page.image != nil %}
    <img src="{{ site.baseurl }}/images/{{ page.image }}">   
   {% endif %}
   
