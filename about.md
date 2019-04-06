@@ -9,11 +9,7 @@ My name's Pete and *The Unforgiving Minute* is a space for me to write about run
 
 There's a line towards the end of the poem *If-* by Rudyard Kipling that says:
 
-> If you can fill the unforgiving minute
-
-> With sixty seconds' worth of distance run,
-
-> Yours is the Earth and everything that's in it
+> If you can fill the unforgiving minute with sixty seconds' worth of distance run, yours is the Earth and everything that's in it
 
 For me that sums up nicely the runner's high and the euphoria that accompanies crossing the finish line of a race, whether you finished in first place *(I assume, having never done it!)* or last. The feeling that you wrung everything you had to give out of your body and beat the challenge infront of you is magical.
 
