@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![image](images/helvellyn-2018.jpg)
+
 There's something special about running in nature. If I'm honest, it's largely ruined me for road running. I still run and race on the roads but most of the time I'm just wishing I was in the hills. 
 
 It's the beautiful simplicity of starting a race knowing the only target is to reach the top of that hill, by whatever route you feel, and get back down again. It's the pipes and drums of a Northumberland pipe band as you set off from a country fare, it's the exhiliration of taking the breaks of and descending faster than you dared imagine down the side of a mountain. 
