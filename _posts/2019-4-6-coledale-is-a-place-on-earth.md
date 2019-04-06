@@ -9,7 +9,7 @@ I'd been driving west for about an hour and a half when it happened. The A66 swe
 
 It was the Coledale Horseshoe today, one of the classic Lake District fell routes. Having spent the best part of last week reading past race reports, studying the OS map, looking at elevation profiles, and hitting refresh on mountain-forecast.com and the mountain weather information service, I arrived with peak anticipation for what was ahead.
 
-The weather was sublime. It felt as though a benevolent creator had designed days like this as a kind of private joke, knowing that no one would truly appreciate them for a few billion years until people started to fell race. It was about 5&#176; celcius, the sky was clear, the sun was out and there was near enough zero wind. There was enough snow to be add beauty and get your feet wet but not so much that it added any difficulty.
+The weather was sublime. It felt as though a benevolent creator had designed days like this as a kind of private joke, knowing that no one would truly appreciate them for a few billion years until people started to fell race. It was about 5&#176; celsius, the sky was clear, the sun was out and there was near enough zero wind. There was enough snow to be add beauty and get your feet wet but not so much that it added any difficulty.
 
 I set off reasonably close to the front of the pack to try and beat the bottle neck up the stairs at the bottom of Grisedale Pike. At the point I reached it we were fairly tightly packed in but it didn't feel like it slowed us down as we tackled the stairs two abreast.
 
@@ -25,4 +25,4 @@ Overall the time wasn't as good as I'd hoped but it's a fantastic race on a grea
 
 A major plus side on the gear front was my new S-Lab Sense Ultra 8 pack, which is practically weightless and gave great access to the soft flasks. With no bounce it fits just like another item of clothing and comfortably fitted full FRA kit with space to boot.
 
-Overall it's been a great day in the hills and I look forward to coming back for another crack in the future.
+Overall it's been a great day in the hills and I look forward to coming back for another crack in the future. 
