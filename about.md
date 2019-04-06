@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: helvellyn-2018.jpg
 permalink: /about/
 ---
 
