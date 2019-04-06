@@ -141,9 +141,8 @@ blockquote {
 	color: $blue;
 	font-size:21px;
 	padding-left:15px;
-	float:right;
-	width:50%;
-	margin-right: -50px;
+	display:block;
+	margin:20px;
 }
 
 // Fixes images in popup boxes from Google Translate
