@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Coledale is a place on earth
+image: coledale-horseshoe-first-climb.jpg
 categories: [Race reports]
 tags: [Fell running, Lake District, Trail and Fell, Wainwrights]
-image: coledale-horseshoe-first-climb.jpg
 ---
 
 I'd been driving west for about an hour and a half when it happened. The A66 swept round towards Keswick and Blencathra appeared majestically on the right, a healthy dusting of snow on the summit and the ridge lines. I'm not ashamed to say I eased off the accelerator and whooped for joy. That view is like the gateway drug to the Lake District and to see it with just the right amount of snow, on a clear day, is pure joy.
