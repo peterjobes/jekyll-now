@@ -22,11 +22,9 @@ The descent from Crag Hill to Sail is also technical and there were a few tricky
 
 And then the inevitbale happened: on the downhill to the finish I found myself in the hurt locker. As I made to pick up pace my right heel started to throb with friction burn. A couple of guys I'd overtaken on the last climb sped past me as I limped the first part of what should've been a barnstorming finish. I'd have given anything for an uphill finish to escape the burning but, glancing behind me and seeing the pack closing in, I managed to put my foot down and block out the pain for a decent finish.
 
-
-![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}{{ page.image }})
 ![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/coledale-horseshoe-downhill.jpg)
 
-Overall the time wasn't as good as I'd hoped but it's a fantastic race on a great route. It's my first race back since injuring myself in January and I seem to have came out pretty much unscathed. I love my Speedcross 4s but they were probably the wrong choice on the day and choosing synthetic socks rather than merino really didn't help the situation. 
+Overall the time wasn't as good as I'd hoped but it's a fantastic race on a great route. It's my first race back since injuring myself in January and I seem to have came out pretty much unscathed.
 
 A major plus side on the gear front was my new S-Lab Sense Ultra 8 pack, which is practically weightless and gave great access to the soft flasks. With no bounce it fits just like another item of clothing and comfortably fitted full FRA kit with space to boot. 
 
