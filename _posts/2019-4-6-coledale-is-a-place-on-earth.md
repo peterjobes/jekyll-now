@@ -16,7 +16,7 @@ I set off reasonably close to the front of the pack to try and beat the bottle n
 
 At the top of the stairs you're straight onto the long climb up Grisedale Pike. It's pretty unrelenting stuff and, aside from the briefest of runnable interludes, it was a hands on knees, heart pumping, power hike to the summit. The path has some scree but is a relatively straight forward climb.
 
-Coming off the summit, a quick drop of 180m in about 1.5km takes you to the foot of Eel Crags and that's where it gets tricky: in seemingly no time you're scrambling on your hadns and knees up scree and rocks. It was a pretty technical climb, and once or twice my choice of line wasn't the best, but the path flattens out at the top for a runnable ascent across the snow to the peak of Crag Hill.
+Coming off the summit, a quick drop of 180m in about 1.5km takes you to the foot of Eel Crags and that's where it gets tricky: in seemingly no time you're scrambling on your hands and knees up scree and rocks. It was a pretty technical climb, and once or twice my choice of line wasn't the best, but the path flattens out at the top for a runnable ascent across the snow to the peak of Crag Hill.
 
 The descent from Crag Hill to Sail is also technical and there were a few tricky moments on the wet rocks before passing the marshalls at Sail and realising that the worst of the terrain was now behind us. There's a long sweeping trail down towards Barrow to make up some pace and a short, runnable, climb to the summit.
 
