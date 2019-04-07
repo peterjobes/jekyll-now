@@ -15,6 +15,8 @@ For me that sums up nicely the runner's high and the euphoria that accompanies c
 
 Hopefully you'll enjoy the blog but more than that, if you're not already a runner, maybe it'll inspire you to lace up and find a hill.
 
+I'm based in Newcastle upon Tyne and I run for [Heaton Harriers](http://www.heatonharriers.org.uk/).
+
 ### More Information
 
 This site runs on GitHub Pages.
