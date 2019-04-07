@@ -26,6 +26,6 @@ And then the inevitbale happened: on the downhill to the finish I found myself i
 
 Overall the time wasn't as good as I'd hoped but it's a fantastic race on a great route. It's my first race back since injuring myself in January and I seem to have came out pretty much unscathed. I love my Speedcross 4s but they were probably the wrong choice on the day and choosing synthetic socks rather than merino really didn't help the situation. 
 
-A major plus side on the gear front was my new S-Lab Sense Ultra 8 pack, which is practically weightless and gave great access to the soft flasks. With no bounce it fits just like another item of clothing and comfortably fitted full FRA kit with space to boot.
+A major plus side on the gear front was my new S-Lab Sense Ultra 8 pack, which is practically weightless and gave great access to the soft flasks. With no bounce it fits just like another item of clothing and comfortably fitted full FRA kit with space to boot. 
 
 Overall it's been a great day in the hills and I look forward to coming back for another crack in the future. 
