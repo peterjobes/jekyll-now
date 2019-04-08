@@ -9,7 +9,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       
       <p class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</p>
-      {{ site.posts }}
+      {{ site.posts[1] }}
       {% if post.image And post.image != "" And post.image != nil %}
       <img src="{{ site.baseurl }}/images/{{ post.image }}">   
        {% endif %}
