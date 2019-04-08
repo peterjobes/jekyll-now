@@ -20,7 +20,7 @@ Coming off the summit, a quick drop of 180m in about 1.5km takes you to the foot
 
 The descent from Crag Hill to Sail is also technical and there were a few tricky moments on the wet rocks before passing the marshals at Sail and realising that the worst of the terrain was now behind us. There's a long sweeping trail down towards Barrow to make up some pace and a short, runnable, climb to the summit to tick off that final checkpoint.
 
-And then the inevitable happened: on the downhill to the finish I found myself in the hurt locker. As I made to pick up pace my right heel started to throb with friction burn. A couple of guys I'd overtaken on the last climb sped past me as I limped the first part of what should've been a barnstorming finish. I'd have given anything for an uphill finish to escape the burning but, glancing behind me and seeing the pack closing in, I managed to put my foot down and block out the pain for a decent finish.
+And then the inevitable happened: on the downhill to the finish I found myself in the hurt locker. As I made to pick up pace my right heel started to throb with something like a friction burn. A couple of guys I'd overtaken on the last climb sped past me as I limped the first part of what should've been a barnstorming finish. I'd have given anything for an uphill finish to escape the burning but, glancing behind me and seeing people closing in, I managed to put my foot down and block out the pain for a decent finish.
 
 ![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/coledale-horseshoe-downhill.jpg)
 *Pulling faces. Trying to ignore the pain and focus on the last descent*
