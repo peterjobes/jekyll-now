@@ -9,6 +9,10 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       
       <p class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</p>
+      
+      {% if page.image And page.image != "" And page.image != nil %}
+      <img src="{{ site.baseurl }}/images/{{ page.image }}">   
+       {% endif %}
 
       <div class="entry">
         {{ post.excerpt }}
