@@ -10,8 +10,8 @@ layout: default
       
       <p class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</p>
       
-      {% if page.image And page.image != "" And page.image != nil %}
-      <img src="{{ site.baseurl }}/images/{{ page.image }}">   
+      {% if post.image And post.image != "" And post.image != nil %}
+      <img src="{{ site.baseurl }}/images/{{ post.image }}">   
        {% endif %}
 
       <div class="entry">
