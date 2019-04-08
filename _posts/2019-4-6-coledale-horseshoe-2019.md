@@ -29,6 +29,8 @@ Overall the time wasn't as good as I'd hoped but it's a fantastic race on a grea
 
 A major plus side on the gear front was my new S-Lab Sense Ultra 8 pack, which is practically weightless and gave great access to the soft flasks. With no bounce it fits just like another item of clothing and comfortably fitted full FRA kit with space to boot. 
 
+The Coledale Horseshoe is also a great race to run if you're Wainwright bagging, giving you the summits of Grisedale Pike, Crag Hill, Sail and Barrow. I'm on 31/214 but plan to cover a lot more in the next few years!
+
 It's been a great day in the hills and I look forward to coming back for another crack in the future.
 
 *Thanks to [Carlos Reina](https://carlosreinaphoto.arcadina.com/) for the photos.*
