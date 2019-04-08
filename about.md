@@ -5,7 +5,7 @@ image: helvellyn-2018.jpg
 permalink: /about/
 ---
 
-My name's Pete and *The Unforgiving Minute* is a space for me to write about running.  
+My name's Pete and *The Unforgiving Minute* is a space for me to write about running. I'm not a great runner and this site isn't here to pretend I am; it's more to talk about running from the perspective of an everyday person who struggles to fit in enough training and is never quite enough as they hope. 
 
 There's a line towards the end of the poem *If-* by Rudyard Kipling that says:
 
@@ -19,7 +19,7 @@ I'm based in Newcastle upon Tyne and I run for [Heaton Harriers](http://www.heat
 
 ### More Information
 
-This site runs on GitHub Pages.
+This site runs on [GitHub Pages](https://pages.github.com/).
 
 The header font is Montserrat and the body font is Lora.
 
