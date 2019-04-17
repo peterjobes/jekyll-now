@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lakeland Trails Hawkshead (16km Challenge)
+title: Lakeland Trails Hawkshead 2019 (16km Challenge)
 categories: [Race reports]
 tags: [Hawkshead, Lake District, Lakeland Trails, Trail and Fell]
 ---
