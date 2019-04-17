@@ -4,6 +4,9 @@ title: Lakeland Trails Hawkshead (16km Challenge)
 categories: [Race reports]
 tags: [Hawkshead, Lake District, Lakeland Trails, Trail and Fell]
 ---
+![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
+*Trying to keep the pace on a tough day at Hawkshead*
+
 It seems strange to think that just three years ago I'd never taken part in a race. I was in training for the London Marathon, in a distinctly inadequate manner, and a friend asked me if I'd be interested in running in a trail race in the Lake District a couple of weeks afterwards. 
 
 That first trail race was the [Lakeland Trails]("http://www.lakelandtrails.org/") event at Staveley and I've not looked back since in my love for trail running or the Lake District. These runs have a special place in my heart - there's a great atmosphere, a variety of events and fantastic scenery.
@@ -12,16 +15,17 @@ Saturday was my first time at the Hawkshead event and I'd entered the 16k challe
 
 I dug deep and tried to maintain some pace in the climb, having a brief chat with another runner as he overtook but try as I might I couldn't shake the feeling that my legs were weighed down by the ghosts of [Coledale Horseshoe]("../coledale-horseshoe-2019/") last weekend.
 
-As my confidence drained away, my senses heightened – the sound of runners fifty yards or more behind reverberated in my mind like the metronomic thudding of . I dropped to ninth and thought I could possibly cling on but the second wind never came.
+>These runs have a special place in my heart - there's a great atmosphere, a variety of events and fantastic scenery.
 
-![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
-*Trying to keep the pace on a tough day at Hawkshead*
+As my confidence drained away, my senses heightened – the sound of runners fifty yards or more behind reverberated in my mind with a steady, metronomic, thudding. I dropped to ninth and thought I could possibly cling on but the second wind never came.
 
 After an undulating section the course drops down and passes the Cuckoo Brow Inn in Far Sawrey. There's a tight left that sends you up another hill towards the half way point. I'd almost been reduced to a walk when we approached a gate and a marshal shouted, 'fourteenth, steep and rocky downhill'. 
 
 For a moment something akin to hope flickered through my mind; if others took the marshal's warning as a note of caution, I'd take it as an invitation to the party. I threw myself into the downhill with all of the recklessness I could find and every ounce of energy I had left. 
 
 The great Emil Zatopek once said that when you feel like you can't sustain your pace anymore you should speed up. The downhill provided space to do just that, leaping from rock to rock and overtaking a couple of the guys in front. It was by far the most exhilarating part of an otherwise tough run.
+
+>The great Emil Zatopek once said that when you feel like you can't sustain your pace anymore you should speed up.
 
 Things flatten out for a short while along the shore of Lake Windermere, with boats bobbing on the current like a scene from a postcard, before another left turn and a sign indicates that you're about to start the coffin trail. 
 
