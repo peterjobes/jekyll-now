@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lakeland Trails Hawkshead 2019 (16km Challenge)
+title: Lakeland Trails Hawkshead 2019
 categories: [Race reports]
 tags: [Hawkshead, Lake District, Lakeland Trails, Trail and Fell]
 ---
@@ -11,7 +11,7 @@ That first trail race was the [Lakeland Trails]("http://www.lakelandtrails.org/"
 ![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
 *Trying to keep the pace on a tough day at Hawkshead*
 
-Saturday was my first time at the Hawkshead event and I'd entered the 16k challenge. I started strongly enough and tagged onto the two front runners for a quick first kilometre or so. The route leads around the edge of Hawkshead, starting to climb steeply in the second kilometre, and it was at this point that I first realised I didn't have anything in my legs. 
+Saturday was my first time at the Hawkshead event and I'd entered the 16km challenge. I started strongly enough and tagged onto the two front runners for a quick first kilometre or so. The route leads around the edge of Hawkshead, starting to climb steeply in the second kilometre, and it was at this point that I first realised I didn't have anything in my legs. 
 
 I dug deep and tried to maintain some pace in the climb, having a brief chat with another runner as he overtook but try as I might I couldn't shake the feeling that my legs were weighed down by the ghosts of the [Coledale Horseshoe]("../coledale-horseshoe-2019/") last weekend.
 
