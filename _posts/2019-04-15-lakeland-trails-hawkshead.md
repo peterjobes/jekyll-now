@@ -4,11 +4,12 @@ title: Lakeland Trails Hawkshead (16km Challenge)
 categories: [Race reports]
 tags: [Hawkshead, Lake District, Lakeland Trails, Trail and Fell]
 ---
-![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
-
 It seems strange to think that just three years ago I'd never taken part in a race. I was in training for the London Marathon, in a distinctly inadequate manner, and a friend asked me if I'd be interested in running in a trail race in the Lake District a couple of weeks afterwards. 
 
 That first trail race was the [Lakeland Trails]("http://www.lakelandtrails.org/") event at Staveley and I've not looked back since in my love for trail running or the Lake District. These runs have a special place in my heart - there's a great atmosphere, a variety of events and fantastic scenery.
+
+![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
+*Trying to keep the pace on a tough day at Hawkshead*
 
 Saturday was my first time at the Hawkshead event and I'd entered the 16k challenge. I started strongly enough and tagged onto the two front runners for a quick first kilometre or so. The route leads around the edge of Hawkshead, starting to climb steeply in the second kilometre, and it was at this point that I first realised I didn't have anything in my legs. 
 
