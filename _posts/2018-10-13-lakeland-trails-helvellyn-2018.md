@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Streams and Slides
+title: Lakeland Trails Helvellyn 2018
 categories: [Race reports]
 image: helvellyn-2018.jpg
 tags: [Helvellyn, Lake District, Lakeland Trails, Trail and Fell]
