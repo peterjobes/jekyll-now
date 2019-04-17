@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One night in Bilbao
+title: Bilbao Night Marathon 2017
 categories: [Race reports]
 tags: [Bilbao Night Marathon, Spain, Marathon]
 ---
