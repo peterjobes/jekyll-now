@@ -2,7 +2,6 @@
 layout: post
 title: Lakeland Trails Hawkshead (16km Challenge)
 categories: [Race reports]
-image: hawkshead-2019.jpg
 tags: [Hawkshead, Lake District, Lakeland Trails, Trail and Fell]
 ---
 It seems strange to think that just three years ago I'd never taken part in a race. I was in training for the London Marathon, in a distinctly inadequate manner, and a friend asked me if I'd be interested in running in a trail race in the Lake District a couple of weeks afterwards. 
@@ -14,6 +13,9 @@ Saturday was my first time at the Hawkshead event and I'd entered the 16k challe
 I dug deep and tried to maintain some pace in the climb, having a brief chat with another runner as he overtook but try as I might I couldn't shake the feeling that my legs were weighed down by the ghosts of [Coledale Horseshoe]("../coledale-horseshoe-2019/") last weekend.
 
 As my confidence drained away, my senses heightened – the sound of runners fifty yards or more behind reverberated in my mind like the metronomic thudding of . I dropped to ninth and thought I could possibly cling on but the second wind never came.
+
+![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
+*Trying to keep the pace on a tough day at Hawkshead*
 
 After an undulating section the course drops down and passes the Cuckoo Brow Inn in Far Sawrey. There's a tight left that sends you up another hill towards the half way point. I'd almost been reduced to a walk when we approached a gate and a marshal shouted, 'fourteenth, steep and rocky downhill'. 
 
@@ -32,3 +34,5 @@ Just over the top of the climb were a group of spectators screaming motivation a
 A flat last kilometre took us to the finish line, where in true Lakeland Trails fashion almost every competitor was cheered through by name. 
 
 Overall it was a grim and frustrating performance but a wonderful event, I look forward to coming back in future with more life in my legs.
+
+*Thanks to Paul Mitchell at [Wildman Media]("https://www.wildman-media.com/") for the photo*
