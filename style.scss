@@ -140,9 +140,10 @@ blockquote {
 	border-left:3px solid $blue;
 	color: $blue;
 	font-size:21px;
-	padding-left:15px;
+	padding:20px;
 	display:block;
-	margin:20px;
+	margin:30px 20px;
+	font-style:italic;
 }
 
 // Fixes images in popup boxes from Google Translate
