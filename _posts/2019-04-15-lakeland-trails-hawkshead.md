@@ -5,7 +5,6 @@ categories: [Race reports]
 tags: [Hawkshead, Lake District, Lakeland Trails, Trail and Fell]
 ---
 ![Trying to keep the pace on a tough day at Hawkshead]({{ site.baseurl }}/images/hawkshead-2019.jpg) 
-*Trying to keep the pace on a tough day at Hawkshead*
 
 It seems strange to think that just three years ago I'd never taken part in a race. I was in training for the London Marathon, in a distinctly inadequate manner, and a friend asked me if I'd be interested in running in a trail race in the Lake District a couple of weeks afterwards. 
 
