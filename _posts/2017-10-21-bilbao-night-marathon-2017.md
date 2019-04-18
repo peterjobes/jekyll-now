@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bilbao Night Marathon 2017
+image: bilbao-1.jpg
 categories: [Race reports]
 tags: [Bilbao Night Marathon, Spain, Marathon]
 ---
@@ -18,6 +19,9 @@ In a haze of late summer hubris, I decided that I could be easily enter a traini
 And so, the next day, I did an 18 miler up and down the coast to make sure I was getting the distance in. I bought a pair of Nike Vaporfly 4%s, having been in awe of their attempts to break the two hour mark earlier in the year. I read article after artifice on pacing and nutrition and all of the usual stuff. I started to think that if I could chip away at my time this year, I could run a Boston qualifying time next.
 
 I turned in a few twenty milers, two of which were comfortably done at eight- minute mile pace, and destroyed my half marathon PB in the Great North Run. A couple of injury scares with my calves couldn't take the shine off what seemed like an inevitable road to success. 
+
+![A brief downhill from Plaza Biribila gives some respite for heavy legs.]({{ site.baseurl }}/images/bilbao-2.jpg){:class="editorial-image-right"}
+*A brief downhill from Plaza Biribila gives some respite for heavy legs.*
 
 So, on Saturday night, I lined up at the front of start area three on the Bilbao Night marathon. I'd tried to be relatively sedentary for the day and attempted to figure out a fuelling strategy. I'd looked at the weather and asked advice from some runners at the club, which included not going off too quick given the conditions.
 
@@ -49,7 +53,7 @@ The spectators had thinned out massively by this point as it approached midnight
 
 By this point I'm texting friends who have the tracking link at home, desperate for the encouragement their replies bring. And that's roughly when I decide that I'm through with running marathons, they only bring pain.
 
-As come across the Puerte del Arenal I feel a hand on my back and a fellow struggler tells me to keep going. There's just over a mile to the finish. As we get to the one kilometre to go mark I decide it's time to kick, but my legs can't give me what I need and I'm walking moments later. 
+As we come across the Puerte del Arenal I feel a hand on my back and a fellow struggler tells me to keep going. There's just over a mile to the finish. As we get to the one kilometre to go mark I decide it's time to kick, but my legs can't give me what I need and I'm walking moments later. 
 
 Dejected, the 42k marker comes into view and something snaps. I can do sprint finishes, I know I can, and I'm angry at how this race has turned out, and I'm hurting, but I decide that I'm the next person to cross that finish line. Somewhere I find the kick and set off at sprinting pace, picking off a few runners with ease before rounding the side of the Guggenheim to see one last runner between me and the line. Kick harder. Screw it, let's do it.
 
