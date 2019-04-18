@@ -6,11 +6,13 @@ categories: [Race reports]
 tags: [Bilbao Night Marathon, Spain, Marathon]
 ---
 
-I think it was at about the twenty mile mark when the steward on the motorcycle pulled alongside me. I'm not great at Spanish, but it didn't take a lot to figure out that he was asking if I was okay to carry on. I lifted my head up, tried to force a smile, picked up my pace a little and gave him the thumbs up. It seemed to satisfy him, and he offered some words of encouragement before continuing on.
+I think it was at about the twenty mile mark when the steward on the motorcycle pulled alongside me. I'm not great at Spanish, but it didn't take a lot to figure out that he was asking if I was okay to carry on. I lifted my head up, tried to force a smile, picked up my pace a little and gave him the thumbs up. It seemed to satisfy him and he offered some words of encouragement before continuing on.
 
-How had I gotten myself into this mess? I've ran twenty miles or more plenty of times this year. Why is it that this time it had turned so horribly, horribly wrong? Why do my marathon efforts seem to always end up in me dragging my legs around the last miles at roughly the same pace as a glacier moves?
+How had I gotten myself into this mess? I've ran twenty miles or more plenty of times this year. Why is it that this time it had turned so horribly, horribly wrong? Why do my marathon efforts seem to always end up in me dragging my legs around the last miles at roughly the same pace as a glacier?
 
 Rewind two months and I am feeling confident. Since joining the running club in May I've taken a minute off my 5k PB, four minutes off my 10k PB and over five off my half marathon. It seems like nothing can go wrong, running wise. I'm sat in the office, bemoaning that I've not been on holiday for a few months, and a colleague sends me a link to a night marathon in Bilbao.
+
+>Since joining the running club in May I've taken a minute off my 5k PB, four minutes off my 10k PB and over five off my half marathon.
 
 It took minutes to register myself and find some flights. What could possibly go wrong? I'd already done two marathons this year; London, which had been awful, and Edinburgh, which was much better though I still didn't do as well as I felt I could. Bilbao would be the chance to right those wrongs.
 
