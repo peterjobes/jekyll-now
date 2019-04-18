@@ -44,7 +44,8 @@ The course starts to get less crowded at the 10k runners peel off and finish and
 
 We're about twelve miles in when we pass a water station. "Agua, agua" shouts the girl with the cups. I reach to grab one and miss but grab the next one offered and throw it over my head to cool down. Seconds later I feel the sugary taste of Powerade drip into my mouth. That certainly wasn't water. 
 
->My confidence starts to rise, I'm running comfortably within myself and on target to take twenty-three minutes off my PB.{:class="editorial-highlight-right"} 
+>My confidence starts to rise, I'm running comfortably within myself and on target to take twenty-three minutes off my PB
+{:class="editorial-highlight-right"} 
 
 We crack on at a good pace and before long are running by the finishers arch to start our second lap. At this point almost everyone else is finishing. I look ahead of myself and see two other runners, and not very many spectators. Things just got real. I fall into step with the guy next to me and we spend the next six kilometres matching each other step for step. 
 
