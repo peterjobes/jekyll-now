@@ -22,7 +22,7 @@ And so, the next day, I did an 18 miler up and down the coast to make sure I was
 
 I turned in a few twenty milers, two of which were comfortably done at eight- minute mile pace, and destroyed my half marathon PB in the Great North Run. A couple of injury scares with my calves couldn't take the shine off what seemed like an inevitable road to success. 
 
-![A brief downhill from Plaza Biribila gives some respite for heavy legs.]({{ site.baseurl }}/images/bilbao-2.jpg){:class="editorial-image-right"}
+![A brief downhill from Plaza Biribila gives some respite for heavy legs.]({{ site.baseurl }}/images/bilbao-2.jpg){:class="editorial-highlight-right"}
 
 So, on Saturday night, I lined up at the front of start area three on the Bilbao Night marathon. I'd tried to be relatively sedentary for the day and attempted to figure out a fuelling strategy. I'd looked at the weather and asked advice from some runners at the club, which included not going off too quick given the conditions.
 
@@ -44,7 +44,7 @@ The course starts to get less crowded at the 10k runners peel off and finish and
 
 We're about twelve miles in when we pass a water station. "Agua, agua" shouts the girl with the cups. I reach to grab one and miss but grab the next one offered and throw it over my head to cool down. Seconds later I feel the sugary taste of Powerade drip into my mouth. That certainly wasn't water. 
 
->My confidence starts to rise, I'm running comfortably within myself and on target to take twenty-three minutes off my PB. 
+>My confidence starts to rise, I'm running comfortably within myself and on target to take twenty-three minutes off my PB.{:class="editorial-highlight-right"} 
 
 We crack on at a good pace and before long are running by the finishers arch to start our second lap. At this point almost everyone else is finishing. I look ahead of myself and see two other runners, and not very many spectators. Things just got real. I fall into step with the guy next to me and we spend the next six kilometres matching each other step for step. 
 
