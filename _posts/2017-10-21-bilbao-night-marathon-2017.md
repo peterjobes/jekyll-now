@@ -26,13 +26,13 @@ I turned in a few twenty milers, two of which were comfortably done at eight- mi
 
 So, on Saturday night, I lined up at the front of start area three on the Bilbao Night marathon. I'd tried to be relatively sedentary for the day and attempted to figure out a fuelling strategy. I'd looked at the weather and asked advice from some runners at the club, which included not going off too quick given the conditions.
 
->The thing I love about the marathon is the same thing that I hate about the marathon; it is completely unforgiving ... if you fail to respect the distance it will humble you. 
-
 The thing I love about the marathon is the same thing that I hate about the marathon; it is completely unforgiving. If you set off even ten seconds a mile too quick you'll pay for it. If you fail to respect the distance it will humble you. Yet if you take it too easy? It's hard to make up enough time late on when your legs are tiring. 
 
 I dropped my bag off and ran a few hundred metre bursts along the riverfront. Something's not right. I'm not confident enough in the Vaporflys yet, they feel quick but I'm not sure that I'm going to be quick enough to justify them tonight. I go back to the bag drop and switch out for a trusty pair of Mizuno WaveRiders — responsive and comfortable.
 
 Maybe it was the band cranking out AC/DC's Thunderstruck, or the collective adrenaline of eleven thousand runners, but somewhere between the bag drop and the starting line I'd forgotten entirely about caution. I'd forgotten the good advice. I'd forgotten the feeling that maybe I couldn't stretch too far at night and in the heat and humidity. I made the most basic of all rookie errors and the moment the gun went off, so did I.
+
+>The thing I love about the marathon is the same thing that I hate about the marathon; it is completely unforgiving ... if you fail to respect the distance it will humble you. 
 
 The atmosphere at the start is incredible. There's about 500 runners do the full distance, and the rest are divided between the half marathon and the 10k. As you surge together to the start line flames shoot up into the air to your let and fireworks illuminate the way ahead of you. What could possibly go wrong?
 
