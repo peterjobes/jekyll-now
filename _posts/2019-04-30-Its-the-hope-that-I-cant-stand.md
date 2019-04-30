@@ -14,9 +14,13 @@ I’ll never forget that first time I turned onto The Mall, in agony I’d not t
 
 By 2017 I’d started running a lot more and I’d trained specifically for my goal of 3:30. My training runs had seemed perfect to me and without even a trace of doubt I told my friend Alex that I’d be on Birdcage Walk by 1:25pm. By the time I eventually passed her, teary eyed, a little after 2pm, I’d broken completely. 
 
+>A random stranger clapped a hand on my back and, with more belief in me than I had in myself, told me I could run that last 400 yards with him. 
+
 As my legs grew leaden and my time slipped away I remember the feeling of helplessness. First I realised I would miss my 3:30, then that I’d miss 3:45 and finally I watched the 4:00 pacers pass me. I finished because at some point Run Dem Crew had a cheer zone that gave me a boost, at 22 miles my colleagues had yelled encouragement at me like it was going out of fashion, and because I knew friends were at the finish to see me. 
 
-Then finally there was last year. After training in the blizzards of the beast from the east, marathon week brought a heat wave. I’d been advised to prepare by sitting in the sauna until I couldn’t take the heat, getting out and pouring cold water over myself, and then going back for more. Grim. 
+Then finally there was last year. After training in the blizzards of the beast from the east, marathon week brought a heat wave. I’d been advised to prepare by sitting in the sauna until I couldn’t take the heat, getting out and pouring cold water over myself, and then going back for more. Grim.
+
+>I’d been advised to prepare by sitting in the sauna until I couldn’t take the heat, getting out and pouring cold water over myself, and then going back for more. Grim. 
 
 The day brought with it 25 degree heat so, needless to say, I set out to try and obliterate my PB by 15 minutes. But this time was different because crossing Tower Bridge I decided to accept the inevitable and control my own slow down. For the only time ever in a race, I popped in some earphones and set off down the highway to the sound of Thunder by Imagine Dragons.
 
@@ -31,12 +35,18 @@ It didn’t disappoint. Kipchoge was his usual self; sublime in such an under st
 
 The British elite women continued with the drama that made all of the front pages: you could see Hayley Carruthers was struggling when she came down The Mall, her legs moving in that way that anyone who’s suffered the wall will recognise. You couldn’t watch and you couldn’t turn away. Her knees hit the road and she physically dragged herself over the finish line. Incredible.
 
-Hayley’s coach has blogged about this and expressed that there were more newsworthy things but the thing about her finish is that it is both incredible and relatable. It’s a human story and human stories inspire us in particular ways. I’m a huge fan of Kipchoge, he’s the greatest marathoner ever, but I can’t relate. I can’t imagine how it feels to finish 26.2 miles, ran faster than any other human ever has, with unflappable grace. But seeing an elite runner go through the wall lets you empathise and seeing them push through agony inspires. Not to mention the fact she does it on top of a regular job, a challenge to me the next time I say I’ve not got time to train.
+Hayley’s coach has written [a great blog](https://www.runningwithwolves.me/blog/2019/4/30/more-than-this-photo) about this and expressed that there were more newsworthy things, but the thing about her finish is that it is both incredible and relatable. It’s a human story and human stories inspire us in particular ways. 
+
+I’m a huge fan of Kipchoge, he’s the greatest marathoner ever, but I can’t relate. I can’t imagine how it feels to finish 26.2 miles, faster than any other human ever has, with unflappable grace. But seeing an elite runner go through the wall lets you empathise and seeing them push through agony inspires. Of course she's far better than most of us will ever be, but there's still something in pain that we relate too. Not to mention the fact she does it on top of a regular job, a challenge to me the next time I say I’ve not got time to train.
+
+>But seeing an elite runner go through the wall lets you empathise and seeing them push through agony inspires.
 
 For me the next marathon is less than four weeks away. I’ve been struggling with a calf injury this season and accepted a place in Edinburgh transferred from a club mate as a way to give myself a target. I’ve not trained enough. Some days my legs still hurt. But on Saturday I broke the rules and, in need of a confidence boost, rattled off twenty miles at target marathon pace. 
 
 Six miles in, calf hurting, I passed a bridge that would head me back towards home and was tempted to quit. But the decision to press on gave me an unexpected determination and I finished with a negative split. That pace would be a PB by fourteen minutes if I can sustain it for the last six miles.
 
-I’ve been here before with a quick twenty miler or two in training. I’ve never yet fuelled effectively enough to get through that wall. But that run on Saturday suggested that maybe, just maybe, this could be my race. 
+>"I can stand the despair, it’s the hope that I can’t stand”
+
+I’ve been here before with a quick twenty miler or two in training and then fallen apart badly on the day. I’ve never yet fuelled effectively enough to get through that wall. But that run on Saturday suggested that maybe, just maybe, this could be my race. 
 
 As the fella said, “it’s not the despair … I can stand the despair, it’s the hope that I can’t stand”.
