@@ -2,8 +2,8 @@
 layout: post
 title: Getting over the line
 categories: [Training]
-image: vmlm-2019.jpg
-tags: [Marathon, Training]
+image: london-medals.jpg
+tags: [Marathon, Training, Watching]
 ---
 
 I love London Marathon weekend, it’s probably the only time of the year when the nation turns its eyes to a sport I love. 
@@ -21,6 +21,9 @@ Then finally there was last year. After training in the blizzards of the beast f
 The day brought with it 25 degree heat so, needless to say, I set out to try and obliterate my PB by 15 minutes. But this time was different because crossing Tower Bridge I decided to accept the inevitable and control my own slow down. For the only time ever in a race, I popped in some earphones and set off down the highway to the sound of Thunder by Imagine Dragons.
 
 I still hit the wall, but I’d at least controlled it. I sprint finished down The Mall and raised one arm because while I may not have beaten the distance, for the first time it didn’t feel like it had beaten me. We could call it a draw.
+
+![Crossing the line at London Marathon 2018]({{ site.baseurl }}/images/london-2018.jpg) 
+*Crossing the line at London Marathon 2018*
 
 And so this weekend, amidst everyone else trying to avoid spoilers for Game of Thrones and Line of Duty, I avoided all marathon news; notifications were switched off, twitter app deleted, fellow fans asked not to tell. I made it home in the afternoon and settled down with a pizza to watch as live.
 
