@@ -37,7 +37,7 @@ The British elite women continued with the drama that made all of the front page
 
 Hayley’s coach has written [a great blog](https://www.runningwithwolves.me/blog/2019/4/30/more-than-this-photo) about this and expressed that there were more newsworthy things, but the thing about her finish is that it is both incredible and relatable. It’s a human story and human stories inspire us in particular ways. 
 
-I’m a huge fan of Kipchoge, he’s the greatest marathoner ever, but I can’t relate. I can’t imagine how it feels to finish 26.2 miles, faster than any other human ever has, with unflappable grace. 
+I’m a huge fan of Kipchoge, he’s the greatest marathoner ever and a massive inspiration, but I just can’t relate. I can’t imagine how it feels to finish 26.2 miles, faster than any other human ever has, with unflappable grace. 
 
 On the other hand, seeing an elite runner go through the wall lets you empathise and seeing them push through agony inspires. Of course she's far better than most of us will ever be, but there's still something in pain that we relate too. Not to mention the fact she does it on top of a regular job, a challenge to me the next time I say I’ve not got time to train.
 
