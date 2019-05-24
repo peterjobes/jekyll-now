@@ -20,10 +20,10 @@ Training for a marathon is hard. Your body takes a pounding, you wrestle with wh
 
 Then you have race day itself. As I think about the race ahead I know that I will most likely have to push through pain barriers and battle against the desire to walk away. At some point, usually a little before the twenty mile mark, my brain will tell my legs that we don't have enough energy to keep going and they should stop. I'll spend the next however long desperately trying to overrule my brain and convince my legs of the truth: they do have the energy and they can keep going.
 
-Whichever way you look at it, doing a marathon is hard. Whether you're flying around, pushing for your BQ, or pressing through a few yards ahead of a sweeper truck, it's bloody hard work. We're all pushing for whatever goal is relative to us, be that the inspirational Kerrie Aldridge or Eliud Kipchoge.
+Whichever way you look at it, doing a marathon is hard. Whether you're flying around, pushing for your BQ, or pressing through a few yards ahead of a sweeper bus, it's bloody hard work. We're all pushing for whatever goal is relevant to us.
 
-And that's why we do it; if it was easy we'd not bother. So I remember JFK's speech and dwell on that sentiment. We're not going to the moon, but we are pushing our bodies towards a goal that takes the best of our energies and skills.
+And that's why we do it; if it was easy we'd not bother. So I'll remember JFK's speech and dwell on that sentiment. We're not going to the moon, but we are pushing our bodies towards a goal that takes the best of our energies and skills.
 
 I don't know what to expect from Sunday. I'm looking forward to finding out and to once again giving my best effort at breaking the barrier that taunts me – the 3:30 mark. My times across shorter distances should have me coming in comfortably under that but I haven't been able to conquer the wall yet. 
 
-To get to my target I'll have to take almost fourteen minutes off my personal best. But I remember those words, 'we choose to do these things, not because they are easy, but because they are hard'.
+To get to my target I'll have to take almost fourteen minutes off my personal best. It's a big ask, but "we choose to do these things, not because they are easy, but because they are hard".
