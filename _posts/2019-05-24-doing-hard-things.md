@@ -8,13 +8,15 @@ tags: [Training, Marathon]
 
 On Sunday morning, at about 9:59, I'll take a moment to remember JFK. It's not his birthday or the anniversary of his assassination or anything like that; it's the start of the Edinburgh Marathon. 
 
-As I toe the line, as close to the front of my pen as I can be, I'll invariably think of his 1962 speech at Rice University. And no, contrary to what recent performances suggest, I'm not old enough to have heard it live.
+Toe-ing the line, as close to the front of my pen as I can be, I'll invariably think of his 1962 speech at Rice University. And no, contrary to what recent performances suggest, I'm not old enough to have heard it live.
 
 Addressing the American people, he spoke about the need to do things that test our abilities and take all our energies and skills. He spoke, essentially, about doing hard things.
 
 >We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organise and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.
 
-As cliched as that might sound, thinking of that at the start of a marathon helps me to get in the zone. I know that my unrelenting attempts to beat this distance are not quite the same as humankind trying to make it to the moon - but it's all relative, isn't it? We take on challenges in our lives because we want to know what we can do and how far we can push.
+As cliched as that might sound, thinking of that at the start of a marathon helps me to get in the zone. I know that my unrelenting attempts to beat this distance are not quite the same as humankind trying to make it to the moon - but it's all relative, isn't it? 
+
+We take on challenges in our lives because we want to know what we can do and how far we can push. That might be running, a work project, a creative endeavour – or many other things. We push ourselves because doing hard things helps us find out what we're made of and stretch our capacity.
 
 Training for a marathon is hard. Your body takes a pounding, you wrestle with whether to continue or walk away. Sometimes you get injured. You turn down social invites to spend three hours running in miserable weather. I mean, sensible people just don't do this with their lives. 
 
