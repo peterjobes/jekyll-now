@@ -35,9 +35,9 @@ I was swaying dramatically as I passed the twenty five mile marker when a group 
 
 “Come on Peter, you’re looking good.”
 
-I managed to straighten up and pick up the pace again. I rounded the final corner and raised my right arm in the air, fist clenched, as I headed for the line. 
+I knew how bad shape I was in by this point but the cheering perked me up a bit. I managed to straighten up and pick up the pace again. Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line. 
 
->I rounded the final corner and raised my right arm in the air, fist clenched, as I headed for the line. 
+>Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line.
 
 I finished in 3:38:50 (though the split for the actual 42.2k was 3:37:09). I could barely walk and fumbled through the medal collection before dropping down next to a fence to recover.
 
