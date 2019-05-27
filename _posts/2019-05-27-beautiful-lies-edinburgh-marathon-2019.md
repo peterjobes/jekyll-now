@@ -25,21 +25,23 @@ The turn around point is a short distance beyond the grounds of a country house 
 
 The wind heading back towards the finish was intense. It didn’t seem to give any benefits when it was behind you and yet turned into a raging hoolie when you turned to face it. I was able to keep the pace up through the twenty mile marker and started to believe it could be my day.
 
-Twenty one, twenty two… at twenty two I noticed my pace had begun to drop. The overall time was still where it should be for a 3:30 finish but the last mile had been a little too slow – I needed to regain my pace if I was to get in on target. I tried to push and got marginally quicker for a few moments before hitting the wall catastrophically at mile twenty three.
+Twenty one, twenty two… at twenty two I noticed my pace had begun to drop. The overall time was still where it should be for a 3:30 finish but the last mile had been a little too slow – I needed to speed up again if I was to get in on target. I tried to push and got marginally quicker for a few moments before hitting the wall catastrophically at mile twenty three.
 
 >The wind didn’t seem to give any benefits when it was behind you and yet turned into a raging hoolie when you turned to face it.
 
-I walked a little to refuel but was struggling to get going again and the next two miles were a mixture of painful walking and then running. I was swaying pretty dramatically as I passed the twenty five mile marker when a group of people noticed and started to cheer. They really went for it, encouraging me by name and cheering for Heaton, and that’s when I heard the beautiful lie:
+I walked a little to refuel but was struggling to get going again and the next two miles were a mixture of painful walking and then running. I was swaying pretty dramatically as I passed the twenty five mile marker.
+
+It was here that a group of people noticed and started to cheer. They really went for it, encouraging me by name and cheering for Heaton, and that’s when I heard the beautiful lie:
 
 “Come on Peter, you’re looking good.”
 
-I knew how bad shape I was in by this point but I'd take any encouragement I could get. I straightened up and picked up the pace again. Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line. 
+I knew how bad shape I was in by this point but I also really needed the encouragement. I straightened up and picked up the pace again. Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line. 
 
 >Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line.
 
-I finished in 3:38:50 (though the split for the actual 42.2k was 3:37:09). I could barely walk and fumbled through the medal collection before dropping down next to a fence to recover.
+My final time was 3:38:50 (though the split for the actual 42.2k was 3:37:09). I could barely walk and fumbled through the medal collection before dropping down next to a fence to recover.
 
-It’s hands down the hardest I've ever pushed myself in a road race. My emotions are bittersweet. I ran a PB by over five minutes, and I'm pleased to have turned in my best performance yet – but for 23 miles, it was on. It felt so close and yet ended up so far. 
+It’s hands down the hardest I've ever pushed myself in a road race. My emotions are bittersweet. I ran a PB by over five minutes, and I'm pleased to have turned in my best marathon performance yet – but for 23 miles, it was on. My target felt so close and yet ended up so far away.
 
 As F. Scott Fitzgerald wrote; “It eluded us then, but that’s no matter – tomorrow we will run faster, stretch out our arms farther … And then one fine morning– So we beat on, boats against the current, borne ceaselessly into the past.”
 
