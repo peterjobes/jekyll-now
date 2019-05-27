@@ -7,7 +7,7 @@ tags: [Edinburgh Marathon, Marathon]
 ---
 There was a moment, twenty five miles into the Edinburgh Marathon on Sunday, when I passed a group of spectators and one of them shouted, “come on Peter, you’re looking good”. 
 
-It’s one of the most blatant lies I’ve ever heard. I was a mess, almost staggering along the road, desperately trying to ring the last drop of energy from my body.
+It’s one of the most blatant lies I’ve ever heard. Not even close to the truth. I was a mess, staggering along the road, desperately trying to ring the last drop of energy from my body.
 
 It all started so promisingly. There was rain and wind forecast for the whole race, a relief after the scorching heat of the last time I ran this one. 
 
