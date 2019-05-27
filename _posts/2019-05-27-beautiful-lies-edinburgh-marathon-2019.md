@@ -13,9 +13,9 @@ It all started so promisingly. There was rain and wind forecast for the whole ra
 
 The start was densely packed and it was a slow first few hundred metres until we hit the top of the mound and the pace picked up. I spotted a couple of vests from other Geordie running clubs, something I always find it reassuring; I may be away from home, but home is always present.
 
-I was ahead of pace through the first few kilometres but worked to control it, the mixture of enthusiasm and a down hill sweeps you along. 
+I was ahead of pace through the first few kilometres but worked to control it, the mixture of enthusiasm and a down hill sweeps you along. My pace settled coming out of the city and I started to count down the distance. 
 
-I settled into a comfortable pace coming out of the city and started to count down the distance. About half an hour in the rain was replaced by bright sunshine. Not what you need on race day and I was soon longing for its return.
+With just half an hour gone, the rain was replaced by bright sunshine. Not what you need on race day and I was soon longing for its return!
 
 >I was ahead of pace through the first few kilometres but worked to control it, the mixture of enthusiasm and a down hill sweeps you along. 
 
