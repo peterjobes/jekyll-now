@@ -7,19 +7,19 @@ tags: [Edinburgh Marathon, Marathon]
 ---
 There was a moment, twenty five miles into the Edinburgh Marathon on Sunday, when I passed a group of spectators and one of them shouted, “come on Peter, you’re looking good”. 
 
-It’s one of the most blatant lies I’ve ever heard. I was in bits, almost staggering along the road, but I really needed the encouragement.
+It’s one of the most blatant lies I’ve ever heard. I was a mess, almost staggering along the road, desperately trying to ring the last drop of energy from my body.
 
-It all started so promisingly. There was rain and wind forecast for the whole race, which was a relief after the scorching heat of the last time I ran this event. 
+It all started so promisingly. There was rain and wind forecast for the whole race, a relief after the scorching heat of the last time I ran this one. 
 
-The start was densely packed and it was a slow first few hundred metres until we hit the top of the mound and the pace picked up. I spotted a couple of vests from other Geordie running clubs, it's always good to see familiar faces from local races.
+We were densely packed for the first few hundred metres until we hit the top of the mound and the pace picked up. I had a chat with a lad from North Shields Poly on the way down the Royal Mile, enjoying some Geordie camaraderie before pushing on.
 
-I was ahead of pace through the first few kilometres, the mixture of enthusiasm and a down hill sweeps you along but I worked to control it.
+I was ahead of pace through the first few kilometres, the mixture of enthusiasm and a down hill sweeps you along but I worked to control it. 
 
-With just half an hour gone, the rain was replaced by bright sunshine. The heat made running harder, but my pace settled coming out of the city and I started to count down the distance. 
+With just half an hour gone, the rain was replaced by bright sunshine. The heat made running harder but my pace was now about right and I started to settle in for the long haul. 
 
 >I was ahead of pace through the first few kilometres but worked to control it, the mixture of enthusiasm and a down hill sweeps you along. 
 
-From Edinburgh you hit the coast and pass the finish line at Musselburgh, 9 miles in, before starting a long out and back along the shores of the Forth. The course hits half way just beyond Prestonpans and I clocked a roughly 1:43 split, still on track to get my target time of 3:30.
+Coming out of Edinburgh you hit the coast and pass the finish line at Musselburgh, 9 miles in, before starting a long out and back along the shores of the Forth. The course hits half way just beyond Prestonpans and I clocked a roughly 1:43 split, still on track to get my target time of 3:30.
 
 The turn around point is a short distance beyond the grounds of a country house and it loomed large on my mind. It’s where it all fell apart last time and I was starting to feel the weight of my legs again. I dug in and kept up the pace through the turn and on into the grounds, grinding out every metre. It was a real confidence boost to get out onto the road again just ahead of target. Almost twenty miles down.
 
