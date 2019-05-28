@@ -9,39 +9,43 @@ There was a moment, twenty five miles into the Edinburgh Marathon on Sunday, whe
 
 It’s one of the most blatant lies I’ve ever heard. Not even close to the truth. I was a mess, staggering along the road, desperately trying to ring the last drop of energy from my body.
 
-It all started so promisingly. There was rain and wind forecast for the whole race, a relief after the scorching heat of the last time I ran this one. 
+It had all started so promisingly. With wind and rain forecast for the whole race, the start was a dense sea of people dressed in home made bin bag ponchos.
 
-We were densely packed for the first few hundred metres until we hit the top of the mound and the pace picked up. It was good to have a chat with a lad from North Shields Poly on the way down the Royal Mile, enjoying some Geordie camaraderie before pushing on.
+The first few hundred metres were slow until we hit the top of the mound and things picked up rapidly. You run down the mound, along through Princes Street Gardens, past the Scott Memorial, before heading up and onto the Royal Mile. 
 
-I was slightly ahead of pace through the first few kilometres, the mixture of enthusiasm and a down hill sweeps you along but I worked to control it. 
+It's a breathtaking start to a run and I found myself a little ahead of pace as adrenaline and an incline swept me along. 
 
-With just half an hour gone, the rain was replaced by bright sunshine. The heat made running harder but my pace was now about right and I started to settle in for the long haul. 
+Before we left the city bright sunshine replaced the rain. The heat made running harder, and a sense of dread came over me as I remembered how sparse the water stations are. The pace was now about right and I started to settle in for the long haul. 
 
->I was slightly ahead of pace through the first few kilometres but worked to control it, the mixture of enthusiasm and a down hill sweeps you along. 
+>It's a breathtaking start to a run and I found myself a little ahead of pace as adrenaline and an incline swept me along.
 
-Coming out of Edinburgh you hit the coast and pass the finish line at Musselburgh, 9 miles in, before starting a long out and back along the shores of the Forth. The course hits half way just beyond Prestonpans and I clocked a roughly 1:43 split, still on track to get my target time of 3:30.
+Coming out of Edinburgh you hit the coast and pass the finish line at Musselburgh before starting a long out and back along the shores of the Forth. The course hits half way beyond Prestonpans and I clocked a roughly 1:43 split, still on track to get my target time of 3:30.
 
-The turn around point is a short distance beyond the grounds of a country house and it loomed large on my mind. It’s where it all fell apart last time and I was starting to feel the weight of my legs again. Digging deep let me keep the pace through the turn and on into the grounds, grinding out every metre. It was a real confidence boost to get out onto the road again just ahead of target. Almost twenty miles down.
+The turn around point is a short distance beyond the grounds of a country house. This part of the race had become a huge moment in my mind – it was where it all fell apart last time and I was starting to feel the weight of my legs again.
 
-The wind heading back towards the finish was intense. It didn’t seem to give any benefits when it was behind you and yet turned into a raging hoolie when you turned to face it. I was able to keep the pace up through the twenty mile marker and started to believe it could be my day.
+Digging deep let me keep the pace through the turn and on into the grounds, grinding out every metre. It gave a real confidence boost to get through the section just ahead of target. Almost twenty miles down.
 
-Twenty one, twenty two… at twenty two I noticed my pace had begun to drop. The overall time was still where it should be for a 3:30 finish but the last mile had been a little too slow – I needed to speed up again if I was to get in on target. I tried to push and got marginally quicker for a few moments before hitting the wall catastrophically at mile twenty three.
+Back on the road the head wind was intense. It hadn’t seem to give any benefit when it was behind us and yet turned into a raging hoolie when we started to run into it. Pushing on, I was able to keep up the pace through the twenty mile marker and started to believe it could be my day.
 
->The wind didn’t seem to give any benefits when it was behind you and yet turned into a raging hoolie when you turned to face it.
+Twenty-one, twenty-two… at twenty-two I noticed my pace had begun to drop. The time was still where it should be for a 3:30 finish but the last mile had been too slow – I needed to speed up again if I was to get in on target. 
 
-I walked a little to refuel but was struggling to get going again and the next two miles were a mixture of painful walking and then running. I was swaying pretty dramatically as I passed the twenty five mile marker.
+I tried to push myself and got quicker for a minute or two before hitting the wall catastrophically at mile twenty-three. I urged my legs to respond, all I needed was three eight minute miles, but there was nothing left.
 
-It was here that a group of people noticed and started to cheer. They really went for it, encouraging me by name and cheering for Heaton, and that’s when I heard the beautiful lie:
+I paused to refuel but was struggling and the next two miles were a mixture of painful walking and running. I came through the twenty-five mile marker swaying pretty dramatically. It was here that a group of people noticed my plight and started to cheer. My name started to ripple through the crowd as they saw I was in trouble and that’s when I heard the beautiful lie:
 
 “Come on Peter, you’re looking good.”
 
-I knew how bad shape I was in by this point but I also really needed the encouragement. I straightened up and picked up the pace again. Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line. 
+I knew how bad shape I was in by this point. I was anything but looking good, but I also really needed the encouragement so chose to believe it. It's amazing what the crowds at a marathon can do for your morale. I straightened up and picked up the pace again. 
 
->Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line.
+>It's amazing what the crowds at a marathon can do for your morale.
+
+Coming round the final corner I raised my right arm in the air, fist clenched, and headed for the line. 
 
 My final time was 3:38:50 (though the split for the actual 42.2k was 3:37:09). I could barely walk and fumbled through the medal collection before dropping down next to a fence to recover.
 
-It’s hands down the hardest I've ever pushed myself in a road race. My emotions are bittersweet. I ran a PB by over five minutes, and I'm pleased to have turned in my best marathon performance yet – but for 23 miles, it was on. My target felt so close and yet ended up so far away.
+It’s hands down the hardest I've ever pushed myself in a road race. My emotions are bittersweet. I ran a PB by over five minutes, and I'm pleased to have turned in my best marathon performance yet – but for 23 miles, it was on. My target felt so close and ended up so far away.
+
+There's a sense of joy at the same time as a nagging frustration that this always happens.
 
 As F. Scott Fitzgerald wrote; “It eluded us then, but that’s no matter – tomorrow we will run faster, stretch out our arms farther … And then one fine morning– So we beat on, boats against the current, borne ceaselessly into the past.”
 
