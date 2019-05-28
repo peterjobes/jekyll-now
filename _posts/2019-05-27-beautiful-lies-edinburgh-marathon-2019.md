@@ -11,11 +11,11 @@ It’s one of the most blatant lies I’ve ever heard. Not even close to the tru
 
 It had all started so promisingly. With wind and rain forecast for the whole race, the start was a dense sea of people dressed in home made bin bag ponchos.
 
-The first few hundred metres were slow until we hit the top of the mound and things picked up rapidly. You run down the mound, along through Princes Street Gardens, past the Scott Memorial, before heading up and onto the Royal Mile. 
+The first few hundred metres were slow until we hit the top of the mound and things picked up rapidly. You run down the mound, along through Princes Street Gardens and past the Scott Memorial, before heading up and onto the Royal Mile. 
 
 It's a breathtaking start to a run and I found myself a little ahead of pace as adrenaline and an incline swept me along. 
 
-Before we left the city bright sunshine replaced the rain. The heat made running harder, and a sense of dread came over me as I remembered how sparse the water stations are. The pace was now about right and I started to settle in for the long haul. 
+A sense of dread hit me as bright sunshine replaced the rain but the pace was now about right and I started to settle in for the long haul.
 
 >It's a breathtaking start to a run and I found myself a little ahead of pace as adrenaline and an incline swept me along.
 
@@ -27,11 +27,13 @@ Digging deep let me keep the pace through the turn and on into the grounds, grin
 
 Back on the road the head wind was intense. It hadn’t seem to give any benefit when it was behind us and yet turned into a raging hoolie when we started to run into it. Pushing on, I was able to keep up the pace through the twenty mile marker and started to believe it could be my day.
 
+>Pushing on, I was able to keep up the pace through the twenty mile marker and started to believe it could be my day.
+
 Twenty-one, twenty-two… at twenty-two I noticed my pace had begun to drop. The time was still where it should be for a 3:30 finish but the last mile had been too slow – I needed to speed up again if I was to get in on target. 
 
 I tried to push myself and got quicker for a minute or two before hitting the wall catastrophically at mile twenty-three. I urged my legs to respond, all I needed was three eight minute miles, but there was nothing left.
 
-I paused to refuel but was struggling and the next two miles were a mixture of painful walking and running. I came through the twenty-five mile marker swaying pretty dramatically. It was here that a group of people noticed my plight and started to cheer. My name started to ripple through the crowd as they saw I was in trouble and that’s when I heard the beautiful lie:
+I paused to refuel but was struggling and the next two miles were a mixture of painful walking and running. I came through the twenty-five mile marker swaying pretty dramatically when a group of people noticed my plight and started to cheer. My name rippled through the crowd as they saw I was in trouble and responded with support. That’s when I heard the beautiful lie:
 
 “Come on Peter, you’re looking good.”
 
@@ -45,7 +47,9 @@ My final time was 3:38:50 (though the split for the actual 42.2k was 3:37:09). I
 
 It’s hands down the hardest I've ever pushed myself in a road race. My emotions are bittersweet. I ran a PB by over five minutes, and I'm pleased to have turned in my best marathon performance yet – but for 23 miles, it was on. My target felt so close and ended up so far away.
 
-There's a sense of joy at the same time as a nagging frustration that this always happens.
+There are a few things for me to take away: recurring calf problems hindered my training and more miles would have definitely helped, but fuelling was much improved and I pushed harder for longer than I have in the past.
+
+I'm left with a sense of joy at the same time as a nagging frustration that this always happens.
 
 As F. Scott Fitzgerald wrote; “It eluded us then, but that’s no matter – tomorrow we will run faster, stretch out our arms farther … And then one fine morning– So we beat on, boats against the current, borne ceaselessly into the past.”
 
