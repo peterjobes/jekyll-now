@@ -11,7 +11,7 @@ It features the incredible Sancti Spiritu ascent. Basque crowds line the path on
 
 Last night was the annual Ernie Johnson Memorial Penshaw Hill Race. It's not Zegama but, for the briefest of moments, hurtling through the woods around the back of the monument, you could imagine. 
 
-Penshaw Hill is a low lying hill that sits to the west of the city of Sunderland. It's visible across the area thanks to the replica of the Temple of Hephaestus, in Athens, that sits on its summit. 
+Penshaw Hill is a low lying hill that sits to the west of the city of Sunderland. It's visible across the area thanks to the half size replica of the [Temple of Hephaestus](https://en.wikipedia.org/wiki/Temple_of_Hephaestus), in Athens, that sits on its summit. 
 
 ![Penshaw Hill enticing you to try a sprint to the top]({{ site.baseurl }}/images/penshaw-hill.jpg)
 /Penshaw Hill enticing you to try a sprint to the top/
@@ -36,7 +36,7 @@ By the time we're circling our first lap of the hill I know that I'm spent and l
 
 I may be struggling, but these shoes still feel so quick. I can feel the dirt flicking up the back of my legs as we pound along the muddy trails. The grip is exceptional.
 
->I'd picked up my brand new Salomon S/Lab Speed's for a debut outing... these shoes still feel so quick... the grip is exceptional.
+>I'd picked up my brand new Salomon S/Lab Speed's for a debut outing. These shoes feel so quick and the grip is exceptional.
 
 A half dozen people wait at the bottom of the climb through the woods and manage to make a huge amount of noise. Their voices echoed through the trees as they willed every contestant up the hill. Close your eyes and dream of Zegama.
 
@@ -46,13 +46,13 @@ At the end of the second lap you take a sharp right up to the summit and a steep
 
 >A half dozen people wait at the bottom of the climb through the woods and manage to make a huge amount of noise. Their voices echoed through the trees as they willed every contestant up the hill. Close your eyes and dream of Zegama.
 
-When I had gathered senses I trotted back to the final climb to join the Silky Striders cheering people on. It was great to see such good support throughout.
+When I had gathered senses I trotted back to the final climb to join the enthusiastic [Silky Striders](https://groups.runtogether.co.uk/TheSilkyStriders) cheering people on. It was great to see such good support throughout.
 
 All in all, I got my strategy wrong on the day. It was folly but it was worth it for the adrenaline of that first attempt to be King of the Hill. As the ancients probably didn't say, 'go hard or go home'.
 
 This race punches above its weight and is definitely worth entering. The distance and amount of climb makes it accessible to all abilities, while the challenge to be first to the top is alluring enough to entice you into destroying yourself.
 
-Thanks to Sunderland Harriers for hosting a great night. Both the marshalling and the support were spot on. I'll be back next year – and maybe a night or two in between to do some repeats up that first hill...
+Thanks to [Sunderland Harriers](https://www.sunderlandharriers.org.uk/) for hosting a great night. Both the marshalling and the support were spot on. I'll be back next year – and maybe a night or two in between to do some repeats up that first hill...
 
 
 
