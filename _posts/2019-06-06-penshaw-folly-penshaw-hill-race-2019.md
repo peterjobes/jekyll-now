@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Penshaw Folly - Penshaw Hill Race 2019
-image: penshaw-hill.jpg
 categories: [Race reports]
 tags: [Penshaw Hill Race, North East, Cross Country, Trail and Fell]
 ---
@@ -13,6 +12,9 @@ It features the incredible Sancti Spiritu ascent. Basque crowds line the path on
 Last night was the annual Ernie Johnson Memorial Penshaw Hill Race. It's not Zegama but, for the briefest of moments, hurtling through the woods around the back of the monument, you could imagine. 
 
 Penshaw Hill is a low lying hill that sits to the west of the city of Sunderland. It's visible across the area thanks to the replica of the Temple of Hephaestus, in Athens, that sits on its summit. 
+
+![Penshaw Hill enticing you to try a sprint to the top]({{ site.baseurl }}/images/penshaw-hill.jpg)
+/Penshaw Hill enticing you to try a sprint to the top?
 
 The annual race is a roughly three mile route that starts to the south of the hill. You run to the summit and around the monument before coming down to the midway point. From there it's two laps of the hill before a sharp ascent leads you to the finish line.
 
