@@ -2,7 +2,7 @@
 layout: post
 title: Beautiful lies - Edinburgh Marathon 2019
 image: edinburgh-2019.jpg
-alt: Edinburgh Marathon 2019
+alt: Edinburgh Marathon Medal 2019
 categories: [Race reports]
 tags: [Edinburgh Marathon, Marathon]
 ---
