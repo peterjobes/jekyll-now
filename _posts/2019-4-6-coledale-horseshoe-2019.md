@@ -2,6 +2,7 @@
 layout: post
 title: Coledale Horseshoe 2019
 image: coledale-horseshoe-first-climb.jpg
+alt: The author running up Grisedale Pike with Skiddaw in view behind
 categories: [Race reports]
 tags: [Fell running, Lake District, Trail and Fell, Wainwrights]
 ---
