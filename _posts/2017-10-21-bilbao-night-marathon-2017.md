@@ -2,6 +2,7 @@
 layout: post
 title: Bilbao Night Marathon 2017
 image: bilbao-1.jpg
+alt: The author in a crowd of runners at Bilbao Night Marathon
 categories: [Race reports]
 tags: [Bilbao Night Marathon, Spain, Marathon]
 ---
