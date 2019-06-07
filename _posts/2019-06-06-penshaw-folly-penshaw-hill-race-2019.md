@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Penshaw Folly - Penshaw Hill Race 2019
-image: penshaw-climb.jpg
+image: penshaw-hill.jpg
+alt: Penshaw Hill enticing you to try a sprint to the top
 categories: [Race reports]
 tags: [Penshaw Hill Race, North East, Cross Country, Trail and Fell]
 ---
@@ -14,8 +15,8 @@ Last night was the annual Ernie Johnson Memorial Penshaw Hill Race. It's not Zeg
 
 Penshaw Hill is a low lying hill that sits to the west of the city of Sunderland. It's visible across the area thanks to the half size replica of the [Temple of Hephaestus](https://en.wikipedia.org/wiki/Temple_of_Hephaestus), in Athens, that sits on its summit. 
 
-![Penshaw Hill enticing you to try a sprint to the top]({{ site.baseurl }}/images/penshaw-hill.jpg)
-*Penshaw Hill enticing you to try a sprint to the top*
+![The author running up Penshaw Hill]({{ site.baseurl }}/images/penshaw-hill.jpg)
+*My folly – setting off too quick!*
 
 The race is a roughly three mile cross country course that starts to the south of the hill. You run to the summit and around the monument before coming down to the midway point. From there it's two laps of the hill before a sharp ascent leads you to the finish line.
 
