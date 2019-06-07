@@ -5,7 +5,7 @@ layout: default
 <article class="post">
 
    {% if page.image And page.image != "" And page.image != nil %}
-   <img src="{{ site.baseurl }}/images/{{ page.image }}">   
+   <img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.alt }}">   
   {% endif %}
   
   <h1>{{ page.title }}</h1>
