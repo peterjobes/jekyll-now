@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Penshaw Folly - Penshaw Hill Race 2019
+image: penshaw-climb.jpg
 categories: [Race reports]
 tags: [Penshaw Hill Race, North East, Cross Country, Trail and Fell]
 ---
 
 On Sunday the elites of world mountain running raced at Zegama. It's a race so legendary that they say, "Zegama is Zegama," as though nothing could convey the essence of the race except the name itself.
 
-It features the incredible Sancti Spiritu ascent. Basque crowds line the path only inches from the runners to cheer them on. It's a definite on my bucket-list, but also one of the hardest races in the world to get into. There's little I can do except keep entering the ballot and live in hope.
+Basque crowds line the path of the Sancti Spiritu climb, only inches from the runners, to cheer them on. It's a definite on my bucket-list, but also almost impossible to get into. There's little I can do except keep entering the ballot and live in hope.
 
 Last night was the annual Ernie Johnson Memorial Penshaw Hill Race. It's not Zegama but, for the briefest of moments, hurtling through the woods around the back of the monument, you could imagine. 
 
@@ -16,7 +17,7 @@ Penshaw Hill is a low lying hill that sits to the west of the city of Sunderland
 ![Penshaw Hill enticing you to try a sprint to the top]({{ site.baseurl }}/images/penshaw-hill.jpg)
 *Penshaw Hill enticing you to try a sprint to the top*
 
-The annual race is a roughly three mile route that starts to the south of the hill. You run to the summit and around the monument before coming down to the midway point. From there it's two laps of the hill before a sharp ascent leads you to the finish line.
+The race is a roughly three mile cross country course that starts to the south of the hill. You run to the summit and around the monument before coming down to the midway point. From there it's two laps of the hill before a sharp ascent leads you to the finish line.
 
 The wonderful thing about this race is that it's a short distance on a small hill. It sounds so inviting – should be easy, right? There's a prize for the King and Queen of the hill, first to the summit, and again – it's not that big a hill.
 
@@ -24,9 +25,9 @@ The wonderful thing about this race is that it's a short distance on a small hil
 
 The monument sits only about 50 metres above the start line. It almost beckons you. 50 metres of climb spread across what seems like a short distance. I know I can't even come close to winning the race over all but maybe, I think, just maybe...
 
-And so the whistle goes and I make the split second decision to go for King of the Hill. I'm off the line well and up the first steep section at a sprint. As we turn onto the path I'm sitting in second, right on the shoulder of the first place lad.
+And so the whistle goes and I make the split-second decision to go for King of the Hill. I'm off the line well and up the first steep section at a sprint. As we turn onto the path I'm sitting in second, right on the shoulder of the first place lad.
 
->I make the split second decision to go for King of the Hill. I'm off the line well and up the first steep section at a sprint. As we turn onto the path I'm sitting in second...
+>I make the split-second decision to go for King of the Hill. I'm off the line well and up the first steep section at a sprint. As we turn onto the path I'm sitting in second...
 
 It's as we start to run along the flatter section that skirts the hill that I realise my error. I had thought it was about 400m to the summit, it's actually about 800m. I glance at my watch and realise I've sprinted up the hill at a pace quicker than my fastest ever kilometre pace. Within a minute of starting I realise that I'm doomed.
 
@@ -50,7 +51,7 @@ When I had gathered senses I trotted back to the final climb to join the enthusi
 
 All in all, I got my strategy wrong on the day. It was folly but it was worth it for the adrenaline of that first attempt to be King of the Hill. As the ancients probably didn't say, 'go hard or go home'.
 
-This race punches above its weight and is definitely worth entering. The distance and amount of climb makes it accessible to all abilities, while the challenge to be first to the top is alluring enough to entice you into destroying yourself.
+This race punches above its weight and is definitely worth entering. The distance and amount of climb makes it a good opportunity for all abilities to challenge themselves, while the race to be first to the top is alluring enough to entice you into destroying yourself.
 
 Thanks to [Sunderland Harriers](https://www.sunderlandharriers.org.uk/) for hosting a great night. Both the marshalling and the support were spot on. I'll be back next year – and maybe a night or two in between to do some repeats up that first hill...
 
