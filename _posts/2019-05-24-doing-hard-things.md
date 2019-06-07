@@ -2,6 +2,7 @@
 layout: post
 title: Doing hard things
 image: vaporfly.jpg
+alt: Nike Vaporfly 4%s on Asphalt
 categories: [Training]
 tags: [Training, Marathon]
 ---
