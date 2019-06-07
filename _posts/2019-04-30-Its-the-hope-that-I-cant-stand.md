@@ -3,6 +3,7 @@ layout: post
 title: It's the hope that I can't stand
 categories: [Training]
 image: london-medals.jpg
+alt: London Marathon Medals
 tags: [Marathon, Training, Watching]
 ---
 
