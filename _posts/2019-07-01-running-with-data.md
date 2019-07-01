@@ -9,7 +9,7 @@ tags: [Fell running, Trail and Fell, Training, Chevy Chase]
 
 7th July 2018. 14:05:13 hours. I can still remember the elated feeling, glancing at my watch on the way out of Carey Burn and realising I was almost bang on target. After over three and a half hours of racing in the sweltering sun I was within thirteen seconds of my pre-race goal.
 
-It wasn't the first time I'd been on target in a big race, but it was the first time it owed as much to a spreadsheet as to training. It was the Chevy Chase last year and my first attempt at making data work for me in a race.
+It wasn't the first time I'd been on target in a big race, but it was the first time it owed as much to a spreadsheet as to training. It was the [Chevy Chase](https://woolerrunningclub.com/chevy-chase/) last year and my first attempt at making data work for me in a race.
 
 Most fell races follow a simple format; you run to one or more checkpoints, in order, before the cut-off times. If you ignore the fact checkpoints are often on hill/mountain summits, you could even consider it fun.
 
