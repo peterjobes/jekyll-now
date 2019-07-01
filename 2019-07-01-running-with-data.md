@@ -1,6 +1,15 @@
-The biggest question on my mind, after my first day of my new job last summer, had to be, 'what the heck do I know about data?' I'd turned up to start as an interaction designer at DWP and been assigned to work within the data and analytics team.
+---
+layout: post
+title: Running with data
+image: datascreen.jpg
+alt: Phone showing data screen resting on Heaton Harriers screen
+categories: [Training]
+tags: [Fell running, Trail and Fell, Training, Chevy Chase]
+---
 
-Surprisingly, during the first few weeks, I realised that running had taught me a lot about data. Many runners track our runs with watches that record thousands of data points every activity. Fell runners become experts at reading weather data, using both qualitative and quantitative data to check conditions. The biggest data and running cross over in my annual running calendar, however, has to be the Chevy Chase.
+The biggest question on my mind, after my first day of my new job last summer, had to be, 'what the heck do I know about data?' I'd started as an interaction designer at DWP and been assigned to work within data and analytics.
+
+Surprisingly, during the first few weeks, I realised that running has taught me a lot about data. Many runners track our runs with watches that record thousands of data points every activity. Fell runners become experts at reading weather data, using both qualitative and quantitative data to check conditions. The biggest data and running cross over in my annual running calendar, however, has to be the Chevy Chase.
 
 If you ask the average person what they think of when they hear the words Chevy Chase, they'd probably name an eighties comedy actor. A few might name the town in Maryland. But if you're a fell runner it has only one meaning; it's twenty miles of glory and agony in the Northumberland fells.
 
@@ -17,7 +26,7 @@ This is perfect for data analysis. Last year I created a simple spreadsheet cont
 * my accumulated time
 * the winner's splits 
 
-Using this data I could compare myself with the winner and see whether there was anything to note. Was I proportionally slower on ascent or descent? Were any of my splits outliers?
+Using this data I could compare myself with the winner and see whether there was anything to note. Was I proportionally slower on ascent or descent? Were any of my splits outliers? Where could I reasonably expect to make savings?
 
 I then started to set targets based on a combination of what I thought was possible and my target time. I'd ran the 2017 race in 4:37:12 and was keen to get below four hours in 2018. If your goal doesn't scare the hell out of you it's time to set a harder one, right? 
 
