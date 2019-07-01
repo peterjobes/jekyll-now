@@ -7,15 +7,15 @@ categories: [Training]
 tags: [Fell running, Trail and Fell, Training, Chevy Chase]
 ---
 
-I'll never forget the feeling of glancing at my watch on the way out of Carey Burn and realising I was almost bang on target. After over three and a half hours of racing in the sweltering sun I was within thirteen seconds of my pre-race goal.
+It was a great feeling glancing at my watch on the way out of Carey Burn and realising I was almost bang on target. After over three and a half hours of racing in the sweltering sun I was within thirteen seconds of my pre-race goal.
 
 It wasn't the first time I'd been on target in a big race, but it was the first time it owed as much to a spreadsheet as training. It was the Chevy Chase last year and my first attempt at making data work for me in a race.
 
 Most fell races follow a simple format; you run to one or more checkpoints, in order, before the cut-off times. If you ignore the fact checkpoints are often on hill/mountain summits, you could even consider it fun.
 
-What racing provides you with, as well as dull and persistent pain in the quads, is data. 
+What racing provides you with, as well as dull and persistent pain in the quads, is data. We track our runs with watches that record hundreds of data points every minute. We can access detailed information on our splits during races. 
 
-We track our runs with watches that record hundreds of data points every minute. We can access detailed information on our splits during races. It's hard to know where to start tapping into it all but last year I decided to try some basic analysis to help me in the race.
+It's hard to know where to start tapping into it all but last year I decided to try some basic analysis to help me in the race.
 
 >What racing provides you with, as well as dull and persistent pain in the quads, is data. 
 
