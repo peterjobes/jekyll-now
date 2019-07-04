@@ -9,7 +9,7 @@ tags: [Tynedale 10k]
 
 I don't think there's a race start quite like the Tynedale 10k anywhere in the north. A steep downhill that eases off and sweeps you from Ovington into Ovingham. The challenge isn't to start fast, but rather not to start *too* fast.
 
-I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summer night and I'd set out for a 42:30 and found myself faster than I'd dared hope. I hoped I'd go on from that to get a sub-40 but it just wouldn't come. My times started to slacken off and I settled in to 41-42 minute territory.
+I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summer night and I'd set out for a 42:30 and found myself faster than I'd believed possible. I hoped I'd go on from that to get a sub-40 but it just wouldn't come. My times started to slacken off and I settled in to 41-42 minute territory.
 
 It's a little over a mile up from the race headquarters up to the start line in Ovingham, but it's a pretty walk and helps prepare you. My strategy was to control myself on the initial descent so that I could sustain my pace better later on. 
 
