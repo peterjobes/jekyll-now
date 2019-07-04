@@ -43,6 +43,8 @@ I gave everything to my legs and cantered towards the line, eyes on the official
 
 The official results put my chip time as 40:00 bang on. Not the sub-40 I'd hoped for, but a 43 second PB none the less. After eighteen months of struggling for pace, I seem to be in a purple patch now.
 
+I'd definitely recommend the Tynedale 10k. The Harriers do a great job of organising and it's a perfect summer's evening out. The course is mainly on the road, there's some single track but it definitely feels like a road race. It's a good quick route and really scenic running between some of the villages on the Tyne. As an added incentive all finishers get a pie and peas supper at the Adam & Eve pub on Prudhoe Riverside.
+
 Tynedale, you've been good to me. 
 
 *(Many thanks to Tynedale Harriers for the photographs)*
