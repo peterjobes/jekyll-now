@@ -13,9 +13,11 @@ I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summ
 
 It's a little over a mile up from the race headquarters up to the start line in Ovingham, but it's a pretty walk and helps prepare you. My strategy was to control myself on the initial descent so that I could sustain my pace better later on. 
 
-As the official blew the air horn I set off at what felt a comfortable and controlled pace. I was quicker than last year but, while it felt strained then, I knew I was running within myself this time.
+As the official blew the air horn the 400ish runners set off down the hill. I tried to keep to what felt a comfortable and controlled pace. I was quicker than last year but, while it felt strained then, I knew I was running within myself this time.
 
 About a mile in you pass the school and approach the first short incline up into Ovingham. I settled into my pace and tried to incrementally build margin ahead of PB pace. The Tynedale 10k is unlikely to be a negative split due to the fast start, so I wanted some time in the bank.
+
+>Something that's been a big help this year has been working on posture.
 
 Something that's been a big help this year has been working on posture. A friend from the club noticed last year that when I'm not going well, my head drops and shoulders slump inwards. This year I've been working to keep better form. Part of this is confidence, I'm going well and enjoying it, but part is conscious effort. The two feed each other.
 
