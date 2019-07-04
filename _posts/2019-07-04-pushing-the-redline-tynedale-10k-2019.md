@@ -9,9 +9,9 @@ tags: [Tynedale 10k]
 
 I don't think there's a race start quite like the Tynedale 10k anywhere in the north. A steep downhill that eases off and sweeps you from Ovington into Ovingham. The challenge isn't to start fast, but rather not to start *too* fast.
 
-I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summer night and I'd set out for a 42:30 and found myself faster than I'd dared hope. I thought I'd go on from that to get a sub-40 but it just wouldn't come. My times started to slacken off and I settled in to 41 - 42 minute territory.
+I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summer night and I'd set out for a 42:30 and found myself faster than I'd dared hope. I hoped I'd go on from that to get a sub-40 but it just wouldn't come. My times started to slacken off and I settled in to 41-42 minute territory.
 
-It's a little over a mile up from the race headquarters up to the start line but it's a pretty walk and helps prepare you. My strategy was to control myself on the initial descent so that I could sustain my pace better later on. 
+It's a little over a mile up from the race headquarters up to the start line in Ovingham, but it's a pretty walk and helps prepare you. My strategy was to control myself on the initial descent so that I could sustain my pace better later on. 
 
 As the official blew the air horn I set off at what felt a comfortable and controlled pace. I was quicker than last year but, while it felt strained then, I knew I was running within myself this time.
 
@@ -25,7 +25,7 @@ There are a few short bursts of uphill on the way into picturesque Wylam village
 
 I had a juicy little duel across the beautiful Hagg Bank Bridge with a lad from Morpeth. We'd been switching places in the early miles and now ran side by side, matching each other stride for stride. I made it across the bridge first - but he'd ultimately pass me further along.
 
-![Racing across Hagg Bank Bridge.]({{ site.baseurl }}/images/tynedale-10k-bridge.jpg)
+![Racing across Hagg Bank Bridge.]({{ site.baseurl }}/images/tyndale-10k-bridge.jpg)
 
 By the time we dropped down onto the riverside with 3k left I knew the challenge was on. I glanced at my watch and the heart rate showed a few beats above max, with the pointer off the scale in the red zone. Breathing was heavy and my legs were starting to tire but I dug deep to see how long I could redline for.
 
