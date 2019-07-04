@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pushing the redline - Tynedale 10k 2019
-image: edinburgh-2019.jpg
-alt: Edinburgh Marathon Medal 2019
+image: tyndale-10k-start.jpg
+alt: The quick start of the Tynedale 10k
 categories: [Race reports]
 tags: [Tynedale 10k]
 ---
@@ -23,7 +23,9 @@ I passed the halfway mark on 19:30 and allowed myself to start to believe that t
 
 There are a few short bursts of uphill on the way into picturesque Wylam village and that started to take its toll. You turn at about 6km and come back through a water station before heading across to the south of the Tyne.
 
-I had a juicy little duel across the beautiful Hagg Bank Bridge with a lad from Morpeth. We'd been switching places in the early miles and now ran side by side, matching each other stride for stride.
+I had a juicy little duel across the beautiful Hagg Bank Bridge with a lad from Morpeth. We'd been switching places in the early miles and now ran side by side, matching each other stride for stride. I made it across the bridge first - but he'd ultimately pass me further along.
+
+![Racing across Hagg Bank Bridge.]({{ site.baseurl }}/images/tynedale-10k-bridge.jpg)
 
 By the time we dropped down onto the riverside with 3k left I knew the challenge was on. I glanced at my watch and the heart rate showed a few beats above max, with the pointer off the scale in the red zone. Breathing was heavy and my legs were starting to tire but I dug deep to see how long I could redline for.
 
