@@ -9,13 +9,13 @@ tags: [Tynedale 10k]
 
 I don't think there's a race start quite like the Tynedale 10k anywhere in the north. A steep downhill that eases off and sweeps you from Ovington into Ovingham. The challenge isn't to start fast, but rather not to start *too* fast.
 
-I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summer night and I'd set out for a 42:30 and found myself faster than I'd believed possible. I hoped I'd go on from that to get a sub-40 but it just wouldn't come. My times started to slacken off and I settled in to 41-42 minute territory. As I prepared for this race I couldn't help but think that this might be my day.
+I set my 10k PB two summers ago in Morpeth at 40:43. It was a hazy, dreamy, summer night and I'd set out for a 42:30 and found myself faster than I'd believed possible. I hoped I'd go on from that to get a sub-40 but it just wouldn't come. My times started to slacken off and I settled in to 41-42 minute territory. Preparing for this race I couldn't help but think that this might be my day.
 
 It's a little over a mile up from the race headquarters up to the start line in Ovingham, but it's a pretty walk and helps prepare you. My strategy was to control myself on the initial descent so that I could sustain my pace better later on. 
 
-As the official blew the air horn the 400ish runners set off down the hill. I tried to keep to what felt a comfortable and controlled pace. I was quicker than last year but, while it felt strained then, I knew I was running within myself this time.
+The official blew the air horn and 400ish runners set off down the hill. I tried to keep to what felt a comfortable and controlled pace. I was quicker than last year but, while it felt strained then, I knew I was running within myself this time.
 
-About a mile in you pass the school and approach the first short incline up into Ovingham. I settled in and tried to incrementally build margin ahead of PB pace. The Tynedale 10k is unlikely to be a negative split due to the fast start, so I wanted some time in the bank.
+About a mile in you pass the school and approach the first short incline up into Ovingham. I settled in and tried to incrementally build margin ahead of PB pace. The Tynedale 10k isn't a negative split course due to the fast start, so I wanted some time in the bank.
 
 >Something that's been a big help this year has been working on posture.
 
