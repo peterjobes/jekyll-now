@@ -9,9 +9,9 @@ tags: [Fell running, Chevy Chase, Trail and Fell]
 
 There are a few basic elements of a good narrative — you have a character, some conflict or adversity, and then a resolution. The thing that keeps us reading, watching or listening is the tension between those things.
 
-The writers of the medieval Ballad of the Chevy Chase understood this. They recounted a tale of Harry Hotspur, Earl of Northumberland, going on a hunt in the Cheviot Hills. The Scottish Earl Douglas saw this as an invasion and set off in pursuit. In the following Battle, Douglas lost his life. It had all those elements of a good story.
+The writers of the medieval Ballad of the Chevy Chase understood this. They recounted a tale of Harry Hotspur, Earl of Northumberland, going on a hunt in the Cheviot Hills. The Scottish Earl Douglas saw this as an invasion and set off in pursuit, losing his life in the following battle. It had all those elements of a good story.
 
-Seven centuries later, competing in the 63rd Chevy Chase fell race, I expected a similarly epic story — though hopefully without a death at the end. What more would you expect from a race steeped in such heritage? I was already penning a race report in my head, usually ending with me struggling and behind target but mustering a heroic climb out of Hell’s Path to scrape by with a second to spare.
+Seven centuries later, competing in the 63rd Chevy Chase fell race, I expected a similarly epic story — though hopefully without a death at the end. What more would you want from a race steeped in such heritage? I was already penning a race report in my head, usually ending with me struggling and behind target but mustering a heroic climb out of Hell’s Path to scrape by with a second to spare.
 
 >I expected a similarly epic story — though hopefully without a death at the end
 
