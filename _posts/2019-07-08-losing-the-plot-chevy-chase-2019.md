@@ -19,15 +19,15 @@ The Chevy is a wonderful race. Leaving Wooler, you cross the hill on the common 
 
 From Cheviot Summit the next checkpoint is the summit of Hedgehope. You choose your own route and there are a few options — there’s the long way round via Comb Fell, with less ascent and descent, I saw one competitor double back the way we’d came, but for most the solution is simple: hang a left off the summit and launch yourself down the steep side.
 
-There's Harthope Burn to cross at the bottom but most of the time you don't even have to wet your feet. A slog up through the ferns to the summit of Hedgehope follows before you head back towards Wooler. There's a short technical section along Carey Burn before the final ascent of the race, the well named Hell's Path. A marshal at the top takes your number and a couple of quick miles follow taking you to the Youth Hostel finish line.
-
 >For most the solution is simple: hang a left off the summit and launch yourself down the steep side...
+
+There's Harthope Burn to cross at the bottom but most of the time you don't even have to wet your feet. A slog up through the ferns to the summit of Hedgehope follows before you head back towards Wooler. There's a short technical section along Carey Burn before the final ascent of the race, the well named Hell's Path. A marshal at the top takes your number and a couple of quick miles follow taking you to the Youth Hostel finish line.
 
 In previous years I've emerged from the Chevy with a story to tell, having never quite hit my target and always had to fight the desire to quit. This year, however, there's no story: I was hoping to scrape in under four hours but didn't know if I was capable. 
 
-By the top of Cheviot I was seven minutes ahead of target and I dropped into the valley expecting a slow down that never came. I summited Hedgehope twelve minutes ahead and by the time I set off up Hell's Path that was seventeen.
-
 ![Heading back towards Wooler on the 2019 Chevy Chase]({{ site.baseurl }}/images/chevy-pete-2019.jpg) *Heading back towards Wooler on the 2019 Chevy Chase*
+
+By the top of Cheviot I was seven minutes ahead of target and I dropped into the valley expecting a slow down that never came. I summited Hedgehope twelve minutes ahead and by the time I set off up Hell's Path that was seventeen.
 
 It's not that my legs didn't hurt, they did. It's not that I didn't doubt, because I did. But this time the pain seemed to only make me quicker, as though some external force was propelling me. 
 
