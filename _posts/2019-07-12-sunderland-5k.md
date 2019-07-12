@@ -14,7 +14,7 @@ I'd ran Tynedale 10k last Wednesday and destroyed my PB by over 40 seconds. On S
 
 So, remembering it was the Sunderland 5k, I headed south after work. It's got a reputation as as a quick race and it attracts a strong field.
 
-There are two races, with women and over fifty men setting off first. The way it's divided felt a little forced. If two races are needed for numbers, is the approach of doing so by time not better? It was great to see some good quick finishes in that one setting the bar high though. 
+There are two races, with women and over fifty men setting off first. It was great to see some good quick finishes in that one setting the bar high. 
 
 >The Sunderland 5k ... it's got a reputation as as a quick race and it attracts a strong field.
 
@@ -32,7 +32,6 @@ Pulling around the lake my watch alerted me to my split and time. It was clear t
 
 The finish line atmosphere is great with lots of the people from the first race having waited around. I gave it everything I had left and pushed across for a seven second PB.
 
-If I'm honest, I should have been quicker. My legs were tired and my pace during the third and fourth let me down but I'm happy to walk away with another PB. 
+If I'm honest, I should've been quicker. My legs were tired and my pace during the third and fourth let me down but I'm happy to walk away with another PB. 
 
-It's been six or seven weeks of good results so I'm now going to have a nice and easy week of letting my legs recover – except for track and field on Monday of course.
-
+It's been six or seven weeks of good results so I'm now going to have a nice and easy week of letting my legs recover – except for track and field on Monday, of course.
