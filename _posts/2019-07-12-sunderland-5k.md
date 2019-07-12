@@ -1,0 +1,38 @@
+---
+layout: post
+title: Sunderland 5k
+image: sunderland-5k-2019.jpg
+alt: Shoes and vest after Sunderland 5k
+categories: [Race reports]
+tags: [North East, Sunderland 5k]
+---
+There's a little section on the club website that says to try to limit yourself to one important race or PB attempt in any four week period. I couldn't help but think of it while I flagrantly ignored it on my drive to Silksworth for the Sunderland 5k.
+
+It was Pablo Picasso who said, "learn the rules like a pro, so you can break them like an artist". I'm not sure that's *exactly* what I was doing, but chalking it down to artistry rather than stupidity works for me.
+
+I'd ran Tynedale 10k last Wednesday and destroyed my PB by over 40 seconds. On Saturday it was the Chevy and the elation of crushing past performances there too. This week my legs are feeling tired but my mind is eager – I'm in an all too rare purple patch and want to make the most of it.
+
+So, remembering it was the Sunderland 5k, I headed south after work. It's got a reputation as as a quick race and it attracts a strong field.
+
+There are two races, with women and over fifty men setting off first. The way it's divided felt a little forced. If two races are needed for numbers, is the approach of doing so by time not better? It was great to see some good quick finishes in that one setting the bar high though. 
+
+>The Sunderland 5k ... it's got a reputation as as a quick race and it attracts a strong field.
+
+The race is ran on a narrow path and it was hard to gauge where in the gathered throng to start. I knew most of the lads are quicker than me but wanted to start fast. As it turns out, everyone starts fast and the pack soon thins out.
+
+I flogged myself for the first, mainly downhill, kilometre. From there I revised my target from achieving a PB to shredding my PB and running sub-19 for the first time. I was happy with the second kilometre but things started to slow a bit in the third. 
+
+The race sweeps down hill from near the activity centre, passes the play park and then does two laps. It's all on paths, except the last 100 yards to the finish, and you're surrounded by trees and greenery which is nice.
+
+By the middle of the second lap, into my fourth kilometre, I'd slowed right down. I could feel the weight of a week's hard running mingling with my expectation and turning to lead somewhere around my calves.
+
+>I could feel the weight of a week's hard running mingling with my expectation and turning to lead somewhere around my calves.
+
+Pulling around the lake my watch alerted me to my split and time. It was clear that the sub-19 wasn't on but if I could up the pace for one last push I could still get that PB. I dug in and had the good fortune to be overtaken by a couple of Sunderland Harriers. That was the incentive I needed to fight for position and we pushed each other for the whole of the last kilometre.
+
+The finish line atmosphere is great with lots of the people from the first race having waited around. I gave it everything I had left and pushed across for a seven second PB.
+
+If I'm honest, I should have been quicker. My legs were tired and my pace during the third and fourth let me down but I'm happy to walk away with another PB. 
+
+It's been six or seven weeks of good results so I'm now going to have a nice and easy week of letting my legs recover – except for track and field on Monday of course.
+
