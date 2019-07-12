@@ -8,9 +8,9 @@ tags: [North East, Sunderland 5k]
 ---
 There's a little section on the club website that says to try to limit yourself to one important race or PB attempt in any four week period. I couldn't help but think of it while I flagrantly ignored it on my drive to Silksworth for the Sunderland 5k.
 
-It was Pablo Picasso who said, "learn the rules like a pro, so you can break them like an artist". I'm not sure that's *exactly* what I was doing, but chalking it down to artistry rather than stupidity works for me.
+It was Pablo Picasso who said, "learn the rules like a pro, so you can break them like an artist". I'm not sure that's *exactly* what I was doing, but chalking it down to artistry rather than stubbornness works for me.
 
-I'd ran Tynedale 10k last Wednesday and destroyed my PB by over 40 seconds. On Saturday it was the Chevy and the elation of crushing past performances there too. This week my legs are feeling tired but my mind is eager – I'm in an all too rare purple patch and want to make the most of it.
+I'd ran Tynedale 10k last Wednesday and destroyed my PB by over 40 seconds. On Saturday it was the Chevy and the elation of crushing past performances there too. This week my legs are feeling tired but my mind is raring to go still, I'm just enjoying it at the moment.
 
 So, remembering it was the Sunderland 5k, I headed south after work. It's got a reputation as as a quick race and it attracts a strong field.
 
