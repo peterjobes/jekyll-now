@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
+<h1 class="visually-hidden">The Unforgiving Minute - Latest Posts</h1>
 
 <!-- This loops through the paginated posts -->
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       
       <p class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</p>
       {% if post.image And post.image != "" And post.image != nil %}
