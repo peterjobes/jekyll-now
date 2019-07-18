@@ -10,7 +10,9 @@ layout: default
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       
-      <p class="post-date">{{ post.date | date: "%A, %B %e, %Y" }}</p>
+      <div class="post-date">
+    {{ page.categories }} // Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
       {% if post.image And post.image != "" And post.image != nil %}
       <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="{{ post.alt }}">   
        {% endif %}
