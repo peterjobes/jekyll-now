@@ -73,6 +73,13 @@ h2 {
   font-size: 24px;
 }
 
+.posts .post h2 { 
+  font-size: 28px;  
+  a {
+    color: inherit;
+  }
+}
+
 h3 {
   font-size: 20px;
 }
@@ -135,6 +142,8 @@ strong, b {
 img {
   max-width: 100%;
 }
+
+.visually-hidden { display:none; }
 
 blockquote {
 	border-left:3px solid $blue;
