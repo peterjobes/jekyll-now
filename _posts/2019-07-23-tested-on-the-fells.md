@@ -20,6 +20,7 @@ Perhaps the most famous, drenched in mythos and romance, is the Bob Graham round
 Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of [George Fisher](https://www.georgefisher.co.uk/) in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
 
 ![George Fisher in Keswick]({{ site.baseurl }}/images/atr-2019-fishers.jpg){:class="editorial-highlight-center"}
+*George Fisher in Keswick, the starting point of the Abraham's Tea Round*
 
 The most common route is a clockwise round of about twenty miles, with ten summits to hit. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horseshoe.
 
@@ -32,6 +33,7 @@ Sat in my hotel room the night before, I couldn't help but chuckle at the weathe
 The morning started well, leaving Fisher's at 7:45 for an easy run out of Keswick through Portinscale. The calves were a little tight but nothing to worry about and I enjoyed the views afforded on the way up Catbells. It was to be the last view I saw for a while as I disappeared into the blanket of cloud that hung low over the hills. 
 
 ![Catbells viewed from Hope Park]({{ site.baseurl }}/images/atr-2019-catbells.jpg){:class="editorial-highlight-center"}
+*Catbells viewed from Hope Park*
 
 Visibility became worse and the wind and precipitation started to batter me. I ticked off Maiden Moor and High Spy, with a little help from a trusty OS Map and compass to make sure I was on course, before dropping down to Dale Head Tarn. 
 
@@ -59,7 +61,8 @@ There's stone steps most of the way down the path, though some sections were run
 
 As I stared across at the climb up towards Grisedale Pike I started to wonder if I should continue anyway. The weather was fine, once you weren't in the clouds, and while I'd lost hours of time I could surely drag myself around if I got a second wind? I debated for a little while but could see that the cloud showed no sign of lifting. It could be risky to end up on Grisedale Pike or scrambling Eel Crags tired and with no visibility. I stopped my watch at the Fish Inn and joined the queue of tourists waiting for the Keswick bus.
 
-![Strava Map of the failed Abraham's round]({{ site.baseurl }}/images/atr-2019-map.jpg){:class="editorial-highlight-center"}
+![Strava Map of my failed Abraham's round]({{ site.baseurl }}/images/atr-2019-map.jpg){:class="editorial-highlight-center"}
+*Strava map of my failed Abraham's round*
 
 I'd added eight peaks to my growing list of Wainwrights but it was deflating to have to quit. The weather was a massive factor, it made hard work of everything over 500m and navigating in it was hard. In the circumstances, attempting my extended route via Maiden Moor and Hindscarth Ridge was a mistake. I'm left with the frustration of not knowing if I'd have finished had the weather been better.
 
