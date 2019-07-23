@@ -3,7 +3,7 @@ layout: post
 title: Tested on the fells
 image: atr-2019-derwentwater.jpg
 alt: Catbells, viewed across Derwent Water on a cloudy day
-categories: [General, Adventures]
+categories: [Adventures]
 tags: [Adventures, Training, Lake District, Fell and trail running]
 ---
 
@@ -11,7 +11,7 @@ There are few things as exhilarating as pushing yourself to your limits. As T.S 
 
 For me, fell running is a great way to test those limits. Plan a route that's going to test you in a way that you've not been tested before and go for it. I love the feeling of locking the car door, looking up at the mountains, and getting a healthy sense of awe at the size of the challenge ahead.
 
-When I was first getting into fell running I read the classic [Feet in the clouds](https://www.amazon.co.uk/Feet-Clouds-Tale-Fell-Running-Obsession/dp/1781310564/) by Richard Askwith. It's like reading a book of myths and legends. Giants stride across the landscape with names like Iron Joss, Billy Bland, Helen Diamantides and Nicky Spinks. And the challenges those giants rise to are the great rounds. 
+When I was first getting into fell running I read the classic *[Feet in the clouds](https://www.amazon.co.uk/Feet-Clouds-Tale-Fell-Running-Obsession/dp/1781310564/)* by Richard Askwith. It's like reading of myths and legends. Giants stride across the landscape with names like Iron Joss, and the challenges those giants rise to are the great rounds. 
 
 >Giants stride across the landscape with names like Iron Joss, Billy Bland, Helen Diamantides and Nicky Spinks...
 
@@ -19,17 +19,19 @@ Perhaps the most famous, drenched in mythos and romance, is the Bob Graham round
 
 Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of [George Fisher](https://www.georgefisher.co.uk/) in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
 
->I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
+![George Fisher in Keswick]({{ site.baseurl }}/images/atr-2019-fishers.jpg){:class="editorial-highlight-center"}
 
-The most common route is a clockwise round of about twenty miles, with ten summits to hit. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horeshoe.
+The most common route is a clockwise round of about twenty miles, with ten summits to hit. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horseshoe.
 
 My route added a couple of miles and a little bit of extra climbing but gave four extra Wainwrights that I'd been looking to climb for a while.
 
->While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horeshoe
+>I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
 
 Sat in my hotel room the night before, I couldn't help but chuckle at the weather report on [MWIS](https://www.mwis.org.uk/english-welsh-forecast/LD/). There was torrential rain through the night followed by low cloud and gusty winds of 60mph: *"Walking ardous much of the day across the fells, difficult in places in morning. Some powerful gusts will run downslope."* Well, walking might be difficult but it didn't say anything about running, right? Anyway, they build us tough up north.
 
 The morning started well, leaving Fisher's at 7:45 for an easy run out of Keswick through Portinscale. The calves were a little tight but nothing to worry about and I enjoyed the views afforded on the way up Catbells. It was to be the last view I saw for a while as I disappeared into the blanket of cloud that hung low over the hills. 
+
+![Catbells viewed from Hope Park]({{ site.baseurl }}/images/atr-2019-catbells.jpg){:class="editorial-highlight-center"}
 
 Visibility became worse and the wind and precipitation started to batter me. I ticked off Maiden Moor and High Spy, with a little help from a trusty OS Map and compass to make sure I was on course, before dropping down to Dale Head Tarn. 
 
@@ -56,6 +58,8 @@ I dropped onto the red shail path towards Bleaberry Tarn but my pace didn't reco
 There's stone steps most of the way down the path, though some sections were running so thick with water that at times it was unclear if I was on a path or in a stream. It was too slippy to make decent time and by the time I arrived at the bottom and saw that the bridge had been swept away I was out of both patience and luck.
 
 As I stared across at the climb up towards Grisedale Pike I started to wonder if I should continue anyway. The weather was fine, once you weren't in the clouds, and while I'd lost hours of time I could surely drag myself around if I got a second wind? I debated for a little while but could see that the cloud showed no sign of lifting. It could be risky to end up on Grisedale Pike or scrambling Eel Crags tired and with no visibility. I stopped my watch at the Fish Inn and joined the queue of tourists waiting for the Keswick bus.
+
+![Strava Map of the failed Abraham's round]({{ site.baseurl }}/images/atr-2019-map.jpg){:class="editorial-highlight-center"}
 
 I'd added eight peaks to my growing list of Wainwrights but it was deflating to have to quit. The weather was a massive factor, it made hard work of everything over 500m and navigating in it was hard. In the circumstances, attempting my extended route via Maiden Moor and Hindscarth Ridge was a mistake. I'm left with the frustration of not knowing if I'd have finished had the weather been better.
 
