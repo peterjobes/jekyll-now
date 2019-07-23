@@ -53,7 +53,7 @@ It was hard to see how I could finish the round, I was way behind schedule, tire
 
 The summit was confusing without being able to see much, there's stones and rocks everywhere and it was hard to find the right cairn. Two walkers were having similar fun and we stopped to commiserate before continuing. Having touched the cairn I started across to Red Pike. The climb had sapped me and the technical nature of much of the terrain, paired with the weather, had taken it's toll on moral. I resolved to get down to Buttermere and then call it a day.
 
-I dropped onto the red shail path towards Bleaberry Tarn but my pace didn't recover. The wind that had been attacking me from the south on Robinson now somehow seemed to mount a full on assault from the north. Visibility was still poor even at the tarn and it was some while after that I finally dropped out of the clouds and saw Buttermere glistening below.
+I dropped onto the red path towards Bleaberry Tarn but my pace didn't recover. The wind that had been attacking me from the south on Robinson now somehow seemed to mount a full on assault from the north. Visibility was still poor even at the tarn and it was some while after that I finally dropped out of the clouds and saw Buttermere glistening below.
 
 >The wind that had been attacking me from the south on Robinson now somehow seemed to mount a full on assault from the north.
 
