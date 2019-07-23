@@ -13,20 +13,20 @@ For me, fell running is a great way to test those limits. Plan a route that's go
 
 When I was first getting into fell running I read the classic *[Feet in the clouds](https://www.amazon.co.uk/Feet-Clouds-Tale-Fell-Running-Obsession/dp/1781310564/)* by Richard Askwith. It's like reading of myths and legends. Giants stride across the landscape with names like Iron Joss, and the challenges those giants rise to are the great rounds. 
 
->Giants stride across the landscape with names like Iron Joss, Billy Bland, Helen Diamantides and Nicky Spinks...
+>Giants stride across the landscape with names like Iron Joss...
 
 Perhaps the most famous, drenched in mythos and romance, is the Bob Graham round. Touch the doors of the Moot Hall in Keswick and return, within 24 hours, having touched 42 peaks and ran over 66 miles. Scotland has the Ramsay round, Wales the Buckley, and then there are smaller rounds that are ran for local pride.
 
 Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of [George Fisher](https://www.georgefisher.co.uk/) in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
 
-![George Fisher in Keswick]({{ site.baseurl }}/images/atr-2019-fishers.jpg){:class="editorial-highlight-center"}
-*George Fisher in Keswick, the starting point of the Abraham's Tea Round*
+>I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
 
-The most common route is a clockwise round of about twenty miles, with ten summits to hit. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horseshoe.
+The most common route is a clockwise round of about thirty miles, with ten summits and over 12,000ft of climbing. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horseshoe.
 
 My route added a couple of miles and a little bit of extra climbing but gave four extra Wainwrights that I'd been looking to climb for a while.
 
->I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
+![George Fisher in Keswick]({{ site.baseurl }}/images/atr-2019-fishers.jpg){:class="editorial-highlight-center"}
+*George Fisher in Keswick, the starting point of the Abraham's Tea Round*
 
 Sat in my hotel room the night before, I couldn't help but chuckle at the weather report on [MWIS](https://www.mwis.org.uk/english-welsh-forecast/LD/). There was torrential rain through the night followed by low cloud and gusty winds of 60mph: *"Walking ardous much of the day across the fells, difficult in places in morning. Some powerful gusts will run downslope."* Well, walking might be difficult but it didn't say anything about running, right? Anyway, they build us tough up north.
 
@@ -37,7 +37,7 @@ The morning started well, leaving Fisher's at 7:45 for an easy run out of Keswic
 
 Visibility became worse and the wind and precipitation started to batter me. I ticked off Maiden Moor and High Spy, with a little help from a trusty OS Map and compass to make sure I was on course, before dropping down to Dale Head Tarn. 
 
-It was here that things started to get interesting. The deluges of the past few days had made it hard to tell where the Tarn started and ended. It's fringes were clag and puddles and it was hard to navigate. There's a straightforward path from the tarn to the summit but try as I might I couldn't find it. It seems my paper map has the path to the south of the tarn while it's actually to the north. 
+It was here that things started to get interesting. The deluges of the past few days had made it hard to tell where the tarn started and ended. It's fringes were clag and puddles and it was hard to navigate. There's a straightforward path from the tarn to the summit but try as I might I couldn't find it. It seems my paper map has the path to the south of the tarn while it's actually to the north. 
 
 >There's a straightforward path from the tarn to the summit but try as I might I couldn't find it.
 
@@ -47,9 +47,9 @@ After Robinson I made a big error, retreading my path unthinkingly when I should
 
 I started my way up High Stile with sluggish legs. The waterfalls on Comb Beck were raging and it took a few attempts to find a place to cross that wouldn't see me swept down into Buttermere. As the climb steepened I started to doubt my ability to continue. There was only one answer: I sat down with a Fry's Peppermint Cream and gave myself a talking too.
 
-It was hard to see how I could finish the round, I was way behind schedule, tired, dispirited, and the weather wasn't playing ball. I wasn't, however, going to quit half way up a hill. There was a summit waiting somewhere above my head. After a few minutes I was able to carry on. Again visibility dropped as I entered the clouds and the way became tricky. I couldn't see a path or trod and so found myself scrambling up wet crags. 
-
 >As the climb steepened I started to doubt my ability to continue. There was only one answer: I sat down with a Fry's Peppermint Cream and gave myself a talking too.
+
+It was hard to see how I could finish the round, I was way behind schedule, tired, dispirited, and the weather wasn't playing ball. I wasn't, however, going to quit half way up a hill. There was a summit waiting somewhere above my head. After a few minutes I was able to carry on. Again visibility dropped as I entered the clouds and the way became tricky. I couldn't see a path or trod and so found myself scrambling up wet crags. 
 
 The summit was chaos, there's stones and rocks everywhere and it was hard to find the right cairn. Two walkers were having similar fun and we stopped to commiserate before continuing. Having touched the cairn I started across to Red Pike. The climb had sapped me and the technical nature of much of the terrain, paired with the weather, had taken it's toll on moral. I resolved to get down to Buttermere and then call it a day.
 
@@ -66,4 +66,4 @@ As I stared across at the climb up towards Grisedale Pike I started to wonder if
 
 I'd added eight peaks to my growing list of Wainwrights but it was deflating to have to quit. The weather was a massive factor, it made hard work of everything over 500m and navigating in it was hard. In the circumstances, attempting my extended route via Maiden Moor and Hindscarth Ridge was a mistake. I'm left with the frustration of not knowing if I'd have finished had the weather been better.
 
-To go back to the quote I started with, yesterday I set out to find out how tall I was. The answer, surprisingly for such a tall man, was not quite tall enough – yet.
+To go back to the quote I started with, yesterday I got in over my head to find out how tall I was. The answer, surprisingly for such a tall man, was not quite tall enough – yet.
