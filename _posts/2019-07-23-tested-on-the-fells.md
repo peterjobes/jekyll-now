@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tested on the fells
-image: bilbao-1.jpg
-alt: The author in a crowd of runners at Bilbao Night Marathon
+image: atr-2019-derwentwater.jpg
+alt: Catbells, viewed across Derwent Water on a cloudy day
 categories: [General, Adventures]
 tags: [Adventures, Training, Lake District, Fell and trail running]
 ---
@@ -17,7 +17,7 @@ When I was first getting into fell running I read the classic [Feet in the cloud
 
 Perhaps the most famous, drenched in mythos and romance, is the Bob Graham round. Touch the doors of the Moot Hall in Keswick and return, within 24 hours, having touched 42 peaks and ran over 66 miles. Scotland has the Ramsay round, Wales the Buckley, and then there are smaller rounds that are ran for local pride.
 
-Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of George Fisher in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
+Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of [George Fisher](https://www.georgefisher.co.uk/) in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
 
 >I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
 
@@ -27,9 +27,9 @@ My route added a couple of miles and a little bit of extra climbing but gave fou
 
 >While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horeshoe
 
-Sat in my hotel room the night before, I couldn't help but chuckle at the weather report on MWIS. There was torrential rain through the night followed by low cloud and gusty winds of 60mph: *"Walking ardous much of the day across the fells, difficult in places in morning. Some powerful gusts will run downslope."* Well, walking might be difficult but it didn't say anything about running, right? Anyway, they build us tough up north.
+Sat in my hotel room the night before, I couldn't help but chuckle at the weather report on [MWIS](https://www.mwis.org.uk/english-welsh-forecast/LD/). There was torrential rain through the night followed by low cloud and gusty winds of 60mph: *"Walking ardous much of the day across the fells, difficult in places in morning. Some powerful gusts will run downslope."* Well, walking might be difficult but it didn't say anything about running, right? Anyway, they build us tough up north.
 
-The morning started well with an easy run out of Keswick through Portinscale. The calves were a little tight but nothing to worry about and I enjoyed the views afforded on the way up Catbells. It was to be the last view I saw for a while as I disappeared into the blanket of cloud that hung low over the hills. 
+The morning started well, leaving Fisher's at 7:45 for an easy run out of Keswick through Portinscale. The calves were a little tight but nothing to worry about and I enjoyed the views afforded on the way up Catbells. It was to be the last view I saw for a while as I disappeared into the blanket of cloud that hung low over the hills. 
 
 Visibility became worse and the wind and precipitation started to batter me. I ticked off Maiden Moor and High Spy, with a little help from a trusty OS Map and compass to make sure I was on course, before dropping down to Dale Head Tarn. 
 
