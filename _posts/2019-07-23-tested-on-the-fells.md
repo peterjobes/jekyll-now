@@ -28,7 +28,7 @@ My route added a couple of miles and a little bit of extra climbing but gave fou
 ![George Fisher in Keswick]({{ site.baseurl }}/images/atr-2019-fishers.jpg){:class="editorial-highlight-center"}
 *George Fisher in Keswick, the starting point of the Abraham's Tea Round*
 
-Sat in my hotel room the night before, I couldn't help but chuckle at the weather report on [MWIS](https://www.mwis.org.uk/english-welsh-forecast/LD/). There was torrential rain through the night followed by low cloud and gusty winds of 60mph: *"Walking ardous much of the day across the fells, difficult in places in morning. Some powerful gusts will run downslope."* Well, walking might be difficult but it didn't say anything about running, right? Anyway, they build us tough up north.
+Sat in my hotel room the night before, I couldn't help but chuckle at the weather report on [MWIS](https://www.mwis.org.uk/english-welsh-forecast/LD/). There was torrential rain through the night followed by low cloud and gusty winds of 60mph: *"Walking ardous much of the day across the fells, in places in morning. Some powerful gusts will run downslope."* Well, walking might be difficult but it didn't say anything about running, right? Anyway, they build us tough up north.
 
 The morning started well, leaving Fisher's at 7:45 for an easy run out of Keswick through Portinscale. The calves were a little tight but nothing to worry about and I enjoyed the views afforded on the way up Catbells. It was to be the last view I saw for a while as I disappeared into the blanket of cloud that hung low over the hills. 
 
@@ -37,7 +37,7 @@ The morning started well, leaving Fisher's at 7:45 for an easy run out of Keswic
 
 Visibility became worse and the wind and precipitation started to batter me. I ticked off Maiden Moor and High Spy, with a little help from a trusty OS Map and compass to make sure I was on course, before dropping down to Dale Head Tarn. 
 
-It was here that things started to get interesting. The deluges of the past few days had made it hard to tell where the tarn started and ended. It's fringes were clag and puddles and it was hard to navigate. There's a straightforward path from the tarn to the summit but try as I might I couldn't find it. It seems my paper map has the path to the south of the tarn while it's actually to the north. 
+It was here that things started to get interesting. The deluges of the past few days had made it hard to tell where the tarn started and ended. It's fringes were clag and puddles and navigating was tough. There's a straightforward path from the tarn to the summit but try as I might I couldn't find it. It seems my paper map has a prominent path to the south of the tarn while it's actually to the north. 
 
 >There's a straightforward path from the tarn to the summit but try as I might I couldn't find it.
 
@@ -51,7 +51,7 @@ I started my way up High Stile with sluggish legs. The waterfalls on Comb Beck w
 
 It was hard to see how I could finish the round, I was way behind schedule, tired, dispirited, and the weather wasn't playing ball. I wasn't, however, going to quit half way up a hill. There was a summit waiting somewhere above my head. After a few minutes I was able to carry on. Again visibility dropped as I entered the clouds and the way became tricky. I couldn't see a path or trod and so found myself scrambling up wet crags. 
 
-The summit was chaos, there's stones and rocks everywhere and it was hard to find the right cairn. Two walkers were having similar fun and we stopped to commiserate before continuing. Having touched the cairn I started across to Red Pike. The climb had sapped me and the technical nature of much of the terrain, paired with the weather, had taken it's toll on moral. I resolved to get down to Buttermere and then call it a day.
+The summit was confusing without being able to see much, there's stones and rocks everywhere and it was hard to find the right cairn. Two walkers were having similar fun and we stopped to commiserate before continuing. Having touched the cairn I started across to Red Pike. The climb had sapped me and the technical nature of much of the terrain, paired with the weather, had taken it's toll on moral. I resolved to get down to Buttermere and then call it a day.
 
 I dropped onto the red shail path towards Bleaberry Tarn but my pace didn't recover. The wind that had been attacking me from the south on Robinson now somehow seemed to mount a full on assault from the north. Visibility was still poor even at the tarn and it was some while after that I finally dropped out of the clouds and saw Buttermere glistening below.
 
