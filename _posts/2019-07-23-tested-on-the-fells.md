@@ -41,7 +41,7 @@ It was here that things started to get interesting. The deluges of the past few 
 
 >There's a straightforward path from the tarn to the summit but try as I might I couldn't find it.
 
-Using the compass for bearings I attacked the grassy slopes of Dale Head. It was steep and unrelenting stuff. From Dale Head it's an easy out and back to the shelter on Hindscarth. At this point I relented on the paper map and used GPS, visibility was down to about twenty feet and I wanted to make sure of my location. A quick climb up Robinson followed but by now I was aware I was falling behind schedule.
+Giving up on the path, I attacked the grassy slopes with ardour. It was steep and unrelenting stuff but satisfying to reach the top and touch the cairn. From Dale Head it's an easy out and back to the shelter on Hindscarth. At this point I relented on the paper map and used GPS, visibility was down to about twenty feet and I wanted to make sure of my location. A quick climb up Robinson followed but by now I was aware I was falling behind schedule.
 
 After Robinson I made a big error, retreading my path unthinkingly when I should have peeled off to the west to descend. By the time I realised I didn't much fancy the run back to the summit to correct it and so decided to cut across the crags. This meant the descent became technical for a time before leaving me to wade waist deep through ferns. By the time I finally reached Honister Pass I'd been out for 3:45 and was not a happy runner.
 
@@ -59,10 +59,9 @@ I dropped onto the red shail path towards Bleaberry Tarn but my pace didn't reco
 
 There's stone steps most of the way down the path, though some sections were running so thick with water that at times it was unclear if I was on a path or in a stream. It was too slippy to make decent time and by the time I arrived at the bottom and saw that the bridge had been swept away I was out of both patience and luck.
 
-As I stared across at the climb up towards Grisedale Pike I started to wonder if I should continue anyway. The weather was fine, once you weren't in the clouds, and while I'd lost hours of time I could surely drag myself around if I got a second wind? I debated for a little while but could see that the cloud showed no sign of lifting. It could be risky to end up on Grisedale Pike or scrambling Eel Crags tired and with no visibility. I stopped my watch at the Fish Inn and joined the queue of tourists waiting for the Keswick bus.
+As I stared across at the climb up towards Grisedale Pike I started to wonder if I should continue anyway. The weather was fine, once you weren't in the clouds, and while I'd lost hours of time I could surely drag myself around if I got a second wind? I debated for a little while but could see that the cloud showed no sign of lifting. It could be risky to end up on Grisedale Pike or scrambling Eel Crags tired and with no visibility. I stopped my watch at the Fish Inn and joined the queue of tourists waiting for the Keswick bus. After 19 miles and over 2,200m of climb, my attempt was over.
 
 ![Strava Map of my failed Abraham's round]({{ site.baseurl }}/images/atr-2019-map.jpg){:class="editorial-highlight-center"}
-*Strava map of my failed Abraham's round*
 
 I'd added eight peaks to my growing list of Wainwrights but it was deflating to have to quit. The weather was a massive factor, it made hard work of everything over 500m and navigating in it was hard. In the circumstances, attempting my extended route via Maiden Moor and Hindscarth Ridge was a mistake. I'm left with the frustration of not knowing if I'd have finished had the weather been better.
 
