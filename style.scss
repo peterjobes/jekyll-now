@@ -360,7 +360,7 @@ footer {
 .editorial-highlight-right + em {
 }
 
-.editorial-highlight-center { max-width:540px; text-align:center; }
+.editorial-highlight-center { border:1px solid #eee; padding:6px; }
 
 @media only screen and (max-width: 640px) { .editorial-highlight-right { margin: 0 auto; float:none; display:block; width:70%; } }
 @media only screen and (min-width: 640px) { .editorial-highlight-right { margin-right: 0; margin-left:25px; width:45%; float:right; } }
