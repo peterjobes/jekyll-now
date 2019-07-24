@@ -17,9 +17,9 @@ When I was first getting into fell running I read the classic *[Feet in the clou
 
 Perhaps the most famous, drenched in mythos and romance, is the Bob Graham round. Touch the doors of the Moot Hall in Keswick and return, within 24 hours, having touched 42 peaks and ran over 66 miles. Scotland has the Ramsay round, Wales the Buckley, and then there are smaller rounds that are ran for local pride.
 
-Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of [George Fisher](https://www.georgefisher.co.uk/) in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
+Looking to test my limits this week I settled on the Abraham's Tea Round. I know I'm not Bob Graham fit – probably never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds. The premise is simple, you leave the doors of [George Fisher](https://www.georgefisher.co.uk/) in Keswick and summit every hill that is visible from the windows of Abraham's Tea Room.
 
->I know I'm not Bob Graham fit – possibly never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
+>I know I'm not Bob Graham fit – probably never will be – but the Abraham's offers a good alternative and entry to the world of fell running rounds.
 
 The most common route is a clockwise round of about thirty miles, with ten summits and over 12,000ft of climbing. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horseshoe.
 
