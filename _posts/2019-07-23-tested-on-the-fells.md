@@ -11,7 +11,7 @@ There are few things as exhilarating as pushing yourself to your limits. As T.S 
 
 For me, fell running is a great way to test those limits. Plan a route that's going to test you in a way that you've not been tested before and go for it. I love the feeling of locking the car door, looking up at the mountains, and getting a healthy sense of awe at the size of the challenge ahead.
 
-When I was first getting into fell running I read the classic *[Feet in the clouds](https://www.amazon.co.uk/Feet-Clouds-Tale-Fell-Running-Obsession/dp/1781310564/)* by Richard Askwith. It's like reading of myths and legends. Giants stride across the landscape with names like Iron Joss, and the challenges those giants rise to are the great rounds. 
+When I was first getting interested in fell running a friend bought me the classic *[Feet in the clouds](https://www.amazon.co.uk/Feet-Clouds-Tale-Fell-Running-Obsession/dp/1781310564/)* by Richard Askwith. It's like reading of myths and legends. Giants stride across the landscape with names like Iron Joss, and the challenges those giants rise to are the great rounds. 
 
 >Giants stride across the landscape with names like Iron Joss...
 
@@ -23,7 +23,7 @@ Looking to test my limits this week I settled on the Abraham's Tea Round. I know
 
 The most common route is a clockwise round of about thirty miles, with ten summits and over 12,000ft of climbing. As I sat looking at my map, I couldn't resist putting my own spin on it. Guided by the ghost of Alfred Wainwright, encouraging me to touch as many of his fell tops as I could, I decided on a route change. While you conventionally drop off Catbells and cross the valley to climb Robinson, I decided to follow the Newlands Horseshoe.
 
-My route added a couple of miles and a little bit of extra climbing but gave four extra Wainwrights that I'd been looking to climb for a while.
+My route added a few miles and a bit of extra climbing but gave four extra Wainwrights that I'd been looking to climb for a while.
 
 ![George Fisher in Keswick]({{ site.baseurl }}/images/atr-2019-fishers.jpg){:class="editorial-highlight-center"}
 *George Fisher in Keswick, the starting point of the Abraham's Tea Round*
