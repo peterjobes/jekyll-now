@@ -45,9 +45,9 @@ Giving up on the path, I attacked the grassy slopes with ardour. It was steep an
 
 After Robinson I made a big error, retreading my path unthinkingly when I should have peeled off to the west to descend. By the time I realised I didn't much fancy the run back to the summit to correct it and so decided to cut across the crags. This meant the descent became technical for a time before leaving me to wade waist deep through ferns. By the time I finally reached Honister Pass I'd been out for 3:45 and was not a happy runner.
 
-I started my way up High Stile with sluggish legs. The waterfalls on Comb Beck were raging and it took a few attempts to find a place to cross that wouldn't see me swept down into Buttermere. As the climb steepened I started to doubt my ability to continue. There was only one answer: I sat down with a Fry's Peppermint Cream and gave myself a talking too.
+I started my way up High Stile with sluggish legs. The waterfalls on Comb Beck were raging and it took a few attempts to find a place to cross that wouldn't see me swept down into Buttermere. As the climb steepened I started to doubt my ability to continue. There was only one answer: I sat down with a Fry's Peppermint Cream and gave myself a talking to.
 
->As the climb steepened I started to doubt my ability to continue. There was only one answer: I sat down with a Fry's Peppermint Cream and gave myself a talking too.
+>As the climb steepened I started to doubt my ability to continue. There was only one answer: I sat down with a Fry's Peppermint Cream and gave myself a talking to.
 
 It was hard to see how I could finish the round, I was way behind schedule, tired, dispirited, and the weather wasn't playing ball. I wasn't, however, going to quit half way up a hill. There was a summit waiting somewhere above my head. After a few minutes I was able to carry on. Again visibility dropped as I entered the clouds and the way became tricky. I couldn't see a path or trod and so found myself scrambling up wet crags. 
 
