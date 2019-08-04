@@ -46,3 +46,5 @@ The ankle is a worry – we're coming into August and I've a busy two months of 
 The Turner Landscape proved to be a great fell race. The route is mainly runnable and the scenery is fantastic. On top of that, the money raised from the event goes to the Alzheimer's Society so you can know that the pain is helping others. 
 
 It's definitely worth entering – and remember, if you do, to bring some cash for the fantastic array of cakes and treats at the finish line, you'll have earned them. 
+
+*Many thanks to [Carlos Reina](http://www.carlosreinaphoto.com/) for the race pictures. Great job, as ever!*
