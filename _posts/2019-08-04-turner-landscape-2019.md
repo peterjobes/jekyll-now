@@ -9,9 +9,9 @@ tags: [Lake District, Fell and trail running, Wainwrights]
 
 There was a moment of joy, in amongst it all. One of those moments where your lungs seem to find an unlimited capacity and your legs float along, leaping over rocks like a mountain goat. There was a moment of joy, but there’s far more to my experiences at the Turner Landscape than that. 
 
-I’d  been planning to do Borrowdale on Saturday, but I’ve had a funny couple of weeks and didn’t feel like I had the distance in my legs. The Turner Landscape offered an alluring alternative. A little over ten miles and a thousand metres of ascent – not to mention the opportunity to bag a few Wainwrights en route.
+The Turner Landscape is a fiesty little race on paper. It's a shade over ten miles and a thousand metres of ascent – not to mention giving the opportunity to bag a few Wainwrights en route.
 
-The drive down through Wrynose Pass to Turner Hall Farm in the Duddon Valley, where the race starts, was enough to leave you breathless at the beauty. I’m not sure if the painter J M W Turner influenced the naming of the farm, but he certainly spent a fair amount of time in Coniston and the surrounding area. He painted and sketched The Old Man on several occasions and it’s not hard to see why the beauty of the area captivated him.
+The drive down through Wrynose Pass to Turner Hall Farm in the Duddon Valley, where it all starts, is enough to leave you breathless at the beauty. I’m not sure if J M W Turner influenced the naming of the farm, but he certainly spent a fair amount of time in Coniston and the surrounding area. He painted and sketched The Old Man on several occasions and it’s not hard to see why the beauty of the area captivated him.
 
 The race sets off from the farm and follows a loose gravel double-track up towards Seathwaite Tarn. It’s runnable up to the tarn itself, where it was nice to pick up some pace again running across the dam. From there it’s a power hike up to the first checkpoint at Grey Friar.
 
@@ -33,7 +33,7 @@ The temperature was 26 at the start and finish and didn’t feel much lower up t
 
 Rounding the checkpoint the marshal encouraged me it was all down hill to the finish, but I couldn’t pick up as much pace as I’d hoped. I was still running though, and drained the last of my water. 
 
-With about 1.5km to go, coming down through some rough ground, I went head first. It took a moment or two to clamber back up and I immediately felt a burst of pain as I put weight on it. For me, the race was as good as over.
+With about 1.5km to go, coming down through some rough ground, I went head first. It took a moment or two to clamber back up and I felt a burst of pain as I put weight on it. For me, the race was as good as over.
 
 A Todmorden Harrier who’d seen me fall caught me and checked I was okay. I reassured him it was just twisted and started the limp back down. When I finally reached the flat ground I sped up a little to the finish line, wincing but unwilling to drop another place.
 
@@ -43,6 +43,6 @@ Overall it was a bit of a mixed day. It was a joy to explore a part of the Lakes
 
 The ankle is a worry – we're coming into August and I've a busy two months of races scheduled. Now is not the time to be injured. The swelling is only minor, though it does hurt to put weight on it, so we'll see how I go.
 
-The Turner Landscape proved to be a great fell race. The route is mainly runnable and the scenery is fantastic. On top of that, the money raised from the run goes to the Alzheimer's Society so you can know that the pain is helping others. 
+The Turner Landscape proved to be a great fell race. The route is mainly runnable and the scenery is fantastic. On top of that, the money raised from the event goes to the Alzheimer's Society so you can know that the pain is helping others. 
 
 It's definitely worth entering – and remember, if you do, to bring some cash for the fantastic array of cakes and treats at the finish line, you'll have earned them. 
