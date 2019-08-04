@@ -23,7 +23,7 @@ As we approached the summit of Swirl How I felt like I had a kick in my legs so 
 
 Ahead of me was an impressive peak, one of those prominent looking, imposing, fell tops. I immediately assumed it was The Old Man of Coniston and started leaping over stones and rocks towards it. I ignored two runners branching off to the left and was at the foot of the path to the summit when several runners started running towards me.
 
-In a scene reminiscent of the Ascent of Rum Doodle, we were climbing the wrong mountain. We’d over shot. More than half a dozen of us had managed to miss The Old Man altogether. Luckily there’s a good path to take back up to the summit, but having to double back put paid to my runner’s high and my head dropped.
+In a scene reminiscent of [The Ascent of Rum Doodle](https://www.penguin.co.uk/books/103/1033904/the-ascent-of-rum-doodle/9781784875299.html), we were climbing the wrong mountain. We’d over shot. More than half a dozen of us had managed to miss The Old Man altogether. Luckily there’s a good path to take back up to the summit, but having to double back put paid to my runner’s high and my head dropped.
 
 >In a scene reminiscent of the Ascent of Rum Doodle, we were climbing the wrong mountain.
 
@@ -46,3 +46,5 @@ The ankle is a worry – we're coming into August and I've a busy two months of 
 The Turner Landscape proved to be a great fell race. The route is mainly runnable and the scenery is fantastic. On top of that, the money raised from the event goes to the Alzheimer's Society so you can know that the pain is helping others. 
 
 It's definitely worth entering – and remember, if you do, to bring some cash for the fantastic array of cakes and treats at the finish line, you'll have earned them. 
+
+*Many thanks to [Carlos Reina](http://www.carlosreinaphoto.com/) for the race pictures. Great job, as ever!*
