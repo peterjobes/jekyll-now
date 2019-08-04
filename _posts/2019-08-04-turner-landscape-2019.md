@@ -7,11 +7,11 @@ categories: [Race Reports]
 tags: [Lake District, Fell and trail running, Wainwrights]
 ---
 
-There was a moment of joy, in amongst it all. One of those moments where your lungs seem to find an unlimited capacity and your legs float along, leaping over rocks like a mountain goat. There was a moment of joy, but there’s far more to my experiences at the Turner Landscape than that. 
+There was a moment of joy, in amongst it all. One of those moments where your lungs seem to find an unlimited capacity and your legs float along, leaping over rocks like a mountain goat. There was a moment of joy, but there’s far more to my experiences at the weekend than that. 
 
 The Turner Landscape is a fiesty little race on paper. It's a shade over ten miles and a thousand metres of ascent – not to mention giving the opportunity to bag a few Wainwrights en route.
 
-The drive down through Wrynose Pass to Turner Hall Farm in the Duddon Valley, where it all starts, is enough to leave you breathless at the beauty. I’m not sure if J M W Turner influenced the naming of the farm, but he certainly spent a fair amount of time in Coniston and the surrounding area. He painted and sketched The Old Man on several occasions and it’s not hard to see why the beauty of the area captivated him.
+The drive down through Wrynose Pass to Turner Hall Farm in the Duddon Valley, where it all starts, is enough to leave you breathless at the beauty. I’m not sure if [J M W Turner](https://www.tate.org.uk/art/artists/joseph-mallord-william-turner-558) influenced the naming of the farm, but he certainly spent a fair amount of time in Coniston and the surrounding area. He painted and sketched The Old Man on several occasions and it’s not hard to see why the beauty of the area captivated him.
 
 The race sets off from the farm and follows a loose gravel double-track up towards Seathwaite Tarn. It’s runnable up to the tarn itself, where it was nice to pick up some pace again running across the dam. From there it’s a power hike up to the first checkpoint at Grey Friar.
 
@@ -33,7 +33,7 @@ The temperature was 26 at the start and finish and didn’t feel much lower up t
 
 Rounding the checkpoint the marshal encouraged me it was all down hill to the finish, but I couldn’t pick up as much pace as I’d hoped. I was still running though, and drained the last of my water. 
 
-With about 1.5km to go, coming down through some rough ground, I went head first. It took a moment or two to clamber back up and I felt a burst of pain as I put weight on it. For me, the race was as good as over.
+With about a mile to go, battling for pace on a rough downhill, I went head over heels into the dirt. It took a moment or two to clamber back up and I felt a burst of pain as I put weight on my ankle. For me, the race was as good as over.
 
 A Todmorden Harrier who’d seen me fall caught me and checked I was okay. I reassured him it was just twisted and started the limp back down. When I finally reached the flat ground I sped up a little to the finish line, wincing but unwilling to drop another place.
 
