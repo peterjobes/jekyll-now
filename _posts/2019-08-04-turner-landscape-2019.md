@@ -31,17 +31,15 @@ From the top of The Old Man there’s a rapid descent of about 150m before climb
 
 The temperature was 26 at the start and finish and didn’t feel much lower up top. It was hot and I have the sunburnt shoulders to prove it. The temperature and the rough terrain took it’s toll and as I approached White Pike my legs had all but given up. 
 
-I rounded the checkpoint and the marshal encouraged me it was all down hill to the finish, but I couldn’t pick up as much pace as I’d hoped. I was still running though, and drained the last of my water. 
+Rounding the checkpoint the marshal encouraged me it was all down hill to the finish, but I couldn’t pick up as much pace as I’d hoped. I was still running though, and drained the last of my water. 
 
-With about 1.5km to go, I was coming down through some rough ground and I went over on my ankle. I took a moment or two to clamber back up and immediately felt a burst of pain as I put weight on it. For me, the race was as good as over.
-
-![Descending from White Pike, grinning through the pain of a twisted ankle!]({{ site.baseurl }}/images/turner-2019-twist.jpg){:class="editorial-highlight-center"}*Descending from White Pike, grinning through the pain of a twisted ankle!*
+With about 1.5km to go, coming down through some rough ground, I went head first. It took a moment or two to clamber back up and I immediately felt a burst of pain as I put weight on it. For me, the race was as good as over.
 
 A Todmorden Harrier who’d seen me fall caught me and checked I was okay. I reassured him it was just twisted and started the limp back down. When I finally reached the flat ground I sped up a little to the finish line, wincing but unwilling to drop another place.
 
-Overall it was a bit of a mixed day. It was a joy to explore a part of the Lakes I'd not been to before and the bulk of the race was enjoyable. It feels like I acquitted myself better than I did at Coledale in the spring, though the results aren't up yet to see if that's the case. 
+![Descending from White Pike, grinning through the pain of a twisted ankle!]({{ site.baseurl }}/images/turner-2019-twist.jpg){:class="editorial-highlight-center"}*Descending from White Pike, grinning through the pain of a twisted ankle!*
 
-It's some relief to read that Ricky Lightfoot, racing over at Borrowdale, found the conditions rough too. He described it as a 'character building day,' which seems accurate to me.
+Overall it was a bit of a mixed day. It was a joy to explore a part of the Lakes I'd not been to before and the bulk of the race was enjoyable. It feels like I acquitted myself better than I did at Coledale in the spring, though the results aren't up yet to see if that's the case. 
 
 The ankle is a worry – we're coming into August and I've a busy two months of races scheduled. Now is not the time to be injured. The swelling is only minor, though it does hurt to put weight on it, so we'll see how I go.
 
