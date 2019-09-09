@@ -374,3 +374,24 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// Sponsor button
+
+a.sponsor-button:link, a.sponsor-button:visited { 
+position:fixed;
+text-align:center;
+z-index:1000;
+bottom:0;
+left:0;
+max-height:64px;
+width:100%;
+padding:10px 0px;
+font-size:90%;
+color:#fff;
+background-color: #00688B;
+}
+
+a.sponsor-button:hover { 
+background-color: #004258;
+text-decoration:none;
+}
