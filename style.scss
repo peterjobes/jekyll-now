@@ -380,10 +380,12 @@ footer {
 a.sponsor-button:link, a.sponsor-button:visited { 
 position:fixed;
 text-align:center;
+	font-family: 'Montserrat', sans-serif;
+	text-transform:uppercase;
 z-index:1000;
 bottom:0;
 left:0;
-max-height:64px;
+max-height:92px;
 width:100%;
 padding:10px 0px;
 font-size:90%;
