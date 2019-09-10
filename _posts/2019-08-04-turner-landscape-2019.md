@@ -3,7 +3,7 @@ layout: post
 title: Turner Landscape Fell Race 2019
 image: turner-2019-dam.jpg
 alt: Running along the dam at Seathwaite Tarn
-categories: [Race Reports]
+categories: [Race reports]
 tags: [Lake District, Fell and trail running, Wainwrights]
 ---
 
