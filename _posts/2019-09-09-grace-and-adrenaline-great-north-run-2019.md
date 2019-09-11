@@ -12,9 +12,9 @@ The run up to this years event has been a little different for me. I'd been havi
 
 It's been a tough five weeks since. I spent two weeks flailing around attempting to swim before a gradual return to running. I squeezed into my start pen on Sunday having done nothing longer than 10k since my injury and at a real low point fitness wise.
 
-I find pacing so hard when you know you can't achieve your goals. My body recognises that I've lost fitness but the part of the brain that sets my pace struggles to accept this. I managed to control myself a little at the start but it was still close to PB pace. I spent the first miles in the tension between knowing I couldn't sustain it and hoping that by some miracle I would. 
+Pacing is so hard when you know you can't achieve your goals. My body knew I'd lost fitness but the part of the brain that sets pace struggled to accept this. I spent the first miles moving too quickly, living in the tension between knowing I couldn't sustain the pace and hoping that by some miracle I would. 
 
->I spent the first miles in the tension between knowing I couldn't sustain it and hoping that by some miracle I would. 
+>I spent the first miles moving too quickly, living in the tension between knowing I couldn't sustain the pace and hoping that by some miracle I would
 
 The first mile along the central motorway is fantastic. Enthusiastic crowds line the course, 'Oggy Oggy Oggy,' reverberates through the underpasses, and the roar as you approach the Tyne Bridge is second to none. This year, the crowds were pushing onto the road itself, cheering and yelling. It's emotional for anyone but for a Geordie? This is home.
 
