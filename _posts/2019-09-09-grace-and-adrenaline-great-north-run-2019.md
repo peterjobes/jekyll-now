@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grace and Adrenaline - Great North Run 2019
-image: gnr-2019.jpg
+image: gnr-2019.jpeg
 alt: The author aiming for the finish of the Great North Run
 categories: [Race reports]
 tags: [Racing, North East running, Half marathon]
