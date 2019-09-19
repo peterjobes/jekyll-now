@@ -15,9 +15,9 @@ There's a real buzz at the event village, even before the bulk of people arrive.
 
 >This weekend I'm here. In person. Ready to give one of a handful of races that are on my bucket list the best shot I can. 
 
-There's a real magic to a weekend like this. In how many sports do you get to run in the same race as the best in the world, grace the same hillsides as the elites, and splash through mud in their wake.
+There's a real magic to a weekend like this. In how many sports do you get to run in the same race as the best in the world, climb the same mountains as the elites, and splash through mud in their wake?
 
-As I sit in a pub eating over priced apple crumble (don't tell me that's not how the elites fuel), there's a strange feeling of belonging to look around and see mountain runners at every table. Our hobby isn't weird or out of the ordinary here, and I'm conscious that I've way less experience than most.
+As I sit in a pub eating over priced apple crumble (don't tell me that's not how the elites fuel), there's a strange feeling of belonging. Every table is occupied by mountain runners. Our hobby isn't weird or out of the ordinary here, and I'm conscious that I've way less experience than most in the room.
 
 As if to prove that point, between tapping out the draft of this post and actually publishing, I got talking to Ken Taylor at the bar. Ken is mentioned in Feet in the Clouds and is the [oldest person to complete a Bob Graham round](https://www.thewestmorlandgazette.co.uk/sport/16350444.ken-becomes-oldest-to-complete-bob-graham-round/). He's raced around the world and had some stories to tell.
 
@@ -29,6 +29,6 @@ The grand plan of spending a summer running up any and every mountain I could fi
 
 >The grand plan of spending a summer running up any and every mountain I could find hasn't happened.
 
-I ran a little 5k on arrival to loosen my legs off and ended up running up part of the Ben Nevis ultra route. It's pretty clear why they call this the technical race in the series, the Scottish vertigo. Running down hill is almost as hard as running up it – stones, tree roots, and brutal gradients.
+I ran a little 5k on arrival to loosen my legs off and ended up running up part of the Ben Nevis ultra route. It's pretty clear why they call this the most technical race in the series, the Scottish vertigo. Running down hill is almost as hard as running up it here – a mess of stones, tree roots, and brutal gradients.
 
 I know this is going to be tough. The definition of [Type 2 fun](https://www.rei.com/blog/climb/fun-scale). It's going to hurt physically and test me mentally. But that's part of the fun, isn't it? Paul of Tarsus wrote that suffering produces perseverance, perseverance produces character, and character produces hope. Assuming he was correct, by the time I stagger into the after party on Saturday night, I'll be positively radiating hope.
