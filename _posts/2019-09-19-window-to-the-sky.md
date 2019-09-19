@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Window to the sky
-image: vaporfly.jpg
-alt: Nike Vaporfly 4%s on Asphalt
+image: skyline-scotland-sunset.jpg
+alt: Sunset from Kinlochleven
 categories: [Training]
 tags: [Training, Fell Running, Mountain Running, Golden Trail Series]
 ---
@@ -20,6 +20,8 @@ There's a real magic to a weekend like this. In how many sports do you get to ru
 As I sit in a pub eating over priced apple crumble (don't tell me that's not how the elites fuel), there's a strange feeling of belonging to look around and see mountain runners at every table. Our hobby isn't weird or out of the ordinary here, and I'm conscious that I've way less experience than most.
 
 As if to prove that point, between tapping out the draft of this post and actually publishing, I got talking to Ken Taylor at the bar. Ken is mentioned in Feet in the Clouds and is the [oldest person to complete a Bob Graham round](https://www.thewestmorlandgazette.co.uk/sport/16350444.ken-becomes-oldest-to-complete-bob-graham-round/). He's raced around the world and had some stories to tell.
+
+![Mountains and a Salomon banner, Kinlochleven]({{ site.baseurl }}/images/skyline-scotland.jpg)*One of the many views from the event village*
 
 If you come into contact with me at all, you'll have heard me mention that this year hasn't went to plan. Running has been a weird mix of niggling injuries, interspersed with personal bests. It caught up with me recently and my fitness has tailed off a lot over the summer as injury curtailed my training.
 
