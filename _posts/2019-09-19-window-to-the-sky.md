@@ -9,7 +9,7 @@ tags: [Training, Fell Running, Mountain Running, Golden Trail Series]
 
 Every few weekends in summer, I'm left with a mix of awe and envy as my social timelines fill up with my favourite athletes on their way to the [Golden Trail Series](https://www.instagram.com/goldentrailseries/) races. Six epic races around the world in incredible locations with stunning scenery. I spend the days before and after each race living vicariously through the lives of the athletes and the Salomon media team.
 
-Except, that is, for this weekend. Because this weekend I'm here. In person. Ready to give one of a handful of races that are on my bucket list the best shot I can. 
+Except, that is, for this weekend. Because this weekend I'm here. In person. Ready to give one of a handful of races that are on my bucket list the best shot I can.
 
 There's a real buzz at the event village, even before the bulk of people arrive. With seven races spread across three days, it's the biggest mountain running event in the UK. There are talks from people like Holly Page, Paul Tierney and Charlie Ramsay. Yes. [*That* Charlie Ramsay](https://en.wikipedia.org/wiki/Ramsay_Round). Many of the best mountain runners in the world are here to compete, and some of the best sports photographers are on hand to document it.
 
@@ -29,6 +29,6 @@ The grand plan of spending a summer running up any and every mountain I could fi
 
 >The grand plan of spending a summer running up any and every mountain I could find hasn't happened.
 
-I ran a little 5k on arrival to loosen my legs off and ended up running up part of the Ben Nevis ultra route. It's pretty clear why they call this the most technical race in the series, the Scottish vertigo. Running down hill is almost as hard as running up it here – a mess of stones, tree roots, and brutal gradients.
+I ran a little 5k on arrival to loosen my legs off and ended up running up part of the Ben Nevis ultra route. It's pretty clear why they call this the most technical race in the series, the Scottish vertigo. Running down hill is almost as hard as running up it here – a mess of stones, tree roots, and brutal gradients. As one lad from Keswick said as we ran along together, 'this place is like the Lakes on crack'.
 
 I know this is going to be tough. The definition of [Type 2 fun](https://www.rei.com/blog/climb/fun-scale). It's going to hurt physically and test me mentally. But that's part of the fun, isn't it? Paul of Tarsus wrote that suffering produces perseverance, perseverance produces character, and character produces hope. Assuming he was correct, by the time I stagger into the after party on Saturday night, I'll be positively radiating hope.
