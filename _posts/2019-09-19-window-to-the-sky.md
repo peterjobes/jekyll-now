@@ -19,7 +19,7 @@ There's a real magic to a weekend like this. In how many sports do you get to ru
 
 As I sit in a pub eating over priced apple crumble (don't tell me that's not how the elites fuel), there's a strange feeling of belonging. Every table is occupied by mountain runners. Our hobby isn't weird or out of the ordinary here, and I'm conscious that I've way less experience than most in the room.
 
-As if to prove that point, between tapping out the draft of this post and actually publishing, I got talking to Ken Taylor at the bar. Ken is mentioned in Feet in the Clouds and is the [oldest person to complete a Bob Graham round](https://www.thewestmorlandgazette.co.uk/sport/16350444.ken-becomes-oldest-to-complete-bob-graham-round/). He's raced around the world and had some stories to tell.
+(As if to prove that point, between tapping out the draft of this post and actually publishing, I got talking to Ken Taylor at the bar. Ken is mentioned in Feet in the Clouds and is the [oldest person to complete a Bob Graham round](https://www.thewestmorlandgazette.co.uk/sport/16350444.ken-becomes-oldest-to-complete-bob-graham-round/). He's raced around the world and had some stories to tell.)
 
 ![Mountains and a Salomon banner, Kinlochleven]({{ site.baseurl }}/images/skyline-scotland.jpg)*One of the many views from the event village*
 
