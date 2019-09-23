@@ -25,7 +25,7 @@ There's Harthope Burn to cross at the bottom but most of the time you don't even
 
 In previous years I've emerged from the Chevy with a story to tell, having never quite hit my target and always had to fight the desire to quit. This year, however, there's no story: I was hoping to scrape in under four hours but didn't know if I was capable. 
 
-![Heading back towards Wooler on the 2019 Chevy Chase]({{ site.baseurl }}/images/chevy-pete-2019.jpg) *Heading back towards Wooler on the 2019 Chevy Chase*
+![Heading back towards Wooler on the 2019 Chevy Chase]({{ site.baseurl }}/images/chevy-pete-2019.jpg){:class="editorial-highlight-center"}*Heading back towards Wooler on the 2019 Chevy Chase*
 
 By the top of Cheviot I was seven minutes ahead of target and I dropped into the valley expecting a slow down that never came. I summited Hedgehope twelve minutes ahead and by the time I set off up Hell's Path that was seventeen.
 
