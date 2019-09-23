@@ -17,9 +17,9 @@ As I summit I thrust a fist into the air and yell my appreciation to the piper, 
 
 At this point I'm almost five hours in to the Ring of Steall Skyrace. It's the final race in the Salomon Golden Trail World Series and it's got a reputation as the most technical. The name alone causes a sharp intake of breath and that's before you stand at the start and look up at the Mamores towering above.
 
-This was the big one for me. The one race I planned my season around. I pushed hard at the Chevy knowing I needed hills in my legs. My first fear on spraining my ankle was that I would miss this race. And every length in the pool when I couldn't run was with this moment in mind.
+This was the big one for me. The one race I planned my season around. I pushed hard at [the Chevy](https://theunforgivingminute.run/losing-the-plot-chevy-chase-2019/) knowing I needed hills in my legs. My first fear on [spraining my ankle](https://theunforgivingminute.run/turner-landscape-2019/) was that I would miss this race. And every length in the pool when I couldn't run was with this moment in mind.
 
-It did not disappoint. You start off with an unrelenting climb, gaining a thousand metres of elevation as you push up Sgurr an Iubhair. From there you're launched along the Devil's Ridge. I scan the skyline, drinking in the beauty of it all, fix my eyes on the next few metres of ground, and off we go. It looks pretty scary on video but during the race I was so focussed on those next footsteps I didn't notice the drop.
+It didn't disappoint. You start off with an unrelenting climb, gaining a thousand metres of elevation as you push up Sgurr an Iubhair. From there you're launched along the Devil's Ridge. I scan the skyline, drinking in the beauty of it all, fix my eyes on the next few metres of ground, and off we go. It looks pretty scary on video but during the race I was so focussed on those next footsteps I didn't notice the drop.
 
 The ridge takes you to Sgurr a'Mhaim, the first Munro of the race. It's 1099 metres high and the views would be incredible if you stopped to look. Instead it's straight down the scree slope, half running and half surfing the dislodged stones.
 
