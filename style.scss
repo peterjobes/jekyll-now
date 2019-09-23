@@ -371,7 +371,7 @@ img + em {
 	font-size:90%;
 }
 
-.editorial-highlight-center { border:1px solid #eee; padding:6px; }
+.editorial-highlight-center, .title-image { margin-left: -25px; width: calc(100% + 50px) !important; }
 
 @media only screen and (max-width: 640px) { .editorial-highlight-right { margin: 0 auto; float:none; display:block; width:70%; } }
 @media only screen and (min-width: 640px) { .editorial-highlight-right { margin-right: 0; margin-left:25px; width:45%; float:right; } }
