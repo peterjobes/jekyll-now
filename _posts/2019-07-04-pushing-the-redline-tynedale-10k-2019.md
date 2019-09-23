@@ -27,7 +27,7 @@ There are a few short bursts of uphill on the way into picturesque Wylam village
 
 I had a juicy little duel across the beautiful Hagg Bank Bridge with a lad from Morpeth. We'd been switching places in the early miles and now ran side by side, matching each other stride for stride. I made it across the bridge first - but he'd ultimately pass me further along.
 
-![Racing across Hagg Bank Bridge.]({{ site.baseurl }}/images/tyndale-10k-bridge.jpg)
+![Racing across Hagg Bank Bridge.]({{ site.baseurl }}/images/tyndale-10k-bridge.jpg){:class="editorial-highlight-center"}
 
 By the time we dropped down onto the riverside with 3k left I knew the challenge was on. I glanced at my watch and the heart rate showed a few beats above max, with the pointer off the scale in the red zone. Breathing was heavy and my legs were starting to tire but I dug deep to see how long I could redline for.
 
