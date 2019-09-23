@@ -23,7 +23,7 @@ The descent from Crag Hill to Sail is also technical and there were a few tricky
 
 And then the inevitable happened: on the downhill to the finish I found myself in the hurt locker. As I made to pick up pace my right heel started to throb with something like a friction burn. A couple of guys I'd overtaken on the last climb sped past me as I limped the first part of what should've been a barnstorming finish. I'd have given anything for an uphill finish to escape the burning but, glancing behind me and seeing people closing in, I managed to put my foot down and block out the pain for a decent finish.
 
-![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/coledale-horseshoe-downhill.jpg)
+![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/coledale-horseshoe-downhill.jpg){:class="editorial-highlight-center"}
 *Pulling faces. Trying to ignore the pain and focus on the last descent*
 
 Overall the time wasn't as good as I'd hoped but it's a fantastic race on a great route. It's my first race back since injuring myself in January so coming out without injury was a big boost; before the race I'd given it only a 50/50 chance of not destroying my calf completely so this should give me the confidence to push harder on it now.
