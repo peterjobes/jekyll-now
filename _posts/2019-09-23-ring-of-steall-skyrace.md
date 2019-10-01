@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ring of Steall Skyrace 2019
-image: ros-2019-am-bodach-2.jpg
+image: ros-2019-ridge-2.jpg
 alt: Summiting Am Bodach during Ring of Steall
 categories: [Race reports]
 tags: [Scotland, Fell and trail running, Salomon]
