@@ -14,7 +14,7 @@ layout: default
     {{ post.categories }} // Written on {{ post.date | date: "%B %e, %Y" }}
   </div>
       {% if post.image And post.image != "" And post.image != nil %}
-      <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="{{ post.alt }}  class="title-image">   
+      <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="{{ post.alt }}"  class="title-image">   
        {% endif %}
 
       <div class="entry">
