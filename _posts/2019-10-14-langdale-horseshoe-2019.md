@@ -19,13 +19,13 @@ I was really cold at the start and dithered about changing up layers and popping
 
 From there it’s straight across the bogs to Thunacar Knott and on for three miles across clagged-in moorland to the next checkpoint. There was a comic moment when the guy next to me and I disappeared up to our waists in the freezing cold bog. It was just that kind of day. I tried to fuel with a gel but couldn’t swallow anything. My muscles started to ache and, while I was still making progress, I could tell that I wasn’t right.
 
+>There was a comic moment when the guy next to me and I disappeared up to our waists in the freezing cold bog. It was just that kind of day.
+
 I grimaced and shivered as I dibbed my timing chip at the checkpoint at Esk Hause Shelter. 
 
 “Are you okay?” asked the marshal. Credit to her for noticing the grim reaper was trying to dib.
 
 “-ish,” I replied, and stubbornly turned my head towards the cloud covered summit of Bowfell. I was done. As we pushed into the clouds, I lost track of the runners in front and had to follow the line of cairns in the mist to the summit. 
-
->As we pushed into the clouds, I lost track of the runners in front and had to follow the line of cairns in the mist to the summit.
 
 I paused for a moment at the checkpoint to dig out a buff and was engulfed in runners. A group of around twenty had arrived all at once and I was left to take off down the rock field after them.
 
@@ -43,7 +43,7 @@ The strangest thing happened next: with the valley breeze brushing my arms for t
 
 >with the valley breeze brushing my arms for the first time and the club crest on my chest, I found a bit more pace.
 
-It was the worst race day I can remember. Attempting a long, technical, fell race while fighting the flu is a ruddy daft thing to do. I didn’t have the energy or focus and, with my confidence knocked by a few slips on greasy rocks, finishing was all I could manage. 
+In terms of how I felt and ran, it was the worst race day I can remember. Attempting a long, technical, fell race while fighting the flu is a daft thing to do. I didn’t have the energy or focus and, with my confidence knocked by a few slips on greasy rocks, finishing was all I could manage. 
 
 You can see why the Langdale Horsehoe is a classic race, the terrain was technical from the start and the route was breathtaking. I finished swearing that the route wasn’t my scene and I’d not be back. Now, having sulked and drank lots of tea, I’m planning to train on it next spring to improve on technical terrain. It’s added to the list of unfinished business.
 
