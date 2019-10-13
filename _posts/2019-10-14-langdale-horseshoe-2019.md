@@ -9,7 +9,7 @@ tags: [Fell running, Lake District, Trail and Fell, Wainwrights]
 
 I’ve often wondered what happens if it’s race day and your body just doesn’t turn up; today, I found out. I left work on Tuesday morning ice cold and aching all over. Having spent two days in bed and one on the sofa, I decided I should return on Friday – not least to prove that I was well enough to run on Saturday.
 
-Several people told me this was a silly idea. “You’re not well,” they said, “have a rest day and recover.” I listened and understood that what they were saying was wise. So, needless to say I woke up on Saturday morning and drove to the Lakes for the Langdale Horseshoe. 
+Several people told me this was a silly idea. “You’re not well,” they said, “have a rest day and recover.” I listened and understood that what they were saying was wise. So, needless to say I woke up on Saturday morning and drove to the Lakes for [Ambleside AC's](https://www.amblesideac.org.uk/) brilliant Langdale Horseshoe. 
 
 It’s an AL fell race, which means it’s pretty much the best kind, if by best you mean hilliest and longest. It’s known for being brutal underfoot and attracts a good crowd of fell runners.
 
@@ -45,6 +45,6 @@ The strangest thing happened next: with the valley breeze brushing my arms for t
 
 In terms of how I felt and ran, it was the worst race day I can remember. Attempting a long, technical, fell race while fighting the flu is a daft thing to do. I didn’t have the energy or focus and, with my confidence knocked by a few slips on greasy rocks, finishing was all I could manage. 
 
-You can see why the Langdale Horsehoe is a classic race, the terrain was technical from the start and the route was breathtaking. I finished swearing that the route wasn’t my scene and I’d not be back. Now, having sulked and drank lots of tea, I’m planning to train on it next spring to improve on technical terrain. It’s added to the list of unfinished business.
+It's not hard to see why the Langdale Horsehoe is a classic race, the terrain was technical from the start and the route was breathtaking. I finished swearing that the route wasn’t my scene and I’d not be back. Now, having sulked and drank lots of tea, I’m planning to train on it next spring to improve on technical terrain. It’s added to the list of unfinished business.
 
 And there was a silver lining to the day when I added the final three summits to my hill list app and saw my total of Wainwrights click over to fifty-one. There's plenty left to go, but fifty feels like a landmark.
