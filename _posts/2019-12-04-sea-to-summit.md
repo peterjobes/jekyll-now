@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sea to summit
-image: seatosummit1.jpg
+image: seatosummit3.jpg
 alt: Feet above the clouds on the summit of Pico del Cielo
 categories: [Adventures]
 tags: [Adventures, Training, Travel, Fell and trail running]
@@ -27,9 +27,9 @@ From then on the going is all trail and the path is straight forward to follow. 
 
 With carry on luggage only, I'd taken my Salomon SpeedCross. I sometimes wear them for light hiking as well as running so they seemed a good shout for a trip away. They didn't disappoint. As the going got steep I encountered quite a few sheets of rock and it’s like having adhesive on your feet.
 
-![The final approach and cross on the summit]({{ site.baseurl }}/images/seatosummit4.jpg){:class="editorial-highlight-center"} *The final approach and cross on the summit*
-
 With a couple of hundred metres elevation gain left, the trail became more scree and loose rocks, although still not technical. The sun glinting off the cross that marks the summit gave a clear point to aim for.
+
+![The final approach and cross on the summit]({{ site.baseurl }}/images/seatosummit4.jpg){:class="editorial-highlight-center"} *The final approach and cross on the summit*
 
 From then on it seemed only moments until I hit the summit. The views were incredible, with Nerja and the Mediterranean to one side and the tops of the clouds to the other. Sea to summit took about two hours, which doesn't feel bad for a training jaunt with that elevation.
 
@@ -41,11 +41,7 @@ Having enjoyed the moment of adrenaline and indulged in a summit selfie, I decid
 
 I headed north from the summit. I couldn't see a path so started to pick my way over the rocky ground. Clambering over bushes and fallen tree trunks, I use the ancient navigational method of 'heading in the general direction of a summit'.
 
-![Enjoying the feeling of hitting the summit]({{ site.baseurl }}/images/seatosummit3.jpg){:class="editorial-highlight-center"} *Enjoying the feeling of hitting the summit*
-
-After about half an hour, I came over a rise only to survey a valley I'd have to cross to reach Navachica. It would mean a big descent and another lengthy climb to get across there and I was running low on water.
-
-One of the biggest differences between the terrain there and back home is the lack of water sources. I'd not seen a drop since leaving the village and decided to head back.
+After about half an hour, I came over a rise only to survey a valley I'd have to cross to reach Navachica. It would mean a big descent and another lengthy climb to get across there and I was running low on water. One of the biggest differences between the terrain there and back home is the lack of water sources. I'd not seen a drop since leaving the village and decided to head back.
 
 By the time I hit Pico del Cielo for the second time the wind was up and the summit wreathed in cloud. I'd spent about an hour in my aborted attempt to find more peaks. There were some great views but it didn’t help with momentum.
 
@@ -55,9 +51,9 @@ I ducked off the summit but missed the path down - what had been an easy ascent 
 
 Things improved when the single track resumed and I started to pick up some pace again. Every bush and plant seemed designed to scratch and cut so my legs took a constant battering on the narrow path.
 
-As soon as I hit the road again it became an easy downhill towards Cueva de Nerja, and I set away on cruise control.
+![The view from the top]({{ site.baseurl }}/images/seatosummit1.jpg){:class="editorial-highlight-center"} *The view from the top*
 
-![The view from the top]({{ site.baseurl }}/images/seatosummit5.jpg){:class="editorial-highlight-center"} *The view from the top*
+As soon as I hit the road again it became an easy downhill towards Cueva de Nerja, and I set away on cruise control.
 
 I arrived in the tourist car park at the caves and stopped the clock at 25km. The last part of the descent was boiling and I'd been unable to cool down so it felt great to finish. A bottle of Fanta Limon has never tasted so good.
 
