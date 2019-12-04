@@ -11,7 +11,7 @@ They were definitely naked. Sin ropa. Starkers. I couldn't say for certain wheth
 
 I was staying in the village of Maro, lured by the towering Pico del Cielo rising 1,508 metre above the white washed Andalusian houses. 
 
-I could well have started there, but there's a special attraction to going from sea to summit. Plus, where better to calibrate an altimeter than with your feet in the waves? So I headed the kilometre down to the beach in the morning sun.
+I could well have started at my apartment, but there's a special attraction to going from sea to summit. Plus, where better to calibrate an altimeter than with your feet in the waves? So I headed the kilometre down to the beach in the morning sun.
 
 It was obvious I was out of place. I wasn't the only one in clothes, but I suspect I was the only one who didn't live there and the residents looked bemused to see me. I stood briefly in the waves and then set straight off up the steps.
 
