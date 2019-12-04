@@ -59,7 +59,7 @@ With about 8km left I rolled my ankle. It wasn't tricky ground, I just lost my f
 As soon as I hit the road again it became an easy downhill towards Cueva de Nerja, I forced myself to have my second gel, mainly because my inability to fuel properly is costing me in fell races so I need to get in the habit, and set away on cruise control. 
 
 ![The view from the top]({{ site.baseurl }}/images/seatosummit5.jpg){:class="editorial-highlight-center"}
-* The view from the top*
+*The view from the top*
 
 I arrived in the tourist car park at the caves and stopped the clock at 25km. The last part of the descent was boiling and I'd been unable to cool down so it felt great to finally stop. A bottle of Fanta Limon has never tasted so good.
 
