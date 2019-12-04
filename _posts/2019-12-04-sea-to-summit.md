@@ -29,13 +29,11 @@ With carry on luggage only, I'd taken my Salomon SpeedCross. I sometimes wear th
 
 With a couple of hundred metres elevation gain left, the trail became more scree and loose rocks, although still not technical. The sun glinting off the cross that marks the summit gave a clear point to aim for.
 
-![The final approach and cross on the summit]({{ site.baseurl }}/images/seatosummit4.jpg){:class="editorial-highlight-center"} *The final approach and cross on the summit*
-
 From then on it seemed only moments until I hit the summit. The views were incredible, with Nerja and the Mediterranean to one side and the tops of the clouds to the other. Sea to summit took about two hours, which doesn't feel bad for a training jaunt with that elevation.
 
 The sensible thing to do, of course, would be to turn around and head back down. I'd achieved my goal, eaten my last haribo, used more than half of my water, and had no map other than the GPX file of my planned route. On the other hand, I could see more peaks.
 
->The sensible thing to do would be to turn around and head back down... on the other hand, I could see more peaks.
+![The final approach and cross on the summit]({{ site.baseurl }}/images/seatosummit4.jpg){:class="editorial-highlight-center"} *The final approach and cross on the summit*
 
 Having enjoyed the moment of adrenaline and indulged in a summit selfie, I decided to crack on. There are three main peaks in the Sierras de Tejeda and I wondered if I could blag a round of them. Navachica was visible and it didn't look too tricky to get to so why not?
 
@@ -51,9 +49,9 @@ I ducked off the summit but missed the path down - what had been an easy ascent 
 
 Things improved when the single track resumed and I started to pick up some pace again. Every bush and plant seemed designed to scratch and cut so my legs took a constant battering on the narrow path.
 
-![The view from the top]({{ site.baseurl }}/images/seatosummit1.jpg){:class="editorial-highlight-center"} *The view from the top*
-
 As soon as I hit the road again it became an easy downhill towards Cueva de Nerja, and I set away on cruise control.
+
+![The view from the top]({{ site.baseurl }}/images/seatosummit1.jpg){:class="editorial-highlight-center"} *The view from the top*
 
 I arrived in the tourist car park at the caves and stopped the clock at 25km. The last part of the descent was boiling and I'd been unable to cool down so it felt great to finish. A bottle of Fanta Limon has never tasted so good.
 
