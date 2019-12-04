@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sea to summit
-image: seatosummit1.jpeg
+image: seatosummit1.jpg
 alt: Feet above the clouds on the summit of Pico del Cielo
 categories: [Adventures]
 tags: [Adventures, Training, Travel, Fell and trail running]
@@ -13,7 +13,7 @@ I was staying in the village of Maro, lured by the towering Pico del Cielo risin
 
 From the apartment door, the summit is framed by a row of white washed Andalusian houses. I could’ve started there, but the poet in me wanted the waves lapping my feet. Plus, where better to calibrate an altimeter than at sea level? So I headed the kilometre down to the beach in the morning sun. 
 
-![The Mediterranean Sea, feet in the waves]({{ site.baseurl }}/images/seatosummit2.jpeg){:class="editorial-highlight-center"}
+![The Mediterranean Sea, feet in the waves]({{ site.baseurl }}/images/seatosummit2.jpg){:class="editorial-highlight-center"}
 *The Mediterranean Sea, feet in the waves*
 
 I was very obviously out of place. I wasn't the only one in clothes, but I suspect I was the only one who didn't live there and the residents looked surprised to see me. I stood briefly in the waves and then set straight off up the steps.
@@ -26,7 +26,7 @@ The going is mainly trail and the path is straight forward to follow, but knowin
 
 With carry on luggage only, I'd taken my Salomon SpeedCross; I sometimes wear them for light hiking as well as running so they seemed a good shout for a trip away. They didn't disappoint — as the going got steep I encountered quite a few sheets of rock and it’s like having adhesive on your feet.
 
-![The final approach and cross on the summit]({{ site.baseurl }}/images/seatosummit4.jpeg){:class="editorial-highlight-center"}
+![The final approach and cross on the summit]({{ site.baseurl }}/images/seatosummit4.jpg){:class="editorial-highlight-center"}
 *The final approach and cross on the summit*
 
 With only a couple of hundred metres elevation gain left, the trail became more scree and loose rocks — although still not technical. The sun glinting off the cross that marks the summit gave a clear point to aim for.
@@ -39,7 +39,7 @@ The sensible thing to do, of course, would be to turn around and head back down.
 
 Having enjoyed my moment of adrenaline and indulged in a summit selfie, I decided to crack on and see if I could make it a mini round of the three main peaks in the Sierras de Tejeda. Navachica was visible and it didn't look too tricky to get to so why not? 
 
-![Enjoying the feeling of hitting the summit]({{ site.baseurl }}/images/seatosummit3.jpeg){:class="editorial-highlight-center"}
+![Enjoying the feeling of hitting the summit]({{ site.baseurl }}/images/seatosummit3.jpg){:class="editorial-highlight-center"}
 *Enjoying the feeling of hitting the summit*
 
 What followed was half an hour of me picking my way over rocky ground, clambering over bushes and trying to guide myself by the ancient method of heading in the general direction of a visible summit. 
@@ -58,7 +58,7 @@ With about 8km left I rolled my ankle. It wasn't tricky ground, I just lost my f
 
 As soon as I hit the road again it became an easy downhill towards Cueva de Nerja, I forced myself to have my second gel, mainly because my inability to fuel properly is costing me in fell races so I need to get in the habit, and set away on cruise control. 
 
-![The view from the top]({{ site.baseurl }}/images/seatosummit5.jpeg){:class="editorial-highlight-center"}
+![The view from the top]({{ site.baseurl }}/images/seatosummit5.jpg){:class="editorial-highlight-center"}
 * The view from the top*
 
 I arrived in the tourist car park at the caves and stopped the clock at 25km. The last part of the descent was boiling and I'd been unable to cool down so it felt great to finally stop. A bottle of Fanta Limon has never tasted so good.
