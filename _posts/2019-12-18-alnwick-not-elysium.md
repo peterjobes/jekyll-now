@@ -44,6 +44,6 @@ In cross country the top six finishers for the club score points. I've not made 
 
 >Cross country scoring seems complex, but it is good for making you fight for every place.
 
-The rest of the final lap was spent doing exactly that: pushing as hard as possible to overtake as many people as possible. I crossed the line gasping for air, shook hands with a few folks and tried not to catch sudden and irreversible hypothermia. It had been a difficult outing and during that second lap I thought I may not get round at all. It felt pretty good to come back from there and finish strong.
+The rest of the final lap was spent pushing as hard as possible to overtake as many people as possible. I crossed the line gasping for air, shook hands with a few folks and tried not to catch sudden and irreversible hypothermia. It had been a difficult outing and during that second lap I thought I may not get round at all. It felt pretty good to come back from there and finish strong.
 
 Any race that brings a bit of the runner's high is always going to be a whole lot of fun. It's surprised me quite how enjoyable Cross Country is. How often, as adults, do you get to stomp around in the mud en masse? It's a great way to spend a Saturday.
