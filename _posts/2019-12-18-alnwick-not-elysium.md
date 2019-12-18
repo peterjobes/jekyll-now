@@ -14,7 +14,7 @@ My first two outings have been in the Harrier League. It turns out this cross co
 
 >Aykley Heads was a mud bath of epic proportions. We’re talking like the fields of Agincourt kind of muddy. There are probably people still out there, crying for help under a foot or two of mud.
 
-This weekend was the North Eastern Championships in Alnwick. It’s an impressive setting for a race, with the tent village that accompanies a cross country meet springing up in the pastures of the magnificent Alnwick Castle.
+Last weekend was the North Eastern Championships in Alnwick. It’s an impressive setting for a race, with the tent village that accompanies a cross country meet springing up in the pastures of the magnificent Alnwick Castle.
 
 A warm up was definitely the right choice, but had the draw back of making me so aware of the cold that I hid in the club tent until the whistle blew to assemble.
 
@@ -27,7 +27,6 @@ We’re tightly packed as the gun goes off and we stampede westwards, straight i
 I started to feel sluggish as I left the forest. There’s a down hill that completes the first lap and it didn't go quite right. I’d been running strong until suddenly my legs didn’t seem to have enough. My mind flooded with doubts as I struggled into the wind. I’ve been feeling slow for a few weeks and I started to have the quit urge. 
 
 ![Running along the stones through the forest]({{ site.baseurl }}/images/nexc-2.jpg){:class="editorial-highlight-right"}
-*Running along the stones through the forest*
 
 Most of the second lap was spent dragging myself around, feeling like I was losing ground, until I hit the stone path again. It was there that I felt the sun filter through the trees and a moment of peaceful calm, out of the wind. Everything seemed to click and, with the runner's high kicking in, I forgot the world.
 
