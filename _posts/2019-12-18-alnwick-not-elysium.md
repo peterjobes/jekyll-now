@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Alnwick, not Elysium (North East Cross Country Championships 2019)
-image: sunderland-5k-2019.jpg
-alt: Shoes and vest after Sunderland 5k
+image: nexc-1a.jpg
+alt: I think the face says it all
 categories: [Race reports]
 tags: [North East, Cross Country]
 ---
@@ -25,6 +25,9 @@ We’re tightly packed as the gun goes off and we stampede westwards, straight i
 >As is customary for cross country, the wind was blowing somewhere between a gail and a raging hoolie.
 
 I started to feel sluggish as I left the forest. There’s a down hill that completes the first lap and it didn't go quite right. I’d been running strong until suddenly my legs didn’t seem to have enough. My mind flooded with doubts as I struggled into the wind. I’ve been feeling slow for a few weeks and I started to have the quit urge. 
+
+![Running along the stones through the forest]({{ site.baseurl }}/images/nexc-2.jpg){:class="editorial-highlight-right"}
+*Running along the stones through the forest*
 
 Most of the second lap was spent dragging myself around, feeling like I was losing ground, until I hit the stone path again. It was there that I felt the sun filter through the trees and a moment of peaceful calm, out of the wind. Everything seemed to click and, with the runner's high kicking in, I forgot the world.
 
