@@ -6,11 +6,11 @@ alt: I think the face says it all
 categories: [Race reports]
 tags: [North East, Cross Country]
 ---
-I always said no to Cross Country. Marathon training was my usual excuse. Saturday is long run day, but really I remembered how crap it was at school running along the grassy cliff tops in the cold. 
+I always said no to Cross Country. Marathon training was my usual excuse. Saturday is long run day, but really it was the memory of how crap it was at school running along the grassy cliff tops in the cold. 
 
 This season though, I ran out of excuses. I’m not marathon training yet and my enjoyment of the fells made me think cross country might be worth a try.
 
-My first two outings have been in the Harrier League. It turns out this cross country running lark is popular. Wrekenton proved to be a pretty dry and pleasant affair and then, as if to show how grim things can get, Aykley Heads was a mud bath of epic proportions. We’re talking like the fields of Agincourt kind of muddy. There are probably people still out there, crying for help under a foot or two of mud.
+My first two outings have been in the Harrier League, and it turns out this cross country running lark is popular. Wrekenton proved to be a pretty dry and pleasant affair and then, as if to show how grim things can get, Aykley Heads was a mud bath of epic proportions. We’re talking like the fields of Agincourt kind of muddy. There are probably people still out there, crying for help under a foot or two of mud.
 
 >Aykley Heads was a mud bath of epic proportions. We’re talking like the fields of Agincourt kind of muddy. There are probably people still out there, crying for help under a foot or two of mud.
 
@@ -30,7 +30,7 @@ I started to feel sluggish as I left the forest. There’s a down hill that comp
 
 Most of the second lap was spent dragging myself around, feeling like I was losing ground, until I hit the stone path again. It was there that I felt the sun filter through the trees and a moment of peaceful calm, out of the wind. Everything seemed to click and, with the runner's high kicking in, I forgot the world.
 
-I lengthened my stride, the number one weapon in the lanky runner’s arsenal, and remembered Maximus in Gladiator. “If you find yourself alone, riding in green fields with the sun on your face, do not be troubled; for you are in Elysium.”
+I lengthened my stride, the number one weapon in the lanky runner’s arsenal, and remembered Maximus in Gladiator: *“If you find yourself alone, riding in green fields with the sun on your face, do not be troubled; for you are in Elysium.”*
 
 It was about twenty seconds later that I passed a break in the trees. The biting wind nigh on cut me in two, footsteps broke my reverie, and a runner from another club overtook me. Back to earth: You’re in Alnwick, not Elysium.
 
