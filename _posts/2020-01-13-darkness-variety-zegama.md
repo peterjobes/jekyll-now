@@ -24,7 +24,7 @@ I also find it important to remember that something is better than nothing. It m
 
 A big highlight for me was a ten mile loop through Rotterdam. My route crossed the Willemsbrug and Erasmusbrug, two iconic bridges, and finished with Kralingse lake. It was great to get a good run like that in on holiday, and follow it up the next morning with a quick-ish 5k to keep momentum up.
 
-I've closed out the month on 253km. It's my highest monthly running total yet and goes a long way towards setting me up for the year ahead.
+I've closed out the month on 258km. It's my highest monthly running total yet and goes a long way towards setting me up for the year ahead.
 
 Season planning has been less successful. I've entered Ultra North 55k. It'll be my first Ultra and the timing is perfect to use it to build up base fitness for the rest of the season. Much of the trail season hangs on the results of a ballot in the picturesque Basque town of Zegama.
 
