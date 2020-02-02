@@ -1,8 +1,6 @@
 ---
 layout: post
 title: January 2020 - Darkness, variety, and the mirage of Zegama
-image: datascreen.jpg
-alt: 
 categories: [Run notes]
 tags: [Training, Ultra, Run notes]
 ---
