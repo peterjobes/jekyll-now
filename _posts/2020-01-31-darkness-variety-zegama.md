@@ -8,7 +8,7 @@ As new year's running goals go, this year's were fairly standard. Go further, hi
 
 January, then, is when the rubber hits the road. And the trail. And any other surface that looks like it may be runnable. It's a month of poring over race listings and trying to get the key dates in the diary firmed up. 
 
-The month started with the Resolution Run on Newcastle Town Moor. It's a multi-terrain 9km with a few hills that are steep enough to make you groan but not so lengthy as to slow you to a walk. I set off quick only to realise I didn't have it in the lungs or the legs to keep up the pace. The hills were my only salvation, having still plenty of hills in my legs from last year's racing. I lost places on the flat and regained them on the climbs. 
+The month started with the Resolution Run on Newcastle Town Moor. It's a multi-terrain 9km with a few hills that are steep enough to make you groan but not so lengthy as to slow you to a walk. I set off quick only to realise I didn't have it in the lungs or the legs to keep up the pace. The hills were my only salvation. I still had my hill legs from last year's racing, so I lost places on the flat and regained them on the climbs. 
 
 >The hills were my only salvation, having still plenty of hills in my legs from last year's racing. I lost places on the flat and regained them on the climbs. 
 
