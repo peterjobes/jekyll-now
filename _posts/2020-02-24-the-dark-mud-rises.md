@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dark Mud Rises - National XC Champs 2020
-image: nxc2020-1a.jpg
+image: nxc2020-1.jpg
 alt: Splashing through the clart
 categories: [Race reports]
 tags: [Cross Country]
