@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dark Mud Rises - National XC Champs 2020
-image: nxc2020-1.jpg
+image: nxc2020-1.jpeg
 alt: Splashing through the clart
 categories: [Race reports]
 tags: [Cross Country]
@@ -16,7 +16,7 @@ There's ten races across the day, ranging from under thirteens to seniors. We ar
 
 While in the Harrier league we start in waves, this is an all out race and the start is as exhilarating as it is bonkers. Almost two thousand athletes stood five deep along a huge start line, ready to take off as soon as the gun goes.
 
-![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/nxc2020-2.jpg){:class="editorial-highlight-center"}
+![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/nxc2020-2.jpeg){:class="editorial-highlight-center"}
 *Pulling faces. Trying to ignore the pain and focus on the last descent*
 
 I went off as quick as I could manage, eager to get around the first corner and avoid any bottlenecking. I spent the rest of the first few minutes wondering if my increased training had made me much faster or if I would slow down. You already know the answer to that, and sure enough I settled in to a more manageable pace.
@@ -27,7 +27,7 @@ I'm finding in multi-terrain events I tend to fair better on the challenging par
 
 By the time I passed the start line to begin the final lap, I could hear the commentator proclaiming the lightning like finish of Gateshead's Calum Johnson. He'd somehow managed to average 3:20/km around the whole course. Incredible stuff. I can't compute how you move your legs that fast in that much mud.
 
-![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/nxc2020-3.jpg){:class="editorial-highlight-center"}
+![Entering the hurt locker on the downhill from Barrow]({{ site.baseurl }}/images/nxc2020-3.jpeg){:class="editorial-highlight-center"}
 *Pulling faces. Trying to ignore the pain and focus on the last descent*
 
 By the last lap I'd found my favoured route through the worst of the flooded sections and the muddiest bits. I took the outside line to avoid the crowds pushing through the middle, it may be a bit longer but having a clear run through made it quicker.
