@@ -6,9 +6,9 @@ alt: Splashing through the clart
 categories: [Race reports]
 tags: [Cross Country]
 ---
-Clarty. There's no better word to describe the conditions at Saturday's National Cross Country Championships. It was right clarty. Back to back winter storms had seen fit to empty the heavens, leaving the course a mess of mud and sludge. Or, as I like to think of it, perfect cross country conditions. 
+Clarty. There's no better word to describe the conditions at Saturday's National Cross Country Championships. It was right clarty. Back to back winter storms had seen fit to empty the heavens, leaving the course a mess of mud and sludge. *Or*, as I like to think of it, perfect cross country conditions. 
 
-This year's championships were at Wollaton Hall in Nottingham, used as Wayne Manor in The Dark Knight Rises. An Elizabethan Country House surrounded by 500 acres of park land, it makes a fantastic venue for racing. 
+This year's championships were at Wollaton Hall in Nottingham, used as Wayne Manor in *The Dark Knight Rises*. An Elizabethan Country House surrounded by 500 acres of park land, it makes a fantastic venue for racing. 
 
 A good friend from the club had told me that I had to experience the nationals, and he was bang on. The atmosphere is great with thousands of runners coming from across the country. Tents spring up in club colours, with flags fluttering outside to show their crests.
 
