@@ -365,6 +365,13 @@ footer {
 	float:right;
 }
 
+.editorial-highlight-left {
+	width:50%;
+	margin-right: 25px;
+	float:left;
+}
+
+
 img + em {
 	color:#888;
 	font-size:90%;
@@ -372,9 +379,20 @@ img + em {
 
 .editorial-highlight-center, .title-image { margin-left: -25px; width: calc(100% + 50px) !important; }
 
-@media only screen and (max-width: 640px) { .editorial-highlight-right { margin: 0 auto; float:none; display:block; width:70%; } }
-@media only screen and (min-width: 640px) { .editorial-highlight-right { margin-right: 0; margin-left:25px; width:45%; float:right; } }
-@media only screen and (min-width: 1050px) { .editorial-highlight-right { margin-right: -25%; margin-left:25px; width:50%; float:right; } }
+.editorial-highlight-center-small { margin: 0 auto; float:none; display:block; width:70%; }
+
+@media only screen and (max-width: 640px) { 
+	.editorial-highlight-right { margin: 0 auto; float:none; display:block; width:70%; } 
+	.editorial-highlight-left { margin: 0 auto; float:none; display:block; width:70%; }
+}
+@media only screen and (min-width: 640px) { 
+	.editorial-highlight-right { margin-right: 0; margin-left:25px; width:45%; float:right; } 
+	.editorial-highlight-left { margin-left: 0; margin-right:25px; width:45%; float:left; } 
+}
+@media only screen and (min-width: 1050px) { 
+	.editorial-highlight-right { margin-right: -25%; margin-left:25px; width:50%; float:right; } 
+	.editorial-highlight-left { margin-left: -25%; margin-right:25px; width:50%; float:right; } 
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
