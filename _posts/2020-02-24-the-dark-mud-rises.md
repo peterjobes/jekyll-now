@@ -12,11 +12,11 @@ This year's championships were at Wollaton Hall in Nottingham, used as Wayne Man
 
 A good friend from the club had told me that I had to experience the nationals, and he was bang on. The atmosphere is great with thousands of runners coming from across the country. Tents spring up in club colours, with flags fluttering outside to show their crests.
 
+![A rare flat and dry section, but I'm still pulling faces]({{ site.baseurl }}/images/nxc2020-3.jpeg){:class="editorial-highlight-left"}
+
 There's ten races across the day, ranging from under thirteens to seniors. We arrived in plenty of time to watch some of the junior races. This was good, in that it gave an idea of what was to come; this was also bad, in that it gave an idea of what was to come.
 
 While in the Harrier league we start in waves, this is an all out race and the start is as exhilarating as it is bonkers. Almost two thousand athletes stood five deep along a huge start line, ready to take off as soon as the gun goes.
-
-![A rare flat and dry section, but I'm still pulling faces]({{ site.baseurl }}/images/nxc2020-3.jpeg){:class="editorial-highlight-left"}
 
 I went off as quick as I could manage, eager to get around the first corner and avoid any bottlenecking. I spent the rest of the first few minutes wondering if my increased training had made me much faster or if I would slow down. You already know the answer to that, and sure enough I settled in to a more manageable pace.
 
