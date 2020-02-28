@@ -27,9 +27,9 @@ The men's race was four laps of ever increasing size, the first of which was the
 
 I’m finding in cross country I tend to fair better on the challenging parts. I lose ground on the flatter and drier sections, probably due to my lack of speed work, but tend to make it up through the mud or up hill.
 
-The third lap took us up to the back of Wollaton Hall itself, followed by a sweeping downhill with a log to jump before you descend back into the waiting clag. 
-
 ![Pushing for the finish line]({{ site.baseurl }}/images/nxc2020-2.jpeg){:class="editorial-highlight-right"}
+
+The third lap took us up to the back of Wollaton Hall itself, followed by a sweeping downhill with a log to jump before you descend back into the waiting clag. 
 
 By the final lap I’d found my favoured route through the worst of the flooded sections and the muddiest bits. I was finding it quicker to take harder lines – muddier or longer – rather than contend with the busyness of the course.
 
