@@ -39,8 +39,8 @@ Like all good cross country courses, it demanded a steady flow of shoes be sacri
 
 As I passed the 12km mark it was clear there was still some way to go, which made it hard to know when to give a final push. The finish eventually came into view but there was one last quagmire to charge through before the relief of the line.
 
-I’d pushed hard the whole way and felt good about my pace (you know you've pushed yourself when every photo looks like you're lost forever in the hurt locker). Feeling in good form combined with the mud, pools and logs to jump made this one of the most enjoyable races I’ve ran. Already looking forward to next year at Parliament Hill.
+I’d pushed hard the whole way and felt good about my pace. Feeling in good form combined with the mud, pools and logs to jump made this one of the most enjoyable races I’ve ran. Already looking forward to next year at Parliament Hill.
 
 --
 
-*Many thanks to Saucony for the photos. (As ever I'm finding new ways to pull pained faces in races!)*
+*Many thanks to Saucony for the photo.*
