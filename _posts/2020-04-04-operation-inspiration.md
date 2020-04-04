@@ -9,7 +9,7 @@ tags: [Virtual race, Marathon, Lockdown]
 
 It seems a cliche to say we live in unprecedented times, but it's also true. Much of the world is now on some form of lockdown, with a variety of rules and restrictions. 
 
-There are many things more important than running and it's right that our activities are restricted. It's moving to see society agree to sacrifice things we love for the greater good. But it's also understandable for many of us to miss racing, it's a big part of our lives. 
+There are many things more important than running and it's right that our activities are restricted. It's moving to see society agree to sacrifice things we love for the greater good. But it's also understandable for many of us to miss racing, it's a big part of our lives. For city dwellers as well – I really miss the hills and the trails and the fells.
 
 With all races cancelled it can feel like training lacks purpose and definition. Step up the IRunFar #OperationInspiration virtual race. It's a great way to exercise and be part of something bigger while sticking to the rules in each country. What's better than that is that all proceeds go to the WHO COVID-19 Response Fund. That was over $48,000 last time I looked!
 
