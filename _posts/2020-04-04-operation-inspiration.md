@@ -39,7 +39,7 @@ Everything continued at steady pace, popping gloves on to open and shut the gate
 
 Things continued to feel great all the way into the city, where I turned at 36km and crossed the Swing Bridge to head back towards the house. As ever, though, it's the hope that kills you: After being on target for three hours, the last 6km saw the seemingly inevitable slow down.
 
-I've been aiming for a sub 3:30 for ages. My times at shorter distances suggest I should be running closer to 3 hours but it remains elusive. I struggled up the hill to the famous Scotswood Road and headed away to Blaydon. There was still a PB to aim for.
+I've been aiming for a sub 3:30 for ages. My times at shorter distances suggest I should be running closer to 3 hours but it remains elusive. I struggled up the hill to the famous Scotswood Road and headed away toward Blaydon. There was still a PB to aim for.
 
 By this point I was at about ten minute mile pace, having sustained a comfortable 8 minute pace the rest of the way. New target, sub 3:35. I tried to push but nothing was quite working. It felt good to keep running though – every marathon so far has seen me walk for short spells after hitting the wall.
 
