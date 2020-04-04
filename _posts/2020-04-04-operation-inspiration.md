@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marathon Distance x Social Distance
+title: Operation Inspiration
 image: irunfar-1.jpg
 alt: Celebrating a PB in a virtual race
 categories: [Race reports]
@@ -52,5 +52,7 @@ With 300 metres left I could see I'd need to up my pace to come in on time. Ther
 Grateful to IRunFar for putting on a virtual race challenge. It gave a way to contribute to something good and use some of the winter training miles in a meaningful way. Depending on your time zone you might still have time to [join in](https://www.irunfar.com/store/product/operation-inspiration-virtual-race-entry/). It'd be great to top the $50k and keep going some. 
 
 The 3:30 may wait, but it's a joy to do something like this in a lockdown. Stay well, friends. And keep active in whatever way is safe and allowed where you are. Looking forward to seeing you on the trails when all of this is over.
+
+Marathon Distance x Social Distance.
 
 **Gear:** Mizuno Waveknit R2 shoes, Salomon S-Lab Sense Set 8 trail vest, Suunto 9 Baro, Maurten gels.
