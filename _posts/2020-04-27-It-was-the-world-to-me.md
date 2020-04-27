@@ -54,3 +54,5 @@ Chopwell Woods is not the wilderness and the hills enclosed there are neither Wa
 If I can get that kind of endorphin and adrenaline rush from some local trails, I can't imagine how good it'll feel to experience nature in all it's glory when lockdown is over.
 
 The trails may be empty, but my anticipation is overflowing.
+
+**Gear:** Salomon S/Lab Ultra 2 shoes, Salomon S-Lab Sense Set 8 trail vest, Suunto 9 Baro, Maurten gels, SunGod Sierra sunglasses.
