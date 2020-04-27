@@ -1,8 +1,8 @@
 ---
 layout: post
 title: It was the world to me
-image: seatosummit3.jpg
-alt: Feet above the clouds on the summit of Pico del Cielo
+image: chopwell-1.jpg
+alt: Trees in Chopwell Woods
 categories: [Adventures]
 tags: [Adventures, Training, Fell and trail running]
 ---
