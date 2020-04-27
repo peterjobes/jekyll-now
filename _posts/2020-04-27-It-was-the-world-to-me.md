@@ -17,7 +17,7 @@ I even miss the feeling of crouching in a shelter on a windswept summit, envelop
 
 ![Gibside's Liberty Column from Derwent Walk]({{ site.baseurl }}/images/derwent-1.jpg){:class="editorial-highlight-center"} *Gibside's Liberty Column from Derwent Walk*
 
-I miss how it feels to scan the ground a few metres in front of you. The sense of wonder as what your eyes see somehow converts into muscle memory and your feet dance over the rocks and roots moments later. 
+I miss how it feels to scan the ground a few metres in front of you, and the sense of wonder as what your eyes see somehow converts into muscle memory and your feet dance over the rocks and roots moments later. 
 
 Most of all, I miss the blissful abandonment that comes when the conditions and the terrain are perfect. The way you surge forwards, weightless, feeling with every step that all this was some kind of wonderful gift created for no other reason than your delight.
 
@@ -27,7 +27,7 @@ On Saturday, I'd entered the Ultra Trail Drakensberg lockdown edition. The rules
 
 As I nursed a cuppa and some porridge in the morning, I opened the Suunto App and started to plot out a route. I pored over the trail running heatmap, encouraged by the news we're allowed to drive a small distance to exercise. A quick swipe later and a new route was synced to my watch. I filled my soft flasks, threw a couple of gels into my running vest, and tightened up my S/Lab Ultra 2s. This was going to be fun.
 
-The car park is less than ten minutes drive from home, but starting from there made the world of difference. Instead of having to do a 10k round trop to access the trail, I was able to start straight out on it.
+The car park is less than ten minutes drive from home, but starting from there made the world of difference. Instead of having to do a 10k round trip to access the trail, I was able to start straight out on it.
 
 I passed through the near empty paths of the Derwenthaugh Park, drinking in the views of the river and the trees, before joining the Derwent Walk.
 
@@ -37,11 +37,11 @@ I followed the route of the old railway line up through Rowland's Gill. From the
 
 From the station I dropped down a narrow path and into the village of Lintzford itself, crossing the road and pushing up into Chopwell Woods. It's the first time I've ran there and it was a great feeling to find myself once again faced with some hills, albeit nothing too big, and decent trails.
 
-By the time I'd passed the half way point I was running downhills with my arms unashamedly stretched out like wings. This was what I'd came for. After about nine or so miles I took a slight wrong turn, baptised those beautiful red S/Labs in ankle-deep mud for the first time, and found myself alone by the riverside.
+By the time I'd passed the half way point I was running downhills with my arms unashamedly stretched out like wings. This was what I'd came for. Then, after about nine miles or so, I took a slight wrong turn, baptised those beautiful red S/Labs in ankle-deep mud for the first time, and found myself alone by the riverside.
 
 To my left was a thirty foot wall of moss and tree roots, almost begging to be climbed. I reached above me and grabbed onto a branch, propelling myself onto a thin ledge and scanning the terrain for more holds. 
 
-It was at this point that I remembered the lockdown guidance to take no unnecessary risks. I'm pretty sure I could've scrambled it no problem but I couldn't see a definite route. Falling off things right now could put pressure on our already stretched health system. It'll have to wait for another day.
+It was at this point that I remembered the lockdown guidance to take no unnecessary risks. I'm sure I could've scrambled up no problem but I couldn't see a definite route. Falling off things right now could put pressure on our already stretched health system. It'll have to wait for another day.
 
 ![Elated to be back on the trails]({{ site.baseurl }}/images/chopwell-4.jpg){:class="editorial-highlight-center"} *Elated to be back on the trails*
 
@@ -49,7 +49,7 @@ I retraced my steps and joined the trail again but somewhere the navigation got 
 
 By the time I emerged from the woods and rejoined the main path at the old train station, I was past the half marathon mark. I sped up a little and coasted the five miles back to the car wearing a massive grin.
 
-Chopwell Woods is not the wilderness and the hills enclosed there are neither Wainwrights nor Munros, but to be there was golden. After two months of seeing very little trail, they may just as well have been the forests of Yosemite or the mountains of Drakensberg. It was the world to me.
+Chopwell Woods isn't the wilderness and the hills enclosed there are neither Wainwrights nor Munros, but to be there was golden. After two months of seeing very little trail, they may just as well have been the forests of Yosemite or the mountains of Drakensberg. It was the world to me.
 
 If I can get that kind of endorphin and adrenaline rush from some local trails, I can't imagine how good it'll feel to experience nature in all it's glory when lockdown is over.
 
