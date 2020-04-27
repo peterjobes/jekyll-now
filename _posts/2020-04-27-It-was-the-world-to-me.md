@@ -23,19 +23,17 @@ Most of all, I miss the blissful abandonment that comes when the conditions and 
 
 All that is to say, I've rather missed the hills. But on Saturday I had the kind of moments of pure joy usually reserved for the grand experiences in nature.
 
->I miss how it feels to scan the ground a few metres in front of you, and the sense of wonder as what your eyes see somehow converts into muscle memory and your feet dance over the rocks and roots moments later.
-
 On Saturday, I'd entered the Ultra Trail Drakensberg lockdown edition. The rules were simple and it was a good reason to do something a little different to my normal runs along the river.
 
 As I nursed a cuppa and some porridge in the morning, I opened the Suunto App and started to plot out a route. I pored over the trail running heatmap, encouraged by the news we're allowed to drive a small distance to exercise. A quick swipe later and a new route was synced to my watch. I filled my soft flasks, threw a couple of gels into my running vest, and tightened up my S/Lab Ultra 2s. This was going to be fun.
 
+>I miss how it feels to scan the ground a few metres in front of you, and the sense of wonder as what your eyes see somehow converts into muscle memory and your feet dance over the rocks and roots moments later.
+
 The car park is less than ten minutes drive from home, but starting from there made the world of difference. Instead of having to do a 10k round trip to access the trail, I was able to start straight out on it.
 
-I passed through the near empty paths of the Derwenthaugh Park, drinking in the views of the river and the trees, before joining the Derwent Walk.
+I passed through the near empty paths of the Derwenthaugh Park, drinking in the views of the river and the trees, before joining the Derwent Walk. I followed the route of the old railway line up through Rowland's Gill to the long abandoned Lintz Green station, scene of an infamous unsolved murder. 
 
-I followed the route of the old railway line up through Rowland's Gill. From there it continues on to the long abandoned Lintz Green station, scene of an infamous unsolved murder. 
-
-From the station I dropped down a narrow path and into the village of Lintzford itself, crossing the road and pushing up into Chopwell Woods. It's the first time I've ran there and it was a great feeling to find myself once again faced with some hills, albeit nothing too big, and decent trails.
+From the station there's a narrow path down into the village of Lintzford itself and there, just across the road, is Chopwell Woods. It's the first time I've ran there and it was a great feeling to find myself once again faced with some hills, albeit nothing too big, and decent trails.
 
 By the time I'd passed the half way point I was running downhills with my arms unashamedly stretched out like wings. This was what I'd came for. Then, after about nine miles or so, I took a slight wrong turn, baptised those beautiful red S/Labs in ankle-deep mud for the first time, and found myself alone by the riverside.
 
