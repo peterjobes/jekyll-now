@@ -35,7 +35,7 @@ This phrase reminds me that I’m not as good as my [Chevy time in 2019](https:/
 
 When ParkRun was my goal it was so easy to become unhappy because some guy at the front lapped me around the lake. Or because when my housemate told me I could be running a particular time I thought it was impossible because that was only for other runners.
 
-Now, with racing cancelled, my goal in mind is a long, hilly round in the Lakes. And I look at Ricky Lightfoot(https://twitter.com/rickylightfoot) and can’t imagine how a regular human can [get round as quick as him](https://www.instagram.com/p/B9fD21UnaK7/). Or I watch [Judith Wyder run up Munros like they’re pancake flat](https://www.instagram.com/p/B3bdpO7naSs/). And some days that inspires me to hit it harder, to keep going. Other days I drag my carcass up a small hill and think it’s time to give up the dream.
+Now, with racing cancelled, my goal in mind is a long, hilly round in the Lakes. And I look at Ricky Lightfoot and can’t imagine how a regular human can [get round as quick as him](https://www.instagram.com/p/B9fD21UnaK7/). Or I watch [Judith Wyder run up Munros like they’re pancake flat](https://www.instagram.com/p/B3bdpO7naSs/). And some days that inspires me to hit it harder, to keep going. Other days I drag my carcass up a small hill and think it’s time to give up the dream.
 
 Our goals aren’t the enemy, comparison is. Ground your goals in what the best you can expect from your body is, work hard, show yourself grace.  Unless your the world champion, there’s  always someone quicker.
 
