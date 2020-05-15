@@ -35,9 +35,9 @@ This phrase reminds me that I’m not as good as my [Chevy time in 2019](https:/
 
 When ParkRun was my goal it was so easy to become unhappy because some guy at the front lapped me around the lake. Or because when my housemate told me I could be running a particular time I thought it was impossible because that was only for other runners.
 
-Now, with racing cancelled, my goal in mind is a long, hilly round in the Lakes. And I look at Ricky Lightfoot and can’t imagine how a regular human can [get round as quick as him](https://www.instagram.com/p/B9fD21UnaK7/). Or I watch [Judith Wyder run up Munros like they’re pancake flat](https://www.instagram.com/p/B3bdpO7naSs/). And some days that inspires me to hit it harder, to keep going. Other days I drag my carcass up a small hill and think it’s time to give up the dream.
+Now, with racing cancelled, my goal in mind is [a long, hilly round in the Lakes](https://georgefisher.co.uk/pages/abrahams-tea-round). And I look at Ricky Lightfoot and can’t imagine how a regular human can [get round as quick as him](https://www.instagram.com/p/B9fD21UnaK7/). Or I watch [Judith Wyder run up Munros like they’re pancake flat](https://www.instagram.com/p/B3bdpO7naSs/). And some days that inspires me to push harder, to keep going. Other days I drag my carcass up a small hill and think it’s time to give up the dream.
 
-Our goals aren’t the enemy, comparison is. Ground your goals in what the best you can expect from your body is, work hard, show yourself grace.  Unless your the world champion, there’s  always someone quicker.
+Our goals aren’t the enemy, comparison is. Ground your goals in what the best you can expect from your body is, work hard, show yourself grace.  Unless you're the world champion, there’s  always someone quicker.
 
 We need to find joy in our own race, not hold it up as a mirror to compare ourselves and do ourselves down.
 
@@ -48,6 +48,8 @@ I don’t say that flippantly. I know for many, myself included, running is very
 Unless you’re a professional, your livelihood doesn’t depend on it and even if you are — there’s a lot of life beyond the glory days.
 
 Running’s a great servant but a poor master.
+
+## Putting it into action
 
 Yesterday I took a half day off work and decided, at the last minute, to up my long run to twenty miles again. As I toiled in a hilly section of forest my internal monologue started in earnest; _“this is hard going, pal, why not cut it short? If this wee hill is making you tired forget those long days in the mountains. Your best is behind you.”_
 
