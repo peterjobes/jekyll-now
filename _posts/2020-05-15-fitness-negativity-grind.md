@@ -59,5 +59,5 @@ It wasn’t my fastest run by a long way, but it was an unexpected and joyful th
 
 By the time I reached the trailhead the negative voices were silenced. It was a nice day, I’m blessed to be able to have long runs on the trails, and if you can get out and persevere even when you feel you’re under performing? That’s got to be a good sign. 
 
-**Gear:** Salomon Sense Ride 2 shoes, Salomon S-Lab Sense Set 8 trail vest, Insane Inside hat, Suunto 9 Baro, Maurten gels, SunGod Sierra sunglasses.
+**Gear:** Salomon Sense Ride 2 shoes, Suunto 9 Baro, Maurten gels, SunGod Sierra sunglasses.
 
