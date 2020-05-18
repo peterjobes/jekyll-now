@@ -13,7 +13,7 @@ It can be hard to understand that someone can be doing long runs every week and 
 
 But here’s the thing. For all of us fitness is relative to where we are and how we’re performing. Our assessment of ourself may be exaggerated in one way or the other, like with anything in life, but that doesn’t mean our frustrations or concerns aren’t genuine. 
 
-As a self-critical introvert, I’m prone to seize on small things and dwell on them so they become proof of a failing. I can be in the middle of a twenty mile run, at a pace that’s okay for me, and still have to battle the thought that I’m unfit and should stop long distance running.
+As a classic introvert, I sometimes seize on small things and dwell on them so they become proof of a failing. I can be in the middle of a twenty mile run, at a pace that’s okay for me, and still have to battle the thought that I’m unfit and should stop long distance running.
 
 April was my [best month running wise](https://theunforgivingminute.run/april-runnotes/), I felt fitter and ran faster across every distance. I had plenty of runs that felt like floating, like the runner’s high had become a permanent thing. Yet we start May and most of last week felt like it’s all beyond me. At this point I should be able to just switch off, remember that running isn’t that important and crack on. That seems easier said than done though, or is that just me?
 
