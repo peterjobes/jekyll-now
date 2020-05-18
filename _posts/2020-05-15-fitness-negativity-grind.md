@@ -7,9 +7,9 @@ categories: [Training]
 tags: [Training, Fell and trail running]
 ---
 
-Sometimes, when I tell someone I’m worried about my fitness, they get this look as though I’m being sarcastic. There’s a pregnant pause while the wait for me to either take it back or deliver a punchline. 
+Sometimes, when I tell someone I’m worried about my fitness, they get this look as though I’m being sarcastic. There’s a pregnant pause while they wait for me to either take it back or deliver a punchline. 
 
-It can be hard to understand that someone can be doing long runs every week and also feel like they’re ready for the knackers yard. There's a thought that because you're a runner you must _feel_ fit, whatever that means, or an implication that it’s humble bragging if you have a complaint about fitness. 
+It can be hard to understand that someone can be doing long runs every week and also feel like they’re ready for the knacker's yard. There's a thought that because you're a runner you must _feel_ fit, whatever that means, or an implication that it’s humble bragging if you have a complaint about fitness.
 
 But here’s the thing. For all of us fitness is relative to where we are and how we’re performing. Our assessment of ourself may be exaggerated in one way or the other, like with anything in life, but that doesn’t mean our frustrations or concerns aren’t genuine. 
 
