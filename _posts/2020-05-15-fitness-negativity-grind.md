@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitness, negativity and grind
+title: Fitness, negativity and the grind
 image: thornley-woods-1.jpg
 alt: Running through Thornley Woods
 categories: [Training]
