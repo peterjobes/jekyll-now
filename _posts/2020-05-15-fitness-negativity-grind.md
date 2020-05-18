@@ -9,15 +9,13 @@ tags: [Training, Fell and trail running]
 
 Sometimes, when I tell someone I’m worried about my fitness, they get this look as though I’m being sarcastic. There’s a pregnant pause while the wait for me to either take it back or deliver a punchline. 
 
-It can be hard sometimes to understand that someone can be doing long runs every week and also feel like they’re ready for the knackers yard. Or there’s an implication that it’s humble bragging for someone who does distance running to whinge about fitness. 
-
-There’s a scene in the U.S sitcom, Friends, where Joey is telling Chandler about his problems (in this instance, two beautiful women love him). Chandler’s response is, _“My wallet's too small for my fifties, and my diamond shoes are too tight!“_
+It can be hard to understand that someone can be doing long runs every week and also feel like they’re ready for the knackers yard. There's a thought that because you're a runner you must _feel_ fit, whatever that means, or an implication that it’s humble bragging if you have a complaint about fitness. 
 
 But here’s the thing. For all of us fitness is relative to where we are and how we’re performing. Our assessment of ourself may be exaggerated in one way or the other, like with anything in life, but that doesn’t mean our frustrations or concerns aren’t genuine. 
 
-As a self-critical introvert, I’m prone to seize on small things and dwell on them so much they become proof of a failing. I can be in the middle of a twenty mile run, at a pace that’s okay for me, and still having to battle the thought that I’m unfit and should stop long distance running.
+As a self-critical introvert, I’m prone to seize on small things and dwell on them so they become proof of a failing. I can be in the middle of a twenty mile run, at a pace that’s okay for me, and still have to battle the thought that I’m unfit and should stop long distance running.
 
-April was my [best month running wise](https://theunforgivingminute.run/april-runnotes/), I felt fitter and ran faster across every distance. I had plenty of runs that felt like floating, like the runner’s high had become a permanent resident. Yet two weeks into May and the last few days have felt like it’s all beyond me. Fears of over training kick in, self critique, melancholy. At this point I should be able to just switch off, remember that running isn’t that important and crack on. That seems easier said than done though, or is that just me?
+April was my [best month running wise](https://theunforgivingminute.run/april-runnotes/), I felt fitter and ran faster across every distance. I had plenty of runs that felt like floating, like the runner’s high had become a permanent thing. Yet we start May and most of last week felt like it’s all beyond me. At this point I should be able to just switch off, remember that running isn’t that important and crack on. That seems easier said than done though, or is that just me?
 
 Here are a few things it’s helpful to remember:
 
@@ -27,15 +25,15 @@ Sometimes everything just seems to go our way. We get a tailwind at the right mo
 
 Equally, sometimes things just don’t add up. Our shoe is a bit to tight and we get blisters, the wind comes from every direction, the path ahead is harder than we thought — and that’s before last night’s dinner starts to make itself known in our gut.
 
-Truth is neither of those days represent us as runners. Our running isn’t defined by single days and a myriad of factors come into how we perform in any day, week, month or year.
+Truth is neither of those days represent our fittness level. We're not defined by single days and a myriad of factors come into how we perform in any day, week, month or year.
 
-This phrase reminds me that I’m not as good as my [Chevy time in 2019](https://theunforgivingminute.run/losing-the-plot-chevy-chase-2019/), but I’m not as bad as I felt most of this week either.
+This phrase reminds me that I’m not as good as my [Chevy time in 2019](https://theunforgivingminute.run/losing-the-plot-chevy-chase-2019/), but I’m not as bad as I felt most of last week either.
 
 ## Comparison is the thief of joy
 
-When ParkRun was my goal it was so easy to become unhappy because some guy at the front lapped me around the lake. Or because when my housemate told me I could be running a particular time I thought it was impossible because that was only for other runners.
+When ParkRun was my goal it was so easy to become unhappy because some guy at the front lapped me around the Saltwell Park lake. Or because when my housemate told me I could be running a particular time I thought it was impossible because that was only for other runners.
 
-Now, with racing cancelled, my goal in mind is [a long, hilly round in the Lakes](https://georgefisher.co.uk/pages/abrahams-tea-round). And I look at Ricky Lightfoot and can’t imagine how a regular human can [get round as quick as him](https://www.instagram.com/p/B9fD21UnaK7/). Or I watch [Judith Wyder run up Munros like they’re pancake flat](https://www.instagram.com/p/B3bdpO7naSs/). And some days that inspires me to push harder, to keep going. Other days I drag my carcass up a small hill and think it’s time to give up the dream.
+Now, with racing cancelled, my goal in mind is [a long, hilly round in the Lakes](https://georgefisher.co.uk/pages/abrahams-tea-round). And I look at Ricky Lightfoot and can’t imagine how a regular human can [get round as quick as him](https://www.instagram.com/p/B9fD21UnaK7/). Or I watch [Judith Wyder run up Munros like they’re pancake flat](https://www.instagram.com/p/B3bdpO7naSs/). Some days that inspires me to push harder, to keep going. Other days I drag my self up a small hill and think it’s time to give up the dream.
 
 Our goals aren’t the enemy, comparison is. Ground your goals in what the best you can expect from your body is, work hard, show yourself grace.  Unless you're the world champion, there’s  always someone quicker.
 
@@ -47,13 +45,13 @@ I don’t say that flippantly. I know for many, myself included, running is very
 
 Unless you’re a professional, your livelihood doesn’t depend on it and even if you are — there’s a lot of life beyond the glory days.
 
-Running’s a great servant but a poor master.
+Like many things in life: running’s a great servant but a poor master.
 
 ## Putting it into action
 
-Yesterday I took a half day off work and decided, at the last minute, to up my long run to twenty miles again. As I toiled in a hilly section of forest my internal monologue started in earnest; _“this is hard going, pal, why not cut it short? If this wee hill is making you tired forget those long days in the mountains. Your best is behind you.”_
+On Friday I took a half day off work and decided, at the last minute, to up my long run to twenty miles again. As I toiled in a hilly section of forest my internal monologue started in earnest; _“this is hard going, pal, why not cut it short? If this wee hill is making you tired forget those long days in the mountains. Your best is behind you.”_
 
-And so I kept going. I didn’t try and prove myself wrong by a sudden, Emil Zapotek style, burst of pace. I grafted onwards. As I came out of the forest I was greeted by a view so wonderful I was amazed not to stumble over a legion of landscape painters clogging the path. 
+And so I kept going. I didn’t try and prove myself wrong by a sudden, Emil Zapotek style, burst of pace. I grafted onwards. It was hard work, and the only answer was to be stubborn. As I came out of the forest I was greeted by a view so wonderful I was amazed not to stumble over a legion of landscape painters clogging the path. 
 
 I smiled, my composure returned, and I started to see and find the joy in the moment. It changed the feel of the whole run.
 
