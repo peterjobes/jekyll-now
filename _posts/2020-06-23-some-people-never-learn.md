@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Into the wild
+title: Some people never lear
 image: hedgehope-1.jpg
 alt: Summiting Hedgehope against a backdrop of cloud
 categories: [Training]
 tags: [Training, Fell and trail running]
 ---
 
->"The earth teaches us more about ourselves than all the books in the world, because it is resistant to us. Self-discovery comes when man measures himself against an obstacle."
->-Antoine de Saint-Exupéry
+*"The earth teaches us more about ourselves than all the books in the world, because it is resistant to us. Self-discovery comes when man measures himself against an obstacle."
+-Antoine de Saint-Exupéry*
 
 One of the things I love most about fell and trail running is the fact that we're running against challenges bigger than ourselves. 
 
