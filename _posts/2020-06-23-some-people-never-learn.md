@@ -19,6 +19,8 @@ A couple of weeks ago I had a wonderful first day back in the hills since lockdo
 
 Setting off up Cheviot again on Friday felt quite routine. These are familiar hills. A blanket of cloud had draped itself over the tops and, just a couple of miles in, I realised that my legs weren't in the mood to play. My calf was struggling and my head dropped on the steep climb off Scald Hill onto the top of Cheviot. Something wasn't right.
 
+>What I'd forgotten is that Comb Fell is the place dreams go to die.
+
 The plan was to join up Cheviot and Hedgehope via Comb Fell, rather than cutting across the valley floor. It's part of The [Cheviot Goat](https://cheviotgoat.com/) route – a challenge I often flirt with the idea of but have yet to sign up for. What I'd forgotten, however, is that Comb Fell is the place dreams go to die.
 
 Comb Fell isn't a hill, it's not a mountain, it's basically just a massive lump of sodden peat thrown at the end of the Harthope Valley. It's endless amounts of clag as far as the eye can see. Wading through it you wonder whether your next step will be up to your ankles or your knees.
@@ -32,6 +34,8 @@ I passed over the summit of Hedgehope and settled on an early finish with a jog 
 Crossing behind them I noticed that they were gathering, staring intently, before starting to make straight for me. I trudged on, watching the gap between us shorten, until I was close enough to the crags to make a sprint for more technical ground.
 
 Between me and the route down the valley stood the second half of the herd. Not today, bovines, not today. This run was going to go longer than planned. I tried to pick up the Chevy route but, faced with more cows, decided to bypass it by climbing a barbed wire fence.
+
+>Nature had decided to show me who was boss. It needn't have bothered, I already knew. 
 
 It was slow business picking my way across tussocks, trying to avoid the bogs and streams, and that was before I ran into a snake. I'm pretty sure they don't often bother people, but I'd rather not find out. By this time the sound of gun shots is echoing in my ears and ground nesting birds are fleeing skyward with almost every step.
 
