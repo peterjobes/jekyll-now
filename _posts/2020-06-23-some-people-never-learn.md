@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some people never lear
+title: Some people never learn
 image: hedgehope-1.jpg
 alt: Summiting Hedgehope against a backdrop of cloud
 categories: [Training]
@@ -18,13 +18,13 @@ A couple of weeks ago I had a wonderful first day back in the hills since lockdo
 
 Setting off up Cheviot again on Friday felt quite routine. These are familiar hills. A blanket of cloud had draped itself over the tops and, just a couple of miles in, I realised that my legs weren't in the mood to play. My calf was struggling and my head dropped on the steep climb off Scald Hill onto the top of Cheviot. Something wasn't right.
 
-![The view up Harthope Valley from Carey Burn]({{ site.baseurl }}/images/hedgehope-2.jpg){:class="editorial-highlight-center"} *The view up Harthope Valley from Carey Burn*
-
 The plan was to join up Cheviot and Hedgehope via Comb Fell, rather than cutting across the valley floor. It's part of The [Cheviot Goat](https://cheviotgoat.com/) route – a challenge I often flirt with the idea of but have yet to sign up for. What I'd forgotten, however, is that Comb Fell is the place dreams go to die.
 
 Comb Fell isn't a hill, it's not a mountain, it's basically just a massive lump of sodden peat thrown at the end of the Harthope Valley. It's endless amounts of clag as far as the eye can see. Wading through it you wonder whether your next step will be up to your ankles or your knees.
 
 I hated it, cursed my own stupidity, and swore that I would never do the Goat. If Comb Fell is that miserable in summer, it must be even bleaker on a midwinter's night, twelve or so hours into a race.
+
+![The view up Harthope Valley from Carey Burn]({{ site.baseurl }}/images/hedgehope-2.jpg){:class="editorial-highlight-center"} *The view up Harthope Valley from Carey Burn*
 
 I passed over the summit of Hedgehope and settled on an early finish with a jog down into the valley to the car. An aggressive herd of cows, however, didn't get the memo.
 
