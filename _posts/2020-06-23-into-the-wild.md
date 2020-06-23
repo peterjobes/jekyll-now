@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Into the wild
-image: thornley-woods-1.jpg
+image: hedgehope-1.jpg
 alt: Summiting Hedgehope against a backdrop of cloud
 categories: [Training]
 tags: [Training, Fell and trail running]
 ---
 
 >"The earth teaches us more about ourselves than all the books in the world, because it is resistant to us. Self-discovery comes when man measures himself against an obstacle."
->- Antoine de Saint-Exupéry
+>-Antoine de Saint-Exupéry
 
 One of the things I love most about fell and trail running is the fact that we're running against challenges bigger than ourselves. 
 
@@ -17,6 +17,8 @@ On the road there's a constant drive to make every second count, to push the pac
 A couple of weeks ago I had a wonderful first day back in the hills since lockdown. Twenty miles, pinging along the border ridge from Cheviot to Windy Gyle, back over Auchope Cairn and down the valley. After months without hills it felt like blissful freedom. 
 
 Setting off up Cheviot again on Friday felt quite routine. These are familiar hills. A blanket of cloud had draped itself over the tops and, just a couple of miles in, I realised that my legs weren't in the mood to play. My calf was struggling and my head dropped on the steep climb off Scald Hill onto the top of Cheviot. Something wasn't right.
+
+![The view up Harthope Valley from Carey Burn]({{ site.baseurl }}/images/hedgehope-2.jpg){:class="editorial-highlight-center"} *The view up Harthope Valley from Carey Burn*
 
 The plan was to join up Cheviot and Hedgehope via Comb Fell, rather than cutting across the valley floor. It's part of The [Cheviot Goat](https://cheviotgoat.com/) route – a challenge I often flirt with the idea of but have yet to sign up for. What I'd forgotten, however, is that Comb Fell is the place dreams go to die.
 
