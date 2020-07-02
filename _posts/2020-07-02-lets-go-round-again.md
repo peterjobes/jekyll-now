@@ -37,7 +37,7 @@ This is roughly the half way mark, and I was about four and a half hours in. Ban
 
 The climb onto Whiteless Pike is straightforward enough and I tried, and failed, to stop for a snack. I still can't seem to eat much running, so had to make do with a few Haribo. 
 
-At the top of Whiteless Edge, I make the days only detour – an extra 400 metres to Wandope. The views are excellent across Sail Beck and onto Knott Rigg, but more importantly it's another Wainwright bagged.
+At the top of Whiteless Edge, I make the day's only detour – an extra 400 metres to Wandope. The views are excellent across Sail Beck and onto Knott Rigg, but more importantly it's another Wainwright bagged.
 
 That marks the last of the three big climbs that define the round, but my watch is showing another 1000m of ascent to go. The second half wasn't shaping up to be the picnic I'd planned.
 
@@ -60,21 +60,23 @@ I couldn't find a good line to Barrow Door so it's a tentative trot down to the 
 
 Then it's onto the last climb of the day. Lowly Barrow never felt so tall. I was in the pain cave by now, but it doesn't take too long. The downhill was still hard work with the sore quads but then I picked up the pace once I hit Braithwaite.
 
-As I ran through Portinscale, I started to feel some emotion. The giants of the sport have all ran this way at the end of far greater achievements. Joss, Jasmine, Billy, Nicky, Kilian. 
+As I ran through Portinscale, I started to feel some emotion. The giants of the sport have all ran this way at the end of their legendary achievements: Joss, Jasmine, Billy, Nicky, Kilian. 
 
 >Portinscale to Keswick is the taste of success, the elated pay off for hours of grind.
 
-Portinscale to Keswick is the taste of success, the elated pay off for hours of grind. My fist pumps the air as I cross the footbridge and start to push. I'm going to finish strong. 
+Portinscale to Keswick is the taste of success, the elated pay off for hours of grind. My fist pumps the air as I cross the footbridge and start to push, determined to finish strong. 
 
-By the time I hit the bottom of the main street I'm going as quick as I was when I left town on fresh legs hours before. I sprint to the doors of Fisher's, touch the green paintwork, and stop the clock.
+By the time I hit the bottom of the main street adrenaline has pushed the pace up as quick as when I left town on fresh legs nine hours before. I sprint to the doors of Fisher's, touch the green paintwork, and stop the clock.
 
 ![A long day in the fells]({{ site.baseurl }}/images/atr-2020-5.jpg){:class="editorial-highlight-center"}
 *A long day in the fells*
 
-I went into the day wanting to know if I could keep going over a long endurance run. Thirty miles and 3,500 metres of elevation make it a real challenge. I didn't make my target time of 8:30, but ended up very pleased with 9:16. It was a tough day out and I gave it my best effort.
+I went into the day wanting to know if I could keep going over a long endurance run. I didn't make my target time of 8:30, but ended up really pleased with 9:16. It was a tough day out and I enjoyed it.
 
-Abraham's Tea Round is a great place to start for people, like me, looking to explore endurance fell/mountain running. It's a worthy adversary that rewards your efforts with some of the finest views in England.
+Abraham's Tea Round is a great place to start for people, like me, looking to explore endurance fell/mountain running. Thirty miles and 3,500 metres of elevation make it a real challenge and it rewards your efforts with some of the finest views in England.
 
-I'm excited for some of the other challenges that now feel that little bit more possible. The green light on the dock still flickers on. That's all talk for another day though, once I'm able to walk down stairs pain-free again.
+I'm excited for some of the other challenges that now feel that little bit more possible. The green light on the dock flickers on. That's all talk for another day though, once I'm able to walk down stairs pain-free again.
+
+---
 
 **Gear:** Salomon S/Lab Ultra 2 shoes, S-Lab Sense Set 8 trail vest and Sense Pro tee, Suunto 9 Baro, Maurten gels
