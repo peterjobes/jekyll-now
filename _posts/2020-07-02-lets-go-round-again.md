@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Let's Go Round Again
-image: atr-2020-1.jpg
-alt: Catbells, viewed across Derwent Water on a cloudy day
+image: atr-2020-3.jpg
+alt: The view from Causey Pike
 categories: [Adventures]
 tags: [Adventures, Lake District, Fell and trail running]
 ---
@@ -15,11 +15,14 @@ A couple of hours later and I'm standing outside the doors of George Fisher, rea
 
 The conditions are perfect running out of Keswick, through Portinscale, to Cat Bells. It doesn't take long to get to the summit and the day's started well.
 
+![Derwentwater from the Summit of Cat Bells]({{ site.baseurl }}/images/atr-2020-1.jpg){:class="editorial-highlight-center"}
+*Derwentwater from the Summit of Cat Bells*
+
 My mistake last year was taking the Maiden Moor ridge up and over Dale Head and Hindscarth. It added needless miles and elevation. This year I'd settled on taking the optimal route. I drop into Newlands Valley and start the climb onto Robinson.
 
 The Newlands Valley is breathtaking. It's a long slog up Robinson, but you're immersed in all the glory of the fells. I'm breathless with wonder. Or breathless from the false summits and light scrambling. One of the two.
 
-From the summit it's a steep descent following the fence line to Buttermer. It was damp and slippy and didn't give much opportunity to gain speed until it flattened out at Dalegarth. 
+From the summit it's a steep descent following the fence line to Buttermere. It was damp and slippy and didn't give much opportunity to gain speed until it flattened out at Dalegarth. 
 
 Next was the moment of truth. High Stile. The old adversary. I paused to refill my soft flasks in the cool waters of Comb Beck and then got my head down and set a steady pace. This is where I came unstuck last year and the climb onto the cloud draped summit was slow and hard. It's rocky and steep and little fun, but summiting with my will to go on intact felt like a victory.
 
@@ -31,7 +34,10 @@ The climb onto Whiteless Pike is straightforward enough and I tried to stop at t
 
 At the top of Whiteless Edge, I make the days only detour – an extra 400 metres to bag Wandope. The views are excellent across Sail Beck and onto Knott Rigg. 
 
-That marks the last of the three big climbs that define the round, but my watch is showing another 1000m of ascent to go. The second half wasn't shaping up to be the picnic I'd planned. 
+That marks the last of the three big climbs that define the round, but my watch is showing another 1000m of ascent to go. The second half wasn't shaping up to be the picnic I'd planned.
+
+![Newlands Valley, showing off]({{ site.baseurl }}/images/atr-2020-2.jpg){:class="editorial-highlight-right"}
+*Newlands Valley, showing off*
 
 I stop yet again to fill up the flasks. I drank four and a half litres on the run so refilling on the go was indispensable. I try to go for fast flowing, high up, and somewhere I can see enough upstream to check there's no dead animals. Nothing tastes as good as fresh, cold, water on a hot day.
 
@@ -51,8 +57,13 @@ As I ran through Portinscale, I started to feel some emotion. The giants of the 
 
 Portinscale to Keswick is the taste of success, the elated pay off for hours of grind. My fist pumps the air as I cross the footbridge and start to push. I'm going to finish strong. By the time I hit the bottom of the main street I'm at my fastest pace of the day. I sprint to the doors of Fisher's, touch the green paintwork, and stop the clock.
 
+![A long day in the fells]({{ site.baseurl }}/images/atr-2020-5.jpg){:class="editorial-highlight-center"}
+*A long day in the fells*
+
 I went into the day wanting to know if I could keep going over a long challenge. At thirty miles there's people who'd argue it's not an Ultra, but 3,500 metres of elevation make it a real challenge. I didn't make my target time of 8:30, but ended up pleased with 9:16. It was a tough day out and I gave it my best, and that's all we have at the end of the day.
 
 Abraham's Tea Round is a great place to start for people, like me, looking to explore endurance running. It's a worthy adversary that rewards your efforts with some of the finest views in England.
 
 I'm excited for some of the other challenges that now feel that little bit more possible. The green light on the dock still flickers on. That's all talk for another day though, once I'm able to walk down stairs pain-free again.
+
+**Gear:** Salomon S/Lab Ultra 2 shoes, S-Lab Sense Set 8 trail vest and Sense Pro tee, Suunto 9 Baro, Maurten gels
