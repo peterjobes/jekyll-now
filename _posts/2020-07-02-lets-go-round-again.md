@@ -15,27 +15,30 @@ A couple of hours later and I'm standing outside the doors of [George Fisher](ht
 
 The conditions are perfect running out of Keswick, through Portinscale, to Cat Bells. It doesn't take long to get to the summit and the day's started well.
 
-My [mistake last year](https://theunforgivingminute.run/tested-on-the-fells/) was taking the Maiden Moor ridge up and over Dale Head and Hindscarth. It added needless miles and elevation. This year I'd settled on taking the optimal route. I drop into the Valley and start the climb onto Robinson.
-
 ![Derwentwater from the Summit of Cat Bells]({{ site.baseurl }}/images/atr-2020-1.jpg){:class="editorial-highlight-center"}
 *Derwentwater from the Summit of Cat Bells*
 
+My [mistake last year](https://theunforgivingminute.run/tested-on-the-fells/) was taking the Maiden Moor ridge up and over Dale Head and Hindscarth. It added needless miles and elevation. This year I'd settled on taking the optimal route. I drop into the Valley and start the climb onto Robinson.
+
 The Newlands Valley is breathtaking. It's a long slog up Robinson, but you're immersed in all the glory of the fells. I'm breathless with wonder. Or breathless from the false summits and light scrambling. One of the two.
+
+![Newlands Valley, showing off]({{ site.baseurl }}/images/atr-2020-2.jpg){:class="editorial-highlight-center"}
+*Newlands Valley, showing off*
 
 From the summit it's a steep descent following the fence line to Buttermere. It was damp and slippy and didn't give much opportunity to gain speed until it flattened out at Dalegarth. 
 
->This is where I came unstuck last year and the climb onto the cloud draped summit felt slow and hard work
-
 Next was the moment of truth. High Stile. The old adversary. I paused to refill my soft flasks in the cool waters of Comb Beck and then got my head down and set a steady pace. This is where I came unstuck last year and the climb onto the cloud draped summit felt slow and hard work. It's rocky and steep and little fun, but summiting with my will to go on intact felt like a victory.
+
+>This is where I came unstuck last year and the climb onto the cloud draped summit felt slow and hard work
 
 From there it's a dash across to Red Pike and a brief chat to some runners out on a Frog Graham recce. I've not mastered the loose stone descent to Bleaberry Tarn, so I had the brakes on a bit coming off the summit. After another fill up in Sour Milk Gill it's time for the slippy stone slabs down to Buttermere.
 
 This is roughly the half way mark, and I was about four and a half hours in. Bang on target, but I was aiming for a quicker second half so the challenge was still to come.
 
-![Newlands Valley, showing off]({{ site.baseurl }}/images/atr-2020-2.jpg){:class="editorial-highlight-center"}
-*Newlands Valley, showing off*
-
 The climb onto Whiteless Pike is straightforward enough and I tried, and failed, to stop for a snack. I still can't seem to eat much running, so had to make do with a few Haribo. 
+
+![Wandope, the only unneccessary diversion of the day]({{ site.baseurl }}/images/atr-2020-6.jpg){:class="editorial-highlight-center"}
+*Wandope, the only unneccessary diversion of the day*
 
 At the top of Whiteless Edge, I make the day's only detour – an extra 400 metres to Wandope. The views are excellent across Sail Beck and onto Knott Rigg, but more importantly it's another Wainwright bagged.
 
@@ -60,7 +63,7 @@ I couldn't find a good line to Barrow Door so it's a tentative trot down to the 
 
 Then it's onto the last climb of the day. Lowly Barrow never felt so tall. I was in the pain cave by now, but it doesn't take too long. The downhill was still hard work with the sore quads but then I picked up the pace once I hit Braithwaite.
 
-As I ran through Portinscale, I started to feel some emotion. The giants of the sport have all ran this way at the end of their legendary achievements: Joss, Jasmine, Billy, Nicky, Kilian. 
+As I ran through Portinscale, I started to feel some emotion. The giants of the sport have all ran this way at the end of their legendary achievements on the Bob Graham. You run this stretch in the footsteps of Joss, Jasmine, Billy, Nicky, Kilian. 
 
 >Portinscale to Keswick is the taste of success, the elated pay off for hours of grind.
 
@@ -71,7 +74,7 @@ By the time I hit the bottom of the main street adrenaline has pushed the pace u
 ![A long day in the fells]({{ site.baseurl }}/images/atr-2020-5.jpg){:class="editorial-highlight-center"}
 *A long day in the fells*
 
-I went into the day wanting to know if I could keep going over a long endurance run. I didn't make my target time of 8:30, but ended up really pleased with 9:16. It was a tough day out and I enjoyed it. Less stopping to soak in the views would have shaved of some minutes, but alongside that some of the joy. There's no point in being up there and not taking the time to look around.
+I went into the day wanting to know if I could keep going over a long endurance run. I didn't make my target time of 8:30, but ended up really pleased with 9:16. It was a tough day out and I enjoyed it. Less stopping to soak in the views might have shaved off some minutes, but also some of the joy. There's no point in being up there and not taking the time to look around.
 
 Abraham's Tea Round is a great place to start for people, like me, looking to explore endurance fell/mountain running. Thirty miles and 3,500 metres of elevation make it a real challenge and it rewards your efforts with some of the finest views in England.
 
