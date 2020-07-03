@@ -35,7 +35,7 @@ From there it's a dash across to Red Pike and a brief chat to some runners out o
 
 This is roughly the half way mark, and I was about four and a half hours in. Bang on target, but I was aiming for a quicker second half so the challenge was still to come.
 
-The climb onto Whiteless Pike is straightforward enough and I tried, and failed, to stop for a snack. I still can't seem to eat much running, so had to make do with a few Haribo. 
+The climb onto Whiteless Pike is straightforward enough. I tried and failed, to stop for a snack – just can't seem to eat much running, so had to make do with a few Haribo.
 
 ![Wandope, the only unneccessary diversion of the day]({{ site.baseurl }}/images/atr-2020-6.jpg){:class="editorial-highlight-center"}
 *Wandope, the only unneccessary diversion of the day*
