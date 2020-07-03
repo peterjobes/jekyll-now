@@ -74,7 +74,7 @@ By the time I hit the bottom of the main street adrenaline has pushed the pace u
 ![A long day in the fells]({{ site.baseurl }}/images/atr-2020-5.jpg){:class="editorial-highlight-center"}
 *A long day in the fells*
 
-I went into the day wanting to know if I could keep going over a long endurance run. I didn't make my target time of 8:30, but ended up really pleased with 9:16. It was a tough day out and I enjoyed it. Less stopping to soak in the views might have shaved off some minutes, but also some of the joy. There's no point in being up there and not taking the time to look around.
+I went into the day wanting to know if I could keep going over a long endurance run. I didn't make my target time of 8:30, but ended up really pleased with 9:16. It was a tough day out and I enjoyed it. Less stopping to soak in the views might have shaved off some minutes, but would also have stole some of the joy. There's no point in being up there and not taking the time to look around.
 
 Abraham's Tea Round is a great place to start for people, like me, looking to explore endurance fell/mountain running. Thirty miles and 3,500 metres of elevation make it a real challenge and it rewards your efforts with some of the finest views in England.
 
